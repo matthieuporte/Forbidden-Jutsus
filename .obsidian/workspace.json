@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/Graphs.md",
+                "file": "Maths/Calculus/Differential Equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algo/Graphs.md",
+                "file": "Maths/Calculus/Differential Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algo/Graphs.md",
+                "file": "Maths/Calculus/Differential Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algo/Graphs.md"
+                "file": "Maths/Calculus/Differential Equations.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
+    "Maths/Arithmetic.md",
+    "Maths/Calculus/Integration.md",
+    "Cyber/0 - root.md",
+    "Algo/Graphs.md",
     "Images/arcs_graphes.png",
     "Images/Untitled.png",
     "Images/graphes1.jpg",
@@ -162,7 +166,6 @@
     "Linux/Emacs.md",
     "Linux/Arch/Printing.md",
     "Linux/LFS/Install.md",
-    "Cyber/0 - root.md",
     "Cyber/OverTheWire/0 - General stuff.md",
     "Cyber/Untitled",
     "Cyber/OverTheWire/Bandit.md",
@@ -172,7 +175,6 @@
     "Programming/Printf.md",
     "Physique/Quantum.md",
     "Linux/Arch/Install.md",
-    "Algo/Graphs.md",
     "Cyber/OverTheWire",
     "Algo/Untitled",
     "Maths/Calculus/Basic relations.md",
@@ -187,14 +189,12 @@
     "Maths/Linear Algebra/Linear maps.md",
     "Maths/Linear Algebra/Vector Spaces.md",
     "Maths/Calculus/Differential Equations.md",
-    "EPITA/Maths/Linear Algebra.md",
     "Untitled.canvas",
     "Images/7dim.png",
     "Images/maxresdefault.jpg",
     "Images/2023-02-01-222315_397x201_scrot.png",
     "Images/2022-10-11-094014_341x293_scrot.png",
     "Images/multiples_d_une_unite_de_mesure.png",
-    "Images/mandelbrot.png",
     "Untitled 1.canvas"
   ]
 }
