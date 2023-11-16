@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber/OverTheWire/Bandit.md",
+                "file": "Cyber/OverTheWire/0 - General stuff.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber/OverTheWire/Bandit.md",
+                "file": "Cyber/OverTheWire/0 - General stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber/OverTheWire/Bandit.md",
+                "file": "Cyber/OverTheWire/0 - General stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber/OverTheWire/Bandit.md"
+                "file": "Cyber/OverTheWire/0 - General stuff.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
-    "Programming/C.md",
     "Cyber/OverTheWire/Bandit.md",
+    "Cyber/OverTheWire/Leviathan.md",
+    "Programming/C.md",
     "Cyber/OverTheWire/0 - General stuff.md",
     "Linux/Dictionary.md",
     "README.md",
@@ -183,7 +184,6 @@
     "Maths/Probabilities.md",
     "Maths/Complex numbers.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Untitled.canvas",
     "Images/7dim.png",
     "Images/maxresdefault.jpg",
