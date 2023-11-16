@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C.md",
+                "file": "Cyber/OverTheWire/Bandit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C.md",
+                "file": "Cyber/OverTheWire/Bandit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/C.md",
+                "file": "Cyber/OverTheWire/Bandit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/C.md"
+                "file": "Cyber/OverTheWire/Bandit.md"
               }
             }
           }
@@ -148,13 +148,15 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
-    "Programming/Printf.md",
     "Programming/C.md",
+    "Cyber/OverTheWire/Bandit.md",
+    "Cyber/OverTheWire/0 - General stuff.md",
+    "Linux/Dictionary.md",
     "README.md",
+    "Programming/Printf.md",
     "Physique/Quantum.md",
     "Linux/LFS/Install.md",
     "Linux/Arch/Install.md",
-    "Cyber/OverTheWire/Bandit.md",
     "Algo/Graphs.md",
     "Cyber/OverTheWire",
     "Algo/Untitled",
@@ -182,8 +184,6 @@
     "Maths/Complex numbers.md",
     "Untitled 1.md",
     "Untitled.md",
-    "EPITA/Untitled.md",
-    "Epita/Linux/Unixporn/bashrc.md",
     "Untitled.canvas",
     "Images/7dim.png",
     "Images/maxresdefault.jpg",
