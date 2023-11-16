@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber/OverTheWire/0 - General stuff.md",
+                "file": "Programming/Arduino.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber/OverTheWire/0 - General stuff.md",
+                "file": "Programming/Arduino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber/OverTheWire/0 - General stuff.md",
+                "file": "Programming/Arduino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber/OverTheWire/0 - General stuff.md"
+                "file": "Programming/Arduino.md"
               }
             }
           }
@@ -148,15 +148,26 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
+    "Images/Arduino.png",
+    "Images/Untitled.png",
+    "Images",
+    "Linux/Dictionary.md",
+    "Programming/Arduino.md",
+    "Programming/Assembly.md",
+    "Linux/Vim.md",
+    "Linux/Arch/System.md",
+    "Linux/Emacs.md",
+    "Linux/Arch/Printing.md",
+    "Linux/LFS/Install.md",
+    "Cyber/0 - root.md",
+    "Cyber/OverTheWire/0 - General stuff.md",
+    "Cyber/Untitled",
     "Cyber/OverTheWire/Bandit.md",
     "Cyber/OverTheWire/Leviathan.md",
     "Programming/C.md",
-    "Cyber/OverTheWire/0 - General stuff.md",
-    "Linux/Dictionary.md",
     "README.md",
     "Programming/Printf.md",
     "Physique/Quantum.md",
-    "Linux/LFS/Install.md",
     "Linux/Arch/Install.md",
     "Algo/Graphs.md",
     "Cyber/OverTheWire",
@@ -168,22 +179,12 @@
     "Linux/LFS",
     "Linux/Arch",
     "Linux",
-    "EPITA/yber",
-    "Physique",
     "Maths/Trigonometry.md",
     "Maths/Linear Algebra/Matrices.md",
     "Maths/Linear Algebra/Linear maps.md",
     "Maths/Linear Algebra/Vector Spaces.md",
     "Maths/Calculus/Differential Equations.md",
     "EPITA/Maths/Linear Algebra.md",
-    "Maths/Calculus/Taylor Expansions.md",
-    "Maths/Calculus/Integration.md",
-    "EPITA/Maths/Calculus.md",
-    "Maths/Arithmetic.md",
-    "Maths/Series.md",
-    "Maths/Probabilities.md",
-    "Maths/Complex numbers.md",
-    "Untitled 1.md",
     "Untitled.canvas",
     "Images/7dim.png",
     "Images/maxresdefault.jpg",
@@ -194,7 +195,6 @@
     "Images/IMG_20221009_133328.jpg",
     "Images/IMG_20221003_171709.jpg",
     "Images/IMG_20221003_171623-01.jpeg",
-    "Images/1000008926.jpg",
     "Untitled 1.canvas"
   ]
 }
