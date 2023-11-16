@@ -11,8 +11,12 @@
             "id": "aa44af16b744a063",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming/C.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/C.md"
+              }
             }
           }
         ]
@@ -141,6 +149,14 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
+    "Physique/Quantum.md",
+    "Programming/C.md",
+    "Linux/LFS/Install.md",
+    "Linux/Arch/Install.md",
+    "Cyber/OverTheWire/Bandit.md",
+    "Algo/Graphs.md",
+    "Cyber/OverTheWire",
+    "Algo/Untitled",
     "README.md",
     "Maths/Calculus/Basic relations.md",
     "Programming",
@@ -151,13 +167,11 @@
     "Linux",
     "EPITA/yber",
     "Physique",
-    "Algo",
     "Maths/Trigonometry.md",
     "Maths/Linear Algebra/Matrices.md",
     "Maths/Linear Algebra/Linear maps.md",
     "Maths/Linear Algebra/Vector Spaces.md",
     "Maths/Calculus/Differential Equations.md",
-    "Maths/Linear Algebra",
     "EPITA/Maths/Linear Algebra.md",
     "Maths/Calculus/Taylor Expansions.md",
     "Maths/Calculus/Integration.md",
@@ -171,12 +185,6 @@
     "EPITA/Untitled.md",
     "Epita/Linux/Unixporn/bashrc.md",
     "Epita/Linux/Unixporn/Alacritty.yml.md",
-    "Epita/Linux/Internet/nmcli.md",
-    "Epita/Linux/Internet/Internet.md",
-    "Epita/Erasmus/Lativan/Meeting someone.md",
-    "Epita/Erasmus/Lativan/Lativan.md",
-    "Epita/Dictionary/Dictionary.md",
-    "Epita/Dictionary/GNU.md",
     "Untitled.canvas",
     "Images/7dim.png",
     "Images/maxresdefault.jpg",
