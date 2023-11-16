@@ -143,21 +143,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
-    "Physique/Quantum.md",
+    "Programming/Printf.md",
     "Programming/C.md",
+    "README.md",
+    "Physique/Quantum.md",
     "Linux/LFS/Install.md",
     "Linux/Arch/Install.md",
     "Cyber/OverTheWire/Bandit.md",
     "Algo/Graphs.md",
     "Cyber/OverTheWire",
     "Algo/Untitled",
-    "README.md",
     "Maths/Calculus/Basic relations.md",
     "Programming",
     "Linux/Untitled",
@@ -184,7 +184,6 @@
     "Untitled.md",
     "EPITA/Untitled.md",
     "Epita/Linux/Unixporn/bashrc.md",
-    "Epita/Linux/Unixporn/Alacritty.yml.md",
     "Untitled.canvas",
     "Images/7dim.png",
     "Images/maxresdefault.jpg",
