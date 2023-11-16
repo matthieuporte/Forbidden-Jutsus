@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "5cd0bb213171c07b",
+    "type": "split",
+    "children": [
+      {
+        "id": "46685c4ff621f98a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa44af16b744a063",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5dba76101d9850d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b34d9982569c931",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07706f0ecaa786b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91a5a4d1c061cbf6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddce4a60915f78a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5
+  },
+  "right": {
+    "id": "48f57293899c9200",
+    "type": "split",
+    "children": [
+      {
+        "id": "4defaa59a3ae1f97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "439f132e759fd1ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fda3262515e157ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ae4791b8bf28238",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a6717a89ae1fc62a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "aa44af16b744a063",
+  "lastOpenFiles": [
+    "README.md",
+    "Maths/Calculus/Basic relations.md",
+    "Programming",
+    "Linux/Untitled",
+    "Cyber",
+    "Linux/LFS",
+    "Linux/Arch",
+    "Linux",
+    "EPITA/yber",
+    "Physique",
+    "Algo",
+    "Maths/Trigonometry.md",
+    "Maths/Linear Algebra/Matrices.md",
+    "Maths/Linear Algebra/Linear maps.md",
+    "Maths/Linear Algebra/Vector Spaces.md",
+    "Maths/Calculus/Differential Equations.md",
+    "Maths/Linear Algebra",
+    "EPITA/Maths/Linear Algebra.md",
+    "Maths/Calculus/Taylor Expansions.md",
+    "Maths/Calculus/Integration.md",
+    "EPITA/Maths/Calculus.md",
+    "Maths/Arithmetic.md",
+    "Maths/Series.md",
+    "Maths/Probabilities.md",
+    "Maths/Complex numbers.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "EPITA/Untitled.md",
+    "Epita/Linux/Unixporn/bashrc.md",
+    "Epita/Linux/Unixporn/Alacritty.yml.md",
+    "Epita/Linux/Internet/nmcli.md",
+    "Epita/Linux/Internet/Internet.md",
+    "Epita/Erasmus/Lativan/Meeting someone.md",
+    "Epita/Erasmus/Lativan/Lativan.md",
+    "Epita/Dictionary/Dictionary.md",
+    "Epita/Dictionary/GNU.md",
+    "Untitled.canvas",
+    "Images/7dim.png",
+    "Images/maxresdefault.jpg",
+    "Images/2023-02-01-222315_397x201_scrot.png",
+    "Images/2022-10-11-094014_341x293_scrot.png",
+    "Images/multiples_d_une_unite_de_mesure.png",
+    "Images/mandelbrot.png",
+    "Images/IMG_20221009_133328.jpg",
+    "Images/IMG_20221003_171709.jpg",
+    "Images/IMG_20221003_171623-01.jpeg",
+    "Images/1000008926.jpg",
+    "Untitled 1.canvas"
+  ]
+}
