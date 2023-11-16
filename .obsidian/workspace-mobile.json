@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/Graphs.md",
-                "mode": "source",
+                "file": "Maths/Calculus/Differential Equations.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Algo/Graphs.md",
+            "file": "Maths/Calculus/Differential Equations.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Algo/Graphs.md",
+            "file": "Maths/Calculus/Differential Equations.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Algo/Graphs.md"
+            "file": "Maths/Calculus/Differential Equations.md"
           }
         }
       }
@@ -133,6 +133,39 @@
   },
   "active": "7650aafa44f40ba3",
   "lastOpenFiles": [
-    "README.md"
+    "Maths/Calculus/Integration.md",
+    "Physique/Quantum.md",
+    "Programming/Assembly.md",
+    "Algo/Graphs.md",
+    "Cyber/OverTheWire/Bandit.md",
+    "Cyber/OverTheWire/0 - General stuff.md",
+    "Cyber/0 - root.md",
+    "Programming/Arduino.md",
+    "Linux/Vim.md",
+    "Linux/Dictionary.md",
+    "Linux/Arch/System.md",
+    "Linux/Arch/Printing.md",
+    "Images/graphes1.jpg",
+    "Images/arcs_graphes.png",
+    "Images/Arduino.png",
+    "Cyber/OverTheWire/Leviathan.md",
+    "/Programming/Assembly.md",
+    "/Programming/Arduino.md",
+    "/Maths/Trigonometry.md",
+    "/Maths/Calculus/Integration.md",
+    "/Maths/Calculus/Differential Equations.md",
+    "/Maths/Arithmetic.md",
+    "/Linux/Vim.md",
+    "/Linux/LFS/Install.md",
+    "/Linux/Dictionary.md",
+    "/Linux/Arch/System.md",
+    "/Linux/Arch/Printing.md",
+    "/Images/graphes1.jpg",
+    "/Images/arcs_graphes.png",
+    "/Images/Arduino.png",
+    "/Cyber/OverTheWire/Leviathan.md",
+    "/Cyber/OverTheWire/Bandit.md",
+    "Images",
+    "/Images"
   ]
 }

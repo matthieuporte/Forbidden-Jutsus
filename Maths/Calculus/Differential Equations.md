@@ -27,15 +27,12 @@ To solve this equation you need to find an interval $I \subset J$ as big as poss
 
 $S$ is the set of function solutions of $(E)$ on the interval $I \subset J$
 
-💡
+>[!info]
+>To solve $(E)$ you need to
+>1. Find the set 
+>2. Find a specific solution $y_p$
+>3. $S = \{y_p + y_0, y_0 \in (S_0)\}$
 
-To solve $(E)$ you need to
-
-1. Find the set $S_0$
-2. Find a specific solution $y_p$
-3. $S = \{y_p + y_0, y_0 \in (S_0)\}$
-
-💡
 
 ### Steps of resolution
 ---
