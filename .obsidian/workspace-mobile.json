@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Vim.md",
+                "file": "Cyber/root.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Linux/Vim.md",
+            "file": "Cyber/root.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Linux/Vim.md",
+            "file": "Cyber/root.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Linux/Vim.md"
+            "file": "Cyber/root.md"
           }
         }
       }
@@ -168,8 +168,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02e5527e7a5365d7",
+  "active": "69cbb78bd999c663",
   "lastOpenFiles": [
+    "Physique/Basic formulas.md",
+    "Physique/Foundational Quantum Mechanics.md",
+    "Sandbox/test code.md",
+    "Programming/Code Golfing/C.md",
+    "Cyber/OverTheWire/Leviathan.md",
+    "Linux/etc/Dunnet.md",
+    "Linux/etc/Aide.md",
+    "/Sandbox/test code.md",
+    "/Programming/Code Golfing/C.md",
+    "/Linux/etc/Dunnet.md",
+    "/Linux/etc/Aide.md",
+    "/Linux/Arch/System.md",
+    "Programming/Code Golfing",
+    "Linux/etc",
+    "/Programming/Code Golfing",
+    "/Linux/etc",
+    "Images/2023-02-01-220709_734x226_scrot.png",
+    "Linux/Dictionary.md",
+    "Linux/Arch/System.md",
+    "Sandbox/PresTEmatthieu.md",
+    "Linux/Vim.md",
     "Linux/Git.md",
     "Linux/Low level/Sequential Logic.md",
     "Cyber/OverTheWire/Bandit.md",
@@ -179,8 +200,6 @@
     "Programming/Arduino.md",
     "Programming/Regex.md",
     "Algo/Graphs.md",
-    "Linux/Dictionary.md",
-    "Physique/Basic formulas.md",
     "Images/2023-02-07-131428_1048x587_scrot.png",
     "Images/2023-02-07-131323_1350x423_scrot.png",
     "Images/2023-02-07-131234_1360x404_scrot.png",
@@ -190,24 +209,9 @@
     "Images/2023-02-07-125845_1245x542_scrot.png",
     "Images/2023-02-07-125754_1062x247_scrot.png",
     "Images/2023-02-07-125729_1053x259_scrot.png",
-    "Images/2023-02-07-125553_329x242_scrot.png",
     "/README.md",
-    "/Programming/C.md",
-    "/Programming/Arduino.md",
-    "/Physique/Basic formulas.md",
-    "/Maths/Calculus/Taylor Expansions.md",
-    "/Linux/Low level/Sequential Logic.md",
-    "/Linux/Git.md",
     "Linux/Low level",
     "/Linux/Low level",
-    "Algo/Trees.md",
-    "Maths/Calculus/Differential Equations.md",
-    "Maths/Calculus/Integration.md",
-    "Maths/Calculus/Taylor Expansions.md",
-    "Maths/Linear Algebra/Matrices.md",
-    "Maths/Linear Algebra/Vector Spaces.md",
-    "Maths/Linear Algebra/Linear maps.md",
-    "Maths/Complex numbers.md",
     "Sandbox",
     "Images",
     "/Images"
