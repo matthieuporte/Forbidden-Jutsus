@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Series.md",
+                "file": "Physique/Foundational Quantum Mechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Series.md",
+                "file": "Physique/Foundational Quantum Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Series.md",
+                "file": "Physique/Foundational Quantum Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Series.md"
+                "file": "Physique/Foundational Quantum Mechanics.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
-    "Programming/C.md",
+    "ElectromagSpectrum.jpeg",
+    "Physique/Quantum.md",
+    "Physique/Foundational Quantum Mechanics.md",
     "Maths/Series.md",
+    "Programming/C.md",
     "Maths/Probabilities.md",
     "Maths/Calculus/Basic relations.md",
     "Maths/Calculus/Integration.md",
@@ -178,8 +181,6 @@
     "Cyber/OverTheWire/Leviathan.md",
     "README.md",
     "Programming/Printf.md",
-    "Physique/Quantum.md",
-    "Linux/Arch/Install.md",
     "Cyber/OverTheWire",
     "Algo/Untitled",
     "Programming",
@@ -188,7 +189,6 @@
     "Linux/LFS",
     "Linux/Arch",
     "Linux",
-    "Maths/Linear Algebra/Matrices.md",
     "Untitled.canvas",
     "Images/7dim.png",
     "Images/maxresdefault.jpg",
