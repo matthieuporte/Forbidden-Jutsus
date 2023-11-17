@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/etc/Aide.md",
-                "mode": "source",
+                "file": "Programming/Code Golfing/C.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/etc/Aide.md",
+                "file": "Programming/Code Golfing/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/etc/Aide.md",
+                "file": "Programming/Code Golfing/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/etc/Aide.md"
+                "file": "Programming/Code Golfing/C.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
-    "Linux/etc/Dunnet.md",
+    "Programming/C.md",
+    "Programming/Code Golfing/C.md",
     "Linux/etc/Aide.md",
+    "Programming/Code Golfing",
+    "Linux/etc/Dunnet.md",
     "Maths/Series.md",
     "Linux/etc",
     "Sandbox/PresTEmatthieu.md",
@@ -169,7 +172,6 @@
     "Images/2023-02-07-125754_1062x247_scrot.png",
     "Images/2023-02-07-125729_1053x259_scrot.png",
     "Algo/Trees.md",
-    "Programming/C.md",
     "Maths/Probabilities.md",
     "Maths/Calculus/Basic relations.md",
     "Maths/Calculus/Integration.md",
@@ -187,13 +189,11 @@
     "Linux/Arch/System.md",
     "Linux/Emacs.md",
     "Linux/Arch/Printing.md",
-    "Linux/LFS/Install.md",
     "Cyber/Untitled",
     "Cyber/OverTheWire",
     "Algo/Untitled",
     "Programming",
     "Linux/Untitled",
-    "Cyber",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
