@@ -30,6 +30,7 @@ _open a new file in a split panel_
 <#> find next occ of word
 <"+y> copy to main clipboard
 <"+p> paste from main clipboard
+<z+z> scrolls to the middle of the term
 ```
 
 ### NERDTree
