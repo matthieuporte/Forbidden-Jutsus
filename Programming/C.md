@@ -2,6 +2,16 @@
 > [!tip] 
 0 = false, anything else is true
 
+### type sizes
+
+|Type Name|32–bit Size|64–bit Size|
+|:--|:--|:--|
+|char|1 byte|1 byte|
+|short|2 bytes|2 bytes|
+|int|4 bytes|4 bytes|
+|long|4 bytes|8 bytes|
+|long long|8 bytes|8 bytes|
+
 ### Printf
 
 | size_t | %zu |

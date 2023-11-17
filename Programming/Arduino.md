@@ -14,6 +14,11 @@ void setup() {
   DDRB &= B11100111;        //Sets only D11 and D12 as INPUT
   DDRC &= B11110110;        //Sets only A0 and A3 as INPUT
 }
+
+void loop() { 
+	PORTD |= B00000100; //Sets only D2 to HIGH
+	PORTB &= !B00000100; //Sets only B2 to LOW (we use ! to invertt the byte)
+}
 ```
 
 [Port manipulation Tutorial](https://electronoobs.com/eng_arduino_tut130.php)
