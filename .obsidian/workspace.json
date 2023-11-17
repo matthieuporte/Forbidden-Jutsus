@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physique/Basic formulas.md",
+                "file": "Maths/Calculus/Taylor Expansions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Basic formulas.md",
+                "file": "Maths/Calculus/Taylor Expansions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique/Basic formulas.md",
+                "file": "Maths/Calculus/Taylor Expansions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physique/Basic formulas.md"
+                "file": "Maths/Calculus/Taylor Expansions.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
-    "Linux/Low level/Sequential Logic.md",
     "Physique/Basic formulas.md",
+    "Linux/Low level/Sequential Logic.md",
     "Physique/Quantum.md",
     "Images/2023-02-01-220440_225x163_scrot.png",
     "Programming/C.md",
