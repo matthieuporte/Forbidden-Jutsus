@@ -15,6 +15,20 @@ nmcli device wifi connect "$SSID" password "$PASSWORD"
 
 ## Bluetooth
 
+```shell
+systemctl start bluetooth.service  
+pulseaudio -k  
+bluetoothctl  
+-> power on  
+-> agent on  
+-> default-agent  
+-> scan on  
+-> pair [mac adress]  
+-> connect [mac adress]  
+```
+set device as active in pavucontrol
+
+
 ## Printing
 
 #### Show printing queue

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Code Golfing/C.md",
-                "mode": "preview",
+                "file": "Linux/Arch/System.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Code Golfing/C.md",
+                "file": "Linux/Arch/System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Code Golfing/C.md",
+                "file": "Linux/Arch/System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Code Golfing/C.md"
+                "file": "Linux/Arch/System.md"
               }
             }
           }
@@ -148,16 +148,20 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
-    "Programming/C.md",
-    "Programming/Code Golfing/C.md",
     "Linux/etc/Aide.md",
+    "Linux/Arch/Printing.md",
+    "Programming/Regex.md",
+    "Programming/Arduino.md",
+    "Programming/Code Golfing/C.md",
+    "Physique/Foundational Quantum Mechanics.md",
+    "README.md",
+    "Programming/C.md",
     "Programming/Code Golfing",
     "Linux/etc/Dunnet.md",
     "Maths/Series.md",
     "Linux/etc",
     "Sandbox/PresTEmatthieu.md",
     "Sandbox",
-    "Programming/Regex.md",
     "Linux/Low level/Sequential Logic.md",
     "Linux/Low level",
     "Linux/Git.md",
@@ -182,13 +186,9 @@
     "Maths/Arithmetic.md",
     "Cyber/0 - root.md",
     "Algo/Graphs.md",
-    "Programming/Arduino.md",
     "Images",
     "Linux/Dictionary.md",
     "Programming/Assembly.md",
-    "Linux/Arch/System.md",
-    "Linux/Emacs.md",
-    "Linux/Arch/Printing.md",
     "Cyber/Untitled",
     "Cyber/OverTheWire",
     "Algo/Untitled",
