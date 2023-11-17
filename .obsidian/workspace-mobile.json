@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber/0 - root.md",
+                "file": "Physique/Foundational Quantum Mechanics.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cyber/0 - root.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +114,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Cyber/0 - root.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Cyber/0 - root.md"
+            "file": "Physique/Quantum.md"
           }
         }
       }
@@ -144,8 +142,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf659929c67c7744",
+  "active": "69cbb78bd999c663",
   "lastOpenFiles": [
+    "Physique/Foundational Quantum Mechanics.md",
+    "Cyber/0 - root.md",
+    "Images/ElectromagSpectrum.jpeg",
+    "/Physique/Foundational Quantum Mechanics.md",
+    "/ElectromagSpectrum.jpeg",
     "README.md",
     "Programming/C.md",
     "Programming/Assembly.md",
@@ -172,9 +175,6 @@
     "Linux/Vim.md",
     "Linux/Arch/System.md",
     "Linux/Arch/Printing.md",
-    "Algo/Graphs.md",
-    "Cyber/OverTheWire/0 - General stuff.md",
-    "Cyber/0 - root.md",
     "Images/graphes1.jpg",
     "/Images/graphes1.jpg",
     "/Images/arcs_graphes.png",
