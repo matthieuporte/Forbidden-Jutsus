@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Low level/Sequential Logic.md",
+                "file": "Physique/Basic formulas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Low level/Sequential Logic.md",
+                "file": "Physique/Basic formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Low level/Sequential Logic.md",
+                "file": "Physique/Basic formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Low level/Sequential Logic.md"
+                "file": "Physique/Basic formulas.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
-    "Physique/Quantum.md",
     "Linux/Low level/Sequential Logic.md",
+    "Physique/Basic formulas.md",
+    "Physique/Quantum.md",
     "Images/2023-02-01-220440_225x163_scrot.png",
     "Programming/C.md",
     "Images/2023-02-07-131323_1350x423_scrot.png",
