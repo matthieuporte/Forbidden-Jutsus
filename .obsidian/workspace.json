@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Calculus/Taylor Expansions.md",
+                "file": "Linux/etc/Aide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Calculus/Taylor Expansions.md",
+                "file": "Linux/etc/Aide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Calculus/Taylor Expansions.md",
+                "file": "Linux/etc/Aide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Calculus/Taylor Expansions.md"
+                "file": "Linux/etc/Aide.md"
               }
             }
           }
@@ -148,40 +148,42 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
-    "Physique/Basic formulas.md",
+    "Linux/etc/Dunnet.md",
+    "Linux/etc/Aide.md",
+    "Maths/Series.md",
+    "Linux/etc",
+    "Sandbox/PresTEmatthieu.md",
+    "Sandbox",
+    "Programming/Regex.md",
     "Linux/Low level/Sequential Logic.md",
-    "Physique/Quantum.md",
-    "Images/2023-02-01-220440_225x163_scrot.png",
-    "Programming/C.md",
+    "Linux/Low level",
+    "Linux/Git.md",
+    "Images/ElectromagSpectrum.jpeg",
+    "Images/2023-02-07-131428_1048x587_scrot.png",
     "Images/2023-02-07-131323_1350x423_scrot.png",
     "Images/2023-02-07-131234_1360x404_scrot.png",
     "Images/2023-02-07-131140_1330x401_scrot.png",
-    "Images/2023-02-07-131428_1048x587_scrot.png",
     "Images/2023-02-07-131058_875x509_scrot.png",
     "Images/2023-02-07-130050_1047x264_scrot.png",
+    "Images/2023-02-07-125845_1245x542_scrot.png",
     "Images/2023-02-07-125754_1062x247_scrot.png",
     "Images/2023-02-07-125729_1053x259_scrot.png",
-    "Images/2023-02-07-125553_329x242_scrot.png",
-    "Linux/Archi/Sequential Logic a530f8962ee24df89b1a5b6ceb40ef75",
-    "Linux/Low level",
-    "Programming/Arduino.md",
-    "Maths/Calculus/Integration.md",
-    "Programming/Assembly.md",
-    "Linux/Git.md",
-    "Physique/Foundational Quantum Mechanics.md",
-    "Linux/Vim.md",
-    "README.md",
-    "Maths/Series.md",
+    "Algo/Trees.md",
+    "Programming/C.md",
     "Maths/Probabilities.md",
     "Maths/Calculus/Basic relations.md",
+    "Maths/Calculus/Integration.md",
+    "Linux/Vim.md",
     "Cyber/OverTheWire/Bandit.md",
     "Maths/Trigonometry.md",
     "Maths/Calculus/Differential Equations.md",
     "Maths/Arithmetic.md",
     "Cyber/0 - root.md",
     "Algo/Graphs.md",
+    "Programming/Arduino.md",
     "Images",
     "Linux/Dictionary.md",
+    "Programming/Assembly.md",
     "Linux/Arch/System.md",
     "Linux/Emacs.md",
     "Linux/Arch/Printing.md",
@@ -190,9 +192,8 @@
     "Cyber/OverTheWire",
     "Algo/Untitled",
     "Programming",
+    "Linux/Untitled",
     "Cyber",
-    "Linux/LFS",
-    "Linux/Arch",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
