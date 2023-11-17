@@ -32,7 +32,7 @@ O → anything else
 
 ---
 
-- $(U_n) \textit { is bounded } \iff \exists M \in \mathbb{R} : \forall n \in \mathbb{N} (|(U_n)| \leq M )$
+- $$(U_n) \textit { is bounded } \iff \exists M \in \mathbb{R} : \forall n \in \mathbb{N} (|(U_n)| \leq M )$$
     
     $$ [\impliedby] \space\space\space (|(U_n)| \leq M ) \\\implies (-M \leq (U_n) \leq M ) \implies (U_n) \textit { is bounded } $$
     
@@ -42,13 +42,13 @@ O → anything else
     
     $(U_n)$ converges means that
     
-    $\forall \epsilon > 0, \exists n_\epsilon \in \mathbb{N} : \forall n \in \mathbb{N} (n \geq n_\epsilon \implies |(U_n) - l| < \epsilon )$
+    $$\forall \epsilon > 0, \exists n_\epsilon \in \mathbb{N} : \forall n \in \mathbb{N} (n \geq n_\epsilon \implies |(U_n) - l| < \epsilon )$$
     
     The property is true for all $\epsilon > 0$ so it is true for 1 for instance.
     
     This means that there is a rank _n_ where $|(U_n) - l| < 1$
     
-    $\implies |(U_n)| = |(U_n) - l + l| \leq |(U_n) - l| + |l| < 1 + |l|$
+    $$\implies |(U_n)| = |(U_n) - l + l| \leq |(U_n) - l| + |l| < 1 + |l|$$
     
     This means that $(U_n)$ is bounded after the rank _n_
     
@@ -58,11 +58,11 @@ O → anything else
     
 - $\textit {Sandwich or squeeze theorem}$
     
-    $\text {Let }(U_n)\text {,} (V_n)\text { and } (W_n)\text { three real sequences such that :}$
+    $$\text {Let }(U_n)\text {,} (V_n)\text { and } (W_n)\text { three real sequences such that :}$$
     
     $\forall n \in \mathbb{N}, (U_n) \leq (V_n) \leq (W_n)$
     
-    $\text {If }(U_n) \text{ and } (W_n)\text { converges to the same limit } \textit {l} \implies (V_n) \text{ converges to } \textit {l}$
+    $$\text {If }(U_n) \text{ and } (W_n)\text { converges to the same limit } \textit {l} \implies (V_n) \text{ converges to } \textit {l}$$
     
 	
 > [!tip] 

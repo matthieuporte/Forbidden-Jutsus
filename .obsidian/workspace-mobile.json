@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf659929c67c7744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber/0 - root.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Cyber/0 - root.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Cyber/0 - root.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Cyber/0 - root.md"
           }
         }
       }
@@ -131,37 +144,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7650aafa44f40ba3",
+  "active": "cf659929c67c7744",
   "lastOpenFiles": [
-    "Programming/Arduino.md",
     "README.md",
-    "Maths/Arithmetic.md",
-    "Maths/Calculus/Differential Equations.md",
-    "Maths/Calculus/Integration.md",
-    "Physique/Quantum.md",
+    "Programming/C.md",
     "Programming/Assembly.md",
-    "Algo/Graphs.md",
+    "Programming/Arduino.md",
+    "Physique/Quantum.md",
+    "Maths/Trigonometry.md",
+    "Maths/Series.md",
+    "Maths/Complex numbers.md",
+    "Maths/Probabilities.md",
+    "Maths/Arithmetic.md",
+    "Maths/Calculus/Taylor Expansions.md",
+    "Maths/Calculus/Integration.md",
+    "Maths/Calculus/Differential Equations.md",
+    "Maths/Calculus/Basic relations.md",
+    "Sandbox/PresTEmatthieu.md",
+    "/Maths/Series.md",
+    "/Maths/Calculus/Basic relations.md",
+    "Sandbox",
     "Cyber/OverTheWire/Bandit.md",
-    "Cyber/OverTheWire/0 - General stuff.md",
-    "Cyber/0 - root.md",
-    "Linux/Vim.md",
+    "Images/Arduino.png",
+    "Images/arcs_graphes.png",
+    "Linux/LFS/Install.md",
     "Linux/Dictionary.md",
+    "Linux/Vim.md",
     "Linux/Arch/System.md",
     "Linux/Arch/Printing.md",
+    "Algo/Graphs.md",
+    "Cyber/OverTheWire/0 - General stuff.md",
+    "Cyber/0 - root.md",
     "Images/graphes1.jpg",
-    "Images/arcs_graphes.png",
-    "Images/Arduino.png",
-    "Cyber/OverTheWire/Leviathan.md",
-    "/Programming/Assembly.md",
-    "/Programming/Arduino.md",
-    "/Maths/Trigonometry.md",
-    "/Maths/Calculus/Integration.md",
-    "/Maths/Calculus/Differential Equations.md",
-    "/Maths/Arithmetic.md",
-    "/Linux/Vim.md",
-    "/Linux/LFS/Install.md",
-    "/Linux/Dictionary.md",
-    "/Linux/Arch/System.md",
     "/Images/graphes1.jpg",
     "/Images/arcs_graphes.png",
     "/Images/Arduino.png",
