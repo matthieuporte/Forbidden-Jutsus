@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physique/Foundational Quantum Mechanics.md",
+                "file": "Linux/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Foundational Quantum Mechanics.md",
+                "file": "Linux/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique/Foundational Quantum Mechanics.md",
+                "file": "Linux/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physique/Foundational Quantum Mechanics.md"
+                "file": "Linux/Git.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
+    "Physique/Foundational Quantum Mechanics.md",
+    "Linux/Git.md",
     "ElectromagSpectrum.jpeg",
     "Physique/Quantum.md",
-    "Physique/Foundational Quantum Mechanics.md",
     "Maths/Series.md",
     "Programming/C.md",
     "Maths/Probabilities.md",
@@ -194,7 +195,6 @@
     "Images/maxresdefault.jpg",
     "Images/2023-02-01-222315_397x201_scrot.png",
     "Images/2022-10-11-094014_341x293_scrot.png",
-    "Images/multiples_d_une_unite_de_mesure.png",
     "Untitled 1.canvas"
   ]
 }
