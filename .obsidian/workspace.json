@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Git.md",
+                "file": "Physique/Foundational Quantum Mechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Git.md",
+                "file": "Physique/Foundational Quantum Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Git.md",
+                "file": "Physique/Foundational Quantum Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Git.md"
+                "file": "Physique/Foundational Quantum Mechanics.md"
               }
             }
           }
@@ -148,16 +148,18 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
-    "Physique/Foundational Quantum Mechanics.md",
+    "Maths/Calculus/Integration.md",
+    "Linux/Vim.md",
+    "Programming/Arduino.md",
+    "README.md",
     "Linux/Git.md",
+    "Physique/Foundational Quantum Mechanics.md",
     "ElectromagSpectrum.jpeg",
     "Physique/Quantum.md",
     "Maths/Series.md",
     "Programming/C.md",
     "Maths/Probabilities.md",
     "Maths/Calculus/Basic relations.md",
-    "Maths/Calculus/Integration.md",
-    "Linux/Vim.md",
     "Cyber/OverTheWire/Bandit.md",
     "Maths/Trigonometry.md",
     "Maths/Calculus/Differential Equations.md",
@@ -168,7 +170,6 @@
     "Images/Untitled.png",
     "Images/graphes1.jpg",
     "Images/1000008926.jpg",
-    "Programming/Arduino.md",
     "Images/Arduino.png",
     "Images",
     "Linux/Dictionary.md",
@@ -180,7 +181,6 @@
     "Cyber/OverTheWire/0 - General stuff.md",
     "Cyber/Untitled",
     "Cyber/OverTheWire/Leviathan.md",
-    "README.md",
     "Programming/Printf.md",
     "Cyber/OverTheWire",
     "Algo/Untitled",
