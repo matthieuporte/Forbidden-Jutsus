@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Arch/System.md",
+                "file": "Sandbox/test code.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Arch/System.md",
+                "file": "Sandbox/test code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Arch/System.md",
+                "file": "Sandbox/test code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Arch/System.md"
+                "file": "Sandbox/test code.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
+    "Algo/Graphs.md",
+    "Sandbox/test code.md",
+    "Linux/etc/Dunnet.md",
+    "Linux/Arch/Install.md",
+    "Linux/Arch/System.md",
     "Linux/etc/Aide.md",
     "Linux/Arch/Printing.md",
     "Programming/Regex.md",
@@ -157,7 +162,6 @@
     "README.md",
     "Programming/C.md",
     "Programming/Code Golfing",
-    "Linux/etc/Dunnet.md",
     "Maths/Series.md",
     "Linux/etc",
     "Sandbox/PresTEmatthieu.md",
@@ -184,11 +188,7 @@
     "Maths/Trigonometry.md",
     "Maths/Calculus/Differential Equations.md",
     "Maths/Arithmetic.md",
-    "Cyber/0 - root.md",
-    "Algo/Graphs.md",
     "Images",
-    "Linux/Dictionary.md",
-    "Programming/Assembly.md",
     "Cyber/Untitled",
     "Cyber/OverTheWire",
     "Algo/Untitled",
