@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Calculus/Integration.md",
+                "file": "Maths/Series.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Calculus/Integration.md",
+                "file": "Maths/Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Calculus/Integration.md",
+                "file": "Maths/Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Calculus/Integration.md"
+                "file": "Maths/Series.md"
               }
             }
           }
@@ -148,12 +148,16 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
+    "Programming/C.md",
+    "Maths/Series.md",
+    "Maths/Probabilities.md",
+    "Maths/Calculus/Basic relations.md",
+    "Maths/Calculus/Integration.md",
     "Linux/Vim.md",
     "Cyber/OverTheWire/Bandit.md",
     "Maths/Trigonometry.md",
     "Maths/Calculus/Differential Equations.md",
     "Maths/Arithmetic.md",
-    "Maths/Calculus/Integration.md",
     "Cyber/0 - root.md",
     "Algo/Graphs.md",
     "Images/arcs_graphes.png",
@@ -172,14 +176,12 @@
     "Cyber/OverTheWire/0 - General stuff.md",
     "Cyber/Untitled",
     "Cyber/OverTheWire/Leviathan.md",
-    "Programming/C.md",
     "README.md",
     "Programming/Printf.md",
     "Physique/Quantum.md",
     "Linux/Arch/Install.md",
     "Cyber/OverTheWire",
     "Algo/Untitled",
-    "Maths/Calculus/Basic relations.md",
     "Programming",
     "Linux/Untitled",
     "Cyber",
@@ -187,8 +189,6 @@
     "Linux/Arch",
     "Linux",
     "Maths/Linear Algebra/Matrices.md",
-    "Maths/Linear Algebra/Linear maps.md",
-    "Maths/Linear Algebra/Vector Spaces.md",
     "Untitled.canvas",
     "Images/7dim.png",
     "Images/maxresdefault.jpg",
