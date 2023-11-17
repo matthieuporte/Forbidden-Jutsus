@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physique/Foundational Quantum Mechanics.md",
+                "file": "Linux/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Foundational Quantum Mechanics.md",
+                "file": "Linux/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique/Foundational Quantum Mechanics.md",
+                "file": "Linux/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physique/Foundational Quantum Mechanics.md"
+                "file": "Linux/Git.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
+    "Programming/Arduino.md",
+    "Physique/Foundational Quantum Mechanics.md",
     "Maths/Calculus/Integration.md",
     "Linux/Vim.md",
-    "Programming/Arduino.md",
     "README.md",
     "Linux/Git.md",
-    "Physique/Foundational Quantum Mechanics.md",
     "ElectromagSpectrum.jpeg",
     "Physique/Quantum.md",
     "Maths/Series.md",
