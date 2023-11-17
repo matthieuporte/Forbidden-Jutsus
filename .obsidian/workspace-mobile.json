@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/Trees.md",
+                "file": "Algo/Graphs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02e5527e7a5365d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Regex.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Algo/Trees.md",
+            "file": "Programming/Regex.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Algo/Trees.md",
+            "file": "Programming/Regex.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Algo/Trees.md"
+            "file": "Programming/Regex.md"
           }
         }
       }
@@ -156,10 +168,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b686d8f5eb08e63",
+  "active": "02e5527e7a5365d7",
   "lastOpenFiles": [
-    "Maths/Calculus/Differential Equations.md",
+    "Algo/Graphs.md",
+    "Programming/Regex.md",
+    "Linux/Dictionary.md",
+    "Programming/Arduino.md",
+    "Linux/Low level/Sequential Logic.md",
+    "Physique/Basic formulas.md",
+    "Linux/Git.md",
+    "Images/2023-02-07-131428_1048x587_scrot.png",
+    "Images/2023-02-07-131323_1350x423_scrot.png",
+    "Images/2023-02-07-131234_1360x404_scrot.png",
+    "Images/2023-02-07-131140_1330x401_scrot.png",
+    "Images/2023-02-07-131058_875x509_scrot.png",
+    "Images/2023-02-07-130050_1047x264_scrot.png",
+    "Images/2023-02-07-125845_1245x542_scrot.png",
+    "Images/2023-02-07-125754_1062x247_scrot.png",
+    "Images/2023-02-07-125729_1053x259_scrot.png",
+    "Images/2023-02-07-125553_329x242_scrot.png",
+    "/README.md",
+    "/Programming/C.md",
+    "/Programming/Arduino.md",
+    "/Physique/Basic formulas.md",
+    "/Maths/Calculus/Taylor Expansions.md",
+    "/Linux/Low level/Sequential Logic.md",
+    "/Linux/Git.md",
+    "Linux/Low level",
+    "/Linux/Low level",
     "Algo/Trees.md",
+    "Maths/Calculus/Differential Equations.md",
     "Maths/Calculus/Integration.md",
     "Maths/Calculus/Taylor Expansions.md",
     "Maths/Linear Algebra/Matrices.md",
@@ -170,29 +208,7 @@
     "Physique/Foundational Quantum Mechanics.md",
     "Maths/Arithmetic.md",
     "Physique/Quantum.md",
-    "Cyber/0 - root.md",
-    "Images/ElectromagSpectrum.jpeg",
-    "/Physique/Foundational Quantum Mechanics.md",
-    "/ElectromagSpectrum.jpeg",
-    "README.md",
-    "Programming/C.md",
-    "Programming/Assembly.md",
-    "Programming/Arduino.md",
-    "Maths/Trigonometry.md",
-    "Maths/Series.md",
-    "Maths/Calculus/Basic relations.md",
-    "Sandbox/PresTEmatthieu.md",
-    "/Maths/Series.md",
-    "/Maths/Calculus/Basic relations.md",
     "Sandbox",
-    "Cyber/OverTheWire/Bandit.md",
-    "Images/Arduino.png",
-    "Images/arcs_graphes.png",
-    "Linux/LFS/Install.md",
-    "Images/graphes1.jpg",
-    "/Images/graphes1.jpg",
-    "/Images/arcs_graphes.png",
-    "/Images/Arduino.png",
     "Images",
     "/Images"
   ]
