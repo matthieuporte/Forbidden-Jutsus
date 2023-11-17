@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Trigonometry.md",
+                "file": "Maths/Calculus/Integration.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 253.5
   },
   "right": {
     "id": "48f57293899c9200",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Trigonometry.md",
+                "file": "Maths/Calculus/Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Trigonometry.md",
+                "file": "Maths/Calculus/Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Trigonometry.md"
+                "file": "Maths/Calculus/Integration.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
+    "Linux/Vim.md",
+    "Cyber/OverTheWire/Bandit.md",
+    "Maths/Trigonometry.md",
     "Maths/Calculus/Differential Equations.md",
     "Maths/Arithmetic.md",
     "Maths/Calculus/Integration.md",
@@ -162,14 +165,12 @@
     "Images",
     "Linux/Dictionary.md",
     "Programming/Assembly.md",
-    "Linux/Vim.md",
     "Linux/Arch/System.md",
     "Linux/Emacs.md",
     "Linux/Arch/Printing.md",
     "Linux/LFS/Install.md",
     "Cyber/OverTheWire/0 - General stuff.md",
     "Cyber/Untitled",
-    "Cyber/OverTheWire/Bandit.md",
     "Cyber/OverTheWire/Leviathan.md",
     "Programming/C.md",
     "README.md",
@@ -185,7 +186,6 @@
     "Linux/LFS",
     "Linux/Arch",
     "Linux",
-    "Maths/Trigonometry.md",
     "Maths/Linear Algebra/Matrices.md",
     "Maths/Linear Algebra/Linear maps.md",
     "Maths/Linear Algebra/Vector Spaces.md",

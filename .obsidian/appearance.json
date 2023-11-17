@@ -1,4 +1,9 @@
 {
-  "accentColor": "",
-  "baseFontSize": 16
+  "accentColor": "#5e81ac",
+  "baseFontSize": 16,
+  "theme": "obsidian",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "big-math"
+  ]
 }
