@@ -2,7 +2,7 @@
   "accentColor": "#5e81ac",
   "baseFontSize": 16,
   "theme": "obsidian",
-  "cssTheme": "",
+  "cssTheme": "Obsidian Nord",
   "enabledCssSnippets": [
     "big-math"
   ]

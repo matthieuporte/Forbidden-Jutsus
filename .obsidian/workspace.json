@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C.md",
-                "mode": "preview",
+                "file": "Linux/Low level/Sequential Logic.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C.md",
+                "file": "Linux/Low level/Sequential Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/C.md",
+                "file": "Linux/Low level/Sequential Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/C.md"
+                "file": "Linux/Low level/Sequential Logic.md"
               }
             }
           }
@@ -148,16 +148,28 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
+    "Physique/Quantum.md",
+    "Linux/Low level/Sequential Logic.md",
+    "Images/2023-02-01-220440_225x163_scrot.png",
+    "Programming/C.md",
+    "Images/2023-02-07-131323_1350x423_scrot.png",
+    "Images/2023-02-07-131234_1360x404_scrot.png",
+    "Images/2023-02-07-131140_1330x401_scrot.png",
+    "Images/2023-02-07-131428_1048x587_scrot.png",
+    "Images/2023-02-07-131058_875x509_scrot.png",
+    "Images/2023-02-07-130050_1047x264_scrot.png",
+    "Images/2023-02-07-125754_1062x247_scrot.png",
+    "Images/2023-02-07-125729_1053x259_scrot.png",
+    "Images/2023-02-07-125553_329x242_scrot.png",
+    "Linux/Archi/Sequential Logic a530f8962ee24df89b1a5b6ceb40ef75",
+    "Linux/Low level",
     "Programming/Arduino.md",
     "Maths/Calculus/Integration.md",
     "Programming/Assembly.md",
-    "Programming/C.md",
     "Linux/Git.md",
     "Physique/Foundational Quantum Mechanics.md",
     "Linux/Vim.md",
     "README.md",
-    "ElectromagSpectrum.jpeg",
-    "Physique/Quantum.md",
     "Maths/Series.md",
     "Maths/Probabilities.md",
     "Maths/Calculus/Basic relations.md",
@@ -167,34 +179,20 @@
     "Maths/Arithmetic.md",
     "Cyber/0 - root.md",
     "Algo/Graphs.md",
-    "Images/arcs_graphes.png",
-    "Images/Untitled.png",
-    "Images/graphes1.jpg",
-    "Images/1000008926.jpg",
-    "Images/Arduino.png",
     "Images",
     "Linux/Dictionary.md",
     "Linux/Arch/System.md",
     "Linux/Emacs.md",
     "Linux/Arch/Printing.md",
     "Linux/LFS/Install.md",
-    "Cyber/OverTheWire/0 - General stuff.md",
     "Cyber/Untitled",
-    "Cyber/OverTheWire/Leviathan.md",
-    "Programming/Printf.md",
     "Cyber/OverTheWire",
     "Algo/Untitled",
     "Programming",
-    "Linux/Untitled",
     "Cyber",
     "Linux/LFS",
     "Linux/Arch",
-    "Linux",
     "Untitled.canvas",
-    "Images/7dim.png",
-    "Images/maxresdefault.jpg",
-    "Images/2023-02-01-222315_397x201_scrot.png",
-    "Images/2022-10-11-094014_341x293_scrot.png",
     "Untitled 1.canvas"
   ]
 }
