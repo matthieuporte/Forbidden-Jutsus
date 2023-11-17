@@ -1,3 +1,14 @@
+
+### Set Pins
+```cpp 
+  pinMode(2, INPUT); // set pin 2 as INPUT
+  pinMode(13, OUTPUT); // set pin 13 as OUTPUT
+
+  digitalWrite(13, HIGH); //writes 1 to the pin 13
+  digitalRead(13); //reads the value of the port 13
+```
+
+
 The Arduino UNO board is using the **ATmega328p-PU** microcontroller.
 ![[Arduino.png]]
 *port map of the ATmega328 microcontroller*

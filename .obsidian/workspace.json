@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Programming/Arduino.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -148,11 +148,12 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
-    "Programming/C.md",
+    "Maths/Calculus/Integration.md",
     "Programming/Arduino.md",
+    "Programming/Assembly.md",
+    "Programming/C.md",
     "Linux/Git.md",
     "Physique/Foundational Quantum Mechanics.md",
-    "Maths/Calculus/Integration.md",
     "Linux/Vim.md",
     "README.md",
     "ElectromagSpectrum.jpeg",
@@ -173,7 +174,6 @@
     "Images/Arduino.png",
     "Images",
     "Linux/Dictionary.md",
-    "Programming/Assembly.md",
     "Linux/Arch/System.md",
     "Linux/Emacs.md",
     "Linux/Arch/Printing.md",
