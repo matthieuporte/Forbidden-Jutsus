@@ -1,5 +1,7 @@
 
-
+This is a repo where we store all of our scientific (computer science) knowledge.
+We also write on experiments and issues we've had.
+It is made to be read in Obsidian. Feel free to clone and to use it !
 
 ### Sync on Mobile
 
