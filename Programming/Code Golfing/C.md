@@ -69,12 +69,12 @@ The comma operator can be used to execute multiple expressions in a single block
 
 ```c
 main(){
-int i = 0;
-int j = 1;
-if(1)
-	i=j,j+=1,printf("%d %d\n",i,j); // multiple statements are all executed
-else
-	printf("failed\n");
+	int i = 0;
+	int j = 1;
+	if(1)
+		i=j,j+=1,printf("%d %d\n",i,j); // multiple statements are all executed
+	else
+		printf("failed\n");
 }
 ```
 ---

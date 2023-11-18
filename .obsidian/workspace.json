@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber/OverTheWire/flags/Bandit-flags.md",
+                "file": "Programming/Code Golfing/C.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber/OverTheWire/flags/Bandit-flags.md",
+                "file": "Programming/Code Golfing/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber/OverTheWire/flags/Bandit-flags.md",
+                "file": "Programming/Code Golfing/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber/OverTheWire/flags/Bandit-flags.md"
+                "file": "Programming/Code Golfing/C.md"
               }
             }
           }

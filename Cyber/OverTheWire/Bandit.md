@@ -166,11 +166,8 @@ env variables can be set here `cat /etc/environment`
 ### Different methods to connect to a git repo :
 ```
 ssh://[user@]host.xz[:port]/path/to/repo.git/
-
 git://host.xz[:port]/path/to/repo.git/
-
 http[s]://host.xz[:port]/path/to/repo.git/
-
 ftp[s]://host.xz[:port]/path/to/repo.git/
 ```
 
