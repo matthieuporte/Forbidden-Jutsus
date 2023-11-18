@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "23c6c92d238bceab",
+        "id": "6635be09814ba26a",
         "type": "tabs",
         "children": [
           {
-            "id": "7650aafa44f40ba3",
+            "id": "6f7f48ae257d47df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Vim.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf659929c67c7744",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Calculus/Differential Equations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b686d8f5eb08e63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/Graphs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02e5527e7a5365d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber/root.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cyber/root.md",
+            "file": "Linux/Vim.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Cyber/root.md",
+            "file": "Linux/Vim.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Cyber/root.md"
+            "file": "Linux/Vim.md"
           }
         }
       }
@@ -168,38 +131,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69cbb78bd999c663",
+  "active": "6f7f48ae257d47df",
   "lastOpenFiles": [
-    "Physique/Basic formulas.md",
-    "Physique/Foundational Quantum Mechanics.md",
-    "Sandbox/test code.md",
+    "Linux/Git.md",
+    "Cyber/OverTheWire/Bandit.md",
+    "Linux/Vim.md",
+    "Cyber/OverTheWire/flags/Leviathan-flags.md",
+    "Cyber/OverTheWire/flags/Bandit-flags.md",
+    "/README.md",
+    "/Programming/Assembly.md",
+    "/Cyber/OverTheWire/flags/Leviathan-flags.md",
+    "/Cyber/OverTheWire/flags/Bandit-flags.md",
+    "/Cyber/OverTheWire/Bandit.md",
+    "/Cyber/OverTheWire/0 - General stuff.md",
+    "Cyber/OverTheWire/flags",
+    "/Cyber/OverTheWire/flags",
     "Programming/Code Golfing/C.md",
-    "Cyber/OverTheWire/Leviathan.md",
+    "Sandbox/Untitled.canvas",
+    "2023-11-17.md",
+    "Physique/Foundational Quantum Mechanics.md",
+    "Algo/Graphs.md",
+    "Maths/Calculus/Differential Equations.md",
+    "README.md",
+    "Linux/Low level/Sequential Logic.md",
     "Linux/etc/Dunnet.md",
+    "Maths/Calculus/Taylor Expansions.md",
+    "Maths/Arithmetic.md",
+    "Cyber/root.md",
+    "Physique/Basic formulas.md",
+    "Sandbox/test code.md",
+    "Cyber/OverTheWire/Leviathan.md",
     "Linux/etc/Aide.md",
-    "/Sandbox/test code.md",
-    "/Programming/Code Golfing/C.md",
-    "/Linux/etc/Dunnet.md",
-    "/Linux/etc/Aide.md",
-    "/Linux/Arch/System.md",
     "Programming/Code Golfing",
     "Linux/etc",
     "/Programming/Code Golfing",
     "/Linux/etc",
     "Images/2023-02-01-220709_734x226_scrot.png",
-    "Linux/Dictionary.md",
-    "Linux/Arch/System.md",
-    "Sandbox/PresTEmatthieu.md",
-    "Linux/Vim.md",
-    "Linux/Git.md",
-    "Linux/Low level/Sequential Logic.md",
-    "Cyber/OverTheWire/Bandit.md",
-    "Cyber/OverTheWire/0 - General stuff.md",
-    "Programming/C.md",
-    "Programming/Assembly.md",
-    "Programming/Arduino.md",
-    "Programming/Regex.md",
-    "Algo/Graphs.md",
     "Images/2023-02-07-131428_1048x587_scrot.png",
     "Images/2023-02-07-131323_1350x423_scrot.png",
     "Images/2023-02-07-131234_1360x404_scrot.png",
@@ -209,11 +176,9 @@
     "Images/2023-02-07-125845_1245x542_scrot.png",
     "Images/2023-02-07-125754_1062x247_scrot.png",
     "Images/2023-02-07-125729_1053x259_scrot.png",
-    "/README.md",
     "Linux/Low level",
     "/Linux/Low level",
     "Sandbox",
-    "Images",
-    "/Images"
+    "Images"
   ]
 }

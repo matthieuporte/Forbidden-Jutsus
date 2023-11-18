@@ -21,11 +21,23 @@ _open a new file in a split panel_
 :sp filename
 ```
 
+*Substitutions*
+```
+:%s/old/new/g #change for all file
+:#,#s/old/new/g #change between lines
+```
+
+*Paste output in file*
+```
+:r (command/file)
+```
+
 ### Shortcuts
 
 ```c
 <C-w-w> Change buffer
 <⬆️-v> select whole line
+<⬆️-a> insert at end of line
 <v-i-w> select word
 <#> find next occ of word
 <"+y> copy to main clipboard
@@ -38,4 +50,10 @@ _open a new file in a split panel_
 ```c
 <⬆️-i> toggle hidden files
 <?> show help
+```
+
+### .vimrc
+```shell
+:set tw=80
+
 ```
