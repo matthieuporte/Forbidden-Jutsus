@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Vim.md",
+                "file": "Programming/C.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Vim.md",
+                "file": "Programming/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Vim.md",
+                "file": "Programming/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Vim.md"
+                "file": "Programming/C.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
-    "Programming/C.md",
     "Linux/Vim.md",
+    "Programming/C.md",
     "Linux/Arch/System.md",
     "Physique/Foundational Quantum Mechanics.md",
     "README.md",

@@ -102,6 +102,12 @@ int main() {
 
 In this example, the `updateStruct` function takes a pointer to a pointer (`struct MyStruct** oldStructPtr`) as an argument. This allows it to modify the original pointer, and the changes are reflected in the `main` function.
 
+The important point to remember is that you must update the value, not the pointer.
+```c
+*oldStructPtr = newStruct; // updates the value pointed by the pointer
+oldStructPtr = &newStruct; // change the pointer /!\ only in this scope
+```
+
 ### Are malloc checks worth it ?
 ---
 In real code yes, but it's very rarely useful. anyway here's how to do it :
