@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Code Golfing/C.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Code Golfing/C.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Code Golfing/C.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Code Golfing/C.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,11 +148,16 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
+    "Sandbox/test code.md",
+    "Programming/Assembly.md",
+    "Programming/Arduino.md",
+    "Programming/Regex.md",
+    "Programming/C.md",
+    "Programming/Code Golfing/C.md",
     "Cyber/OverTheWire/Bandit.md",
     "Cyber/OverTheWire/flags/Bandit-flags.md",
     "Cyber/OverTheWire/0 - General stuff.md",
     "Sandbox/PresTEmatthieu.md",
-    "Sandbox/test code.md",
     "Physique/Foundational Quantum Mechanics.md",
     "Cyber/root.md",
     "Cyber/OverTheWire/flags/Leviathan-flags.md",
@@ -163,11 +168,7 @@
     "Linux/Arch/System.md",
     "Linux/etc/Aide.md",
     "Linux/Arch/Printing.md",
-    "Programming/Regex.md",
-    "Programming/Arduino.md",
-    "Programming/Code Golfing/C.md",
     "README.md",
-    "Programming/C.md",
     "Programming/Code Golfing",
     "Maths/Series.md",
     "Linux/etc",
@@ -188,7 +189,6 @@
     "Algo/Trees.md",
     "Maths/Probabilities.md",
     "Maths/Calculus/Basic relations.md",
-    "Maths/Calculus/Integration.md",
     "Images",
     "Cyber/Untitled",
     "Cyber/OverTheWire",
