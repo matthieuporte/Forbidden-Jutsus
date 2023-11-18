@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber/OverTheWire/flags/Bandit-flags.md",
+                "file": "Maths/Linear Algebra/Matrices.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber/OverTheWire/flags/Bandit-flags.md",
+                "file": "Maths/Linear Algebra/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber/OverTheWire/flags/Bandit-flags.md",
+                "file": "Maths/Linear Algebra/Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber/OverTheWire/flags/Bandit-flags.md"
+                "file": "Maths/Linear Algebra/Matrices.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
-    "Cyber/OverTheWire/Bandit.md",
     "Cyber/OverTheWire/flags/Bandit-flags.md",
+    "Cyber/OverTheWire/Bandit.md",
     "Cyber/OverTheWire/0 - General stuff.md",
     "README.md",
     "Programming/C.md",
