@@ -43,6 +43,11 @@ _open a new file in a split panel_
 :vim[grep] /pattern/ {`{file}`} 
 ```
 
+*clear vim highlighting*
+```
+:noh
+```
+
 ### Shortcuts
 
 ```c
