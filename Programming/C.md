@@ -54,3 +54,62 @@ LDFLAGS = -fsanitize=address
 `run` : go to the next breakpoint / the end of the program
 `ctrl + l` : fix the interface if it is buggy
 `q` : leave gdb
+
+
+### Change struct not in place and update pointer
+---
+sometimes I want to change some struct so much that I'd rather create a new one, free the old one and change the pointer. The problem is that if you free the old pointer you can't update it anymore. The solution is to use **double pointers** like this :
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+struct MyStruct {
+    int data;
+};
+
+void updateStruct(struct MyStruct** oldStructPtr) {
+    // Allocate memory for the new struct
+    struct MyStruct* newStruct = malloc(sizeof(struct MyStruct));
+    
+    // Set values in the new struct
+    newStruct->data = 42;
+    
+    // Free the memory allocated for the old struct
+    free(*oldStructPtr);
+    
+    // Update the pointer to point to the new struct
+    *oldStructPtr = newStruct;
+}
+
+int main() {
+    // Allocate memory for the old struct
+    struct MyStruct* oldStruct = malloc(sizeof(struct MyStruct));
+    
+    // Set values in the old struct
+    oldStruct->data = 0;  
+    
+    // Call the function to update the struct
+    updateStruct(&oldStruct);
+    
+    // Now 'oldStruct' points to the newly allocated memory
+    // You can access and modify the members of the struct through 'oldStruct'
+    printf("Data in the updated struct: %d\n", oldStruct->data);
+    free(oldStruct);
+    return 0;
+}
+```
+
+In this example, the `updateStruct` function takes a pointer to a pointer (`struct MyStruct** oldStructPtr`) as an argument. This allows it to modify the original pointer, and the changes are reflected in the `main` function.
+
+### Are malloc checks worth it ?
+---
+In real code yes, but it's very rarely useful. anyway here's how to do it :
+```c
+int *arr = malloc(10 * sizeof(int)); 
+
+if (arr == NULL) { 
+	printf("Memory allocation failed!\n");
+	return 1; 
+}
+```
