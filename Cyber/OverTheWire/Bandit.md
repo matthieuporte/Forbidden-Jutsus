@@ -161,3 +161,28 @@ on the line
 you can see all the env variables with `env`
 
 env variables can be set here `cat /etc/environment`
+
+
+### Different methods to connect to a git repo :
+```
+ssh://[user@]host.xz[:port]/path/to/repo.git/
+
+git://host.xz[:port]/path/to/repo.git/
+
+http[s]://host.xz[:port]/path/to/repo.git/
+
+ftp[s]://host.xz[:port]/path/to/repo.git/
+```
+
+### Go back in git logs
+```shell
+git revert HEAD # will create a new commit doing the opposite of the last commit
+git revert HEAD~3...HEAD # revert the last three commits
+```
+
+### List and change git branch
+```shell
+git branch #list all local branhes
+git branch -a #list all branches (-r to only list remote)
+git checkout mybranch #change branch
+```

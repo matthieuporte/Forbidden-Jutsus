@@ -12,3 +12,4 @@ _Get to a personal workspace_
 ```bash
 cd $(mktemp -d)
 ```
+

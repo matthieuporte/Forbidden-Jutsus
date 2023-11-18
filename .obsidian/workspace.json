@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sandbox/test code.md",
+                "file": "Cyber/OverTheWire/flags/Bandit-flags.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sandbox/test code.md",
+                "file": "Cyber/OverTheWire/flags/Bandit-flags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sandbox/test code.md",
+                "file": "Cyber/OverTheWire/flags/Bandit-flags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sandbox/test code.md"
+                "file": "Cyber/OverTheWire/flags/Bandit-flags.md"
               }
             }
           }
@@ -148,8 +148,16 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
-    "Algo/Graphs.md",
+    "Cyber/OverTheWire/Bandit.md",
+    "Cyber/OverTheWire/flags/Bandit-flags.md",
+    "Cyber/OverTheWire/0 - General stuff.md",
+    "Sandbox/PresTEmatthieu.md",
     "Sandbox/test code.md",
+    "Physique/Foundational Quantum Mechanics.md",
+    "Cyber/root.md",
+    "Cyber/OverTheWire/flags/Leviathan-flags.md",
+    "Cyber/OverTheWire/flags",
+    "Algo/Graphs.md",
     "Linux/etc/Dunnet.md",
     "Linux/Arch/Install.md",
     "Linux/Arch/System.md",
@@ -158,13 +166,11 @@
     "Programming/Regex.md",
     "Programming/Arduino.md",
     "Programming/Code Golfing/C.md",
-    "Physique/Foundational Quantum Mechanics.md",
     "README.md",
     "Programming/C.md",
     "Programming/Code Golfing",
     "Maths/Series.md",
     "Linux/etc",
-    "Sandbox/PresTEmatthieu.md",
     "Sandbox",
     "Linux/Low level/Sequential Logic.md",
     "Linux/Low level",
@@ -183,17 +189,11 @@
     "Maths/Probabilities.md",
     "Maths/Calculus/Basic relations.md",
     "Maths/Calculus/Integration.md",
-    "Linux/Vim.md",
-    "Cyber/OverTheWire/Bandit.md",
-    "Maths/Trigonometry.md",
-    "Maths/Calculus/Differential Equations.md",
-    "Maths/Arithmetic.md",
     "Images",
     "Cyber/Untitled",
     "Cyber/OverTheWire",
     "Algo/Untitled",
     "Programming",
-    "Linux/Untitled",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
