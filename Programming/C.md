@@ -108,6 +108,14 @@ The important point to remember is that you must update the value, not the point
 oldStructPtr = &newStruct; // change the pointer /!\ only in this scope
 ```
 
+### How to use ```.``` vs ```->```
+
+- Use **`.`** when you have an instance of the struct.
+- Use `->` when you have a pointer to the struct.
+
+the `->` dereferences while the `.` only access the value
+
+
 ### Are malloc checks worth it ?
 ---
 In real code yes, but it's very rarely useful. anyway here's how to do it :
