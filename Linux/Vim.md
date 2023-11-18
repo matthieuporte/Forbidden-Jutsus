@@ -32,13 +32,26 @@ _open a new file in a split panel_
 :r (command/file)
 ```
 
+
+*Save file as*
+```
+:sav(eas) file
+```
+
+*Search for pattern in multiple files*
+```
+:vim[grep] /pattern/ {`{file}`} 
+```
+
 ### Shortcuts
 
 ```c
 <C-w-w> Change buffer
 <⬆️-v> select whole line
 <⬆️-a> insert at end of line
+<⬆️-k> open man page for word under cursor
 <v-i-w> select word
+<c-i-w> replace word
 <#> find next occ of word
 <"+y> copy to main clipboard
 <"+p> paste from main clipboard
@@ -55,5 +68,4 @@ _open a new file in a split panel_
 ### .vimrc
 ```shell
 :set tw=80
-
 ```
