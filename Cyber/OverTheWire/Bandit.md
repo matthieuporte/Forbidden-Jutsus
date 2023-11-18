@@ -177,8 +177,12 @@ git revert HEAD # will create a new commit doing the opposite of the last commit
 git revert HEAD~3...HEAD # revert the last three commits
 ```
 
+>[!tip]
+>you can git revert twice in a row to go back to the original state
+
 ### List and change git branch
 ```shell
+git fetch #
 git branch #list all local branhes
 git branch -a #list all branches (-r to only list remote)
 git checkout mybranch #change branch

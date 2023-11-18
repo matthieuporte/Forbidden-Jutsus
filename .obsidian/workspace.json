@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Cyber/OverTheWire/flags/Bandit-flags.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Cyber/OverTheWire/flags/Bandit-flags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Cyber/OverTheWire/flags/Bandit-flags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Cyber/OverTheWire/flags/Bandit-flags.md"
               }
             }
           }
@@ -148,19 +148,19 @@
   },
   "active": "aa44af16b744a063",
   "lastOpenFiles": [
+    "Cyber/OverTheWire/Bandit.md",
+    "Cyber/OverTheWire/flags/Bandit-flags.md",
+    "Cyber/OverTheWire/0 - General stuff.md",
+    "README.md",
     "Programming/C.md",
     "Linux/Vim.md",
     "Linux/Arch/System.md",
     "Physique/Foundational Quantum Mechanics.md",
-    "README.md",
     "Sandbox/test code.md",
     "Programming/Assembly.md",
     "Programming/Arduino.md",
     "Programming/Regex.md",
     "Programming/Code Golfing/C.md",
-    "Cyber/OverTheWire/Bandit.md",
-    "Cyber/OverTheWire/flags/Bandit-flags.md",
-    "Cyber/OverTheWire/0 - General stuff.md",
     "Sandbox/PresTEmatthieu.md",
     "Cyber/root.md",
     "Cyber/OverTheWire/flags/Leviathan-flags.md",
