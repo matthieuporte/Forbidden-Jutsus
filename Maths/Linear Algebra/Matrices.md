@@ -1,8 +1,23 @@
 
+### Definitions
+>[!info]- Transpose
+>>The transpose $A^T$ of a matrix $A$ can be obtained by reflecting the elements along its main diagonal. Repeating the process on the transposed matrix returns the elements to their original position.
+>>
+>> ![[200px-Matrix_transpose.gif]]
 
-### Product of matrices
+
+>[!info]- Inverse
+>>The inverse of a matrix is another matrix that, when multiplied by the given matrix, yields the multiplicative identity. For a matrix $A$, its inverse is $A^{-1}$. And 
+>>$A \cdot A^{-1} = I$
+
+>[!info]- Trace
+>> the trace of a square matrix $A$, denoted $tr(A)$, is defined to be **the sum of elements on the main diagonal** (from the upper left to the lower right) of $A$. The trace is only defined for a square matrix $(n \times n)$.
+
+<br>
 
 ---
+
+### Product of matrices
 
 >[!tip] 
 >L**[CL]**C number of **column** on the **left** must **equal** the number of **row** on the **right**
@@ -11,9 +26,10 @@
 - Matrix transition #WIP 
 - Matrix multiplication #WIP 
 
+---
+
 ### Notations
 
----
 
 $\mathcal{M}_n(\mathbb{K})$ is the vector space of square matrix of order n with coefficients in $\mathbb{K}$
 
@@ -21,19 +37,20 @@ $0_{\mathcal{M}_n(\mathbb{K})}$ is the null matrix
 
 $I_n$ is the identity matrix
 
+---
+
 ### Inverse of a 3\*3 matrix
 
----
 
 [Youtube video that explains kramer's method](https://youtu.be/Fg7_mv3izR0?si=TzhiXIz_DMDNlLKN)
 
 >[!tip] 
 >It works for any square matrix
 
+---
 
 ### Transition Matrix
 
----
 
 The transition matrix allows us to change the basis.
 
@@ -45,9 +62,10 @@ The transition matrix allows us to change the basis.
 
 $$\text{Rank a} = \text{rank f} = dim(Im f)$$
 
+---
+
 ### Determinant of a square matrix
 
----
 
 The determinant is a scalar associated with a matrix
 
@@ -74,6 +92,16 @@ a_{22} & a_{23} \\ a_{32} & a_{33} \\ \end{vmatrix}
 >1 : we remove the first column and the first line
 >2 : we remove the first column and the second line
 >3 : we remove the first column and the third line
+
+>[!info] Properties on the determinant
+> $\text{Let } A,B \in \mathcal{M}_n \text{ and } \lambda \in \mathbb{K}. \text{Then :}$
+> >$det(\lambda A) = \lambda^ndet(A)$
+> >$det(AB) = det(A)det(B)$
+> >$det(A) = det(A^T)$
+>
+> $A^T$  is the transpose of the matrix $A$
+
+---
 
 ### Inverse of a Matrix
 ---
