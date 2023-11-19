@@ -1,2 +1,0 @@
-
-Sommes nous determinés ?

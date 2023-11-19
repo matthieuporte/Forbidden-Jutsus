@@ -35,36 +35,52 @@ O → anything else
 #### $$(U_n) \textit { is bounded } \iff \exists M \in \mathbb{R} : \forall n \in \mathbb{N} (|(U_n)| \leq M )$$
 
 
-$$ \begin{aligned} 
-& [\impliedby] \space\space\space (|(U_n)| \leq M ) \\ 
-& \qquad \implies (-M \leq (U_n) \leq M ) \\
-& \qquad \qquad \implies (U_n) \textit { is bounded }
-\end{aligned} $$
+$$ \begin{flalign} 
+& [\impliedby] \space\space\space (|(U_n)| \leq M ) \\&
+\qquad \implies (-M \leq (U_n) \leq M ) \\&
+\qquad \qquad \implies (U_n) \textit { is bounded } &
+\end{flalign} $$
 
-$$ \begin{aligned} 
-& [\implies] \space\space\space (U_n) \textit { is bounded } \\ 
-& \qquad \implies \forall n \in \mathbb{N}, \exists (m,K) \in \mathbb{R}^2 : m \leq (U_n) \leq K 
-\end{aligned} $$
+$$ \begin{flalign} 
+& [\implies] \space\space\space (U_n) \textit { is bounded } \\ &
+\qquad \implies \forall n \in \mathbb{N}, \exists (m,K) \in \mathbb{R}^2 : m \leq (U_n) \leq K &
+\end{flalign} $$
+
+$$ \begin{flalign} 
+& K \leq |K| \textit { and } -|m| \leq m \\ &
+\qquad \implies -|m| \leq (U_n) \leq |K| &
+\end{flalign} $$
+
+$$ \begin{flalign} 
+& M = max(|m|,|K|) \\ &
+\qquad \implies |K| \leq M \textit { and } -M \leq -|m| \\ &
+\qquad \implies  -M \leq (U_n) \leq M \\ &
+\qquad \implies (|(U_n)| \leq M ) &
+\end{flalign} $$
 
 
-$$ K \leq |K| \textit { and } -|m| \leq m \implies -|m| \leq (U_n) \leq |K| $$
-
-$$M = max(|m|,|K|) \implies |K| \leq M \textit { and } -M \leq -|m| $$
-
-$$implies -M \leq (U_n) \leq M \implies (|(U_n)| \leq M ) $$
-    
 #### $(U_n)$ converges $\implies (U_n)$ is bounded
+
 $(U_n)$ converges means that
-$$\forall \epsilon > 0, \exists n_\epsilon \in \mathbb{N} : \forall n \in \mathbb{N} (n \geq n_\epsilon \implies |(U_n) - l| < \epsilon )$$
+
+$$ \begin{aligned}
+& \forall \epsilon > 0, \exists n_\epsilon \in \mathbb{N} : \forall n \in \mathbb{N} (n \geq n_\epsilon \\
+& \qquad \implies |(U_n) - l| < \epsilon )
+\end{aligned}$$
+
 The property is true for all $\epsilon > 0$ so it is true for 1 for instance.
 
-This means that there is a rank _n_ where $|(U_n) - l| < 1$
-
-$$\implies |(U_n)| = |(U_n) - l + l| \leq |(U_n) - l| + |l| < 1 + |l|$$
+This means that there is a rank _n_ where 
+$$ \begin{aligned}
+& |(U_n) - l| < 1 \\
+& \qquad \implies |(U_n)| = |(U_n) - l + l| \leq |(U_n) - l| + |l| < 1 + |l|
+\end{aligned}$$
 
 This means that $(U_n)$ is bounded after the rank _n_
 
-Let $M = max(u_0,u_1,...,(U_{n-1}),1+|l|)$
+$$\begin{flalign}
+& \text{Let } M = max(u_0,u_1,...,(U_{n-1}),1+|l|) &
+\end{flalign}$$
 
 Then for $n \in \mathbb{N}, |(U_n)| \leq M$. The sequence is hence bounded.   
 
