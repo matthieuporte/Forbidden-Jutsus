@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Linear Algebra/Matrices.md",
+                "file": "Cyber/OverTheWire/Bandit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Linear Algebra/Matrices.md",
+                "file": "Cyber/OverTheWire/Bandit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Linear Algebra/Matrices.md",
+                "file": "Cyber/OverTheWire/Bandit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Linear Algebra/Matrices.md"
+                "file": "Cyber/OverTheWire/Bandit.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "lastOpenFiles": [
     "Cyber/OverTheWire/flags/Bandit-flags.md",
     "Cyber/OverTheWire/Bandit.md",
+    "Maths/Linear Algebra/Matrices.md",
     "Cyber/OverTheWire/0 - General stuff.md",
     "README.md",
     "Programming/C.md",
@@ -188,7 +189,6 @@
     "Images/2023-02-07-125754_1062x247_scrot.png",
     "Images/2023-02-07-125729_1053x259_scrot.png",
     "Algo/Trees.md",
-    "Maths/Probabilities.md",
     "Images",
     "Cyber/Untitled",
     "Cyber/OverTheWire",
