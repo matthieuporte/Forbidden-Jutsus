@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Probabilities.md",
+                "file": "Maths/Linear Algebra/Linear maps.md",
                 "mode": "source",
                 "source": true
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Probabilities.md",
+                "file": "Maths/Linear Algebra/Linear maps.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Probabilities.md",
+                "file": "Maths/Linear Algebra/Linear maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Probabilities.md",
+                "file": "Maths/Linear Algebra/Linear maps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Probabilities.md"
+                "file": "Maths/Linear Algebra/Linear maps.md"
               }
             }
           }
@@ -166,10 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea6989cc8b61bb16",
+  "active": "bc8a4f201126240f",
   "lastOpenFiles": [
-    "Maths/Linear Algebra/Matrices.md",
     "Maths/Probabilities.md",
+    "Maths/Linear Algebra/Linear maps.md",
+    "Maths/Linear Algebra/Matrices.md",
     "Sandbox/Markdown Examples.md",
     "Programming/C.md",
     "Images/200px-Matrix_transpose.gif",
