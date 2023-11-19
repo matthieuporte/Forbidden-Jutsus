@@ -2,7 +2,5 @@
   "vimMode": false,
   "attachmentFolderPath": "Images",
   "alwaysUpdateLinks": true,
-  "promptDelete": false,
-  "defaultViewMode": "preview",
-  "livePreview": false
+  "promptDelete": false
 }

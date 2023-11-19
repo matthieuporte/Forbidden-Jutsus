@@ -187,18 +187,3 @@ git branch #list all local branhes
 git branch -a #list all branches (-r to only list remote)
 git checkout mybranch #change branch
 ```
-
-### List all tags
-```shell
-git tag -l
-# go to the commit of the tag in a new branch
-git checkout tags/[tagname] -b mybranch
-# show information about the tag itself
-git show [tagname]
-```
-
-### List all stashed changes
-```shell
-git stash list
-```
-

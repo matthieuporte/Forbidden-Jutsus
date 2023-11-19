@@ -9,4 +9,4 @@ then put your public key online
 the keys are usually stored in ~/.ssh
 
 
-[Git techniques for overthewire](1%20-%20Bandit.md)
+[Git techniques for overthewire](bandit.md)

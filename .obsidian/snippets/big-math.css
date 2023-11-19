@@ -1,12 +1,3 @@
 mjx-math {
-	font-size: 140% !important;
-}
-
-.math-block{
-	padding: 0px;
-	overflow-x: auto;
-}
-
-h4 {
-	overflow-x: auto;
+  font-size: 140% !important;
 }

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Vim.md",
-                "mode": "source",
+                "file": "Maths/Series.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Linux/Vim.md",
+            "file": "Maths/Series.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Linux/Vim.md",
+            "file": "Maths/Series.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Linux/Vim.md"
+            "file": "Maths/Series.md"
           }
         }
       }
@@ -131,37 +131,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f7f48ae257d47df",
+  "active": "69cbb78bd999c663",
   "lastOpenFiles": [
-    "Maths/Calculus/Integration.md",
-    "Linux/Low level/Sequential Logic.md",
-    "Linux/Vim.md",
-    "Linux/Git.md",
+    "Maths/Linear Algebra/Matrices.md",
     "Cyber/OverTheWire/Bandit.md",
+    "Maths/Series.md",
+    "Maths/Probabilities.md",
+    "Maths/Trigonometry.md",
+    "Maths/Linear Algebra/Vector Spaces.md",
+    "Maths/Linear Algebra/Linear maps.md",
     "Cyber/OverTheWire/flags/Leviathan-flags.md",
     "Cyber/OverTheWire/flags/Bandit-flags.md",
+    "Programming/C.md",
     "/README.md",
-    "/Programming/Assembly.md",
-    "/Cyber/OverTheWire/flags/Leviathan-flags.md",
+    "/Programming/C.md",
+    "/Maths/Linear Algebra/Matrices.md",
     "/Cyber/OverTheWire/flags/Bandit-flags.md",
     "/Cyber/OverTheWire/Bandit.md",
+    "Linux/etc/Aide.md",
+    "Linux/Vim.md",
+    "/Linux/Vim.md",
+    "Maths/Calculus/Integration.md",
+    "Linux/Low level/Sequential Logic.md",
+    "Linux/Git.md",
+    "/Programming/Assembly.md",
+    "/Cyber/OverTheWire/flags/Leviathan-flags.md",
     "/Cyber/OverTheWire/0 - General stuff.md",
     "Cyber/OverTheWire/flags",
     "/Cyber/OverTheWire/flags",
     "Programming/Code Golfing/C.md",
     "Sandbox/Untitled.canvas",
     "2023-11-17.md",
-    "Physique/Foundational Quantum Mechanics.md",
-    "Algo/Graphs.md",
-    "Maths/Calculus/Differential Equations.md",
-    "README.md",
-    "Linux/etc/Dunnet.md",
-    "Maths/Calculus/Taylor Expansions.md",
-    "Maths/Arithmetic.md",
-    "Cyber/root.md",
-    "Physique/Basic formulas.md",
-    "Sandbox/test code.md",
-    "Cyber/OverTheWire/Leviathan.md",
     "Programming/Code Golfing",
     "Linux/etc",
     "/Programming/Code Golfing",

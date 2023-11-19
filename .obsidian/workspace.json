@@ -4,39 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "81ce471affd16848",
+        "id": "46685c4ff621f98a",
         "type": "tabs",
-        "dimension": 62.88532675709001,
         "children": [
           {
-            "id": "5c0d4fe054fe7ed5",
+            "id": "aa44af16b744a063",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Series.md",
+                "file": "Maths/Linear Algebra/Matrices.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c51ea1735905d7ab",
-        "type": "tabs",
-        "dimension": 37.11467324290999,
-        "children": [
-          {
-            "id": "50cfcc825d502db3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Series.md",
-                "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Series.md",
+                "file": "Maths/Linear Algebra/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Series.md",
+                "file": "Maths/Linear Algebra/Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Series.md"
+                "file": "Maths/Linear Algebra/Matrices.md"
               }
             }
           }
@@ -167,28 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c0d4fe054fe7ed5",
+  "active": "aa44af16b744a063",
   "lastOpenFiles": [
-    "Sandbox/Latex Examples.md",
-    "Sandbox/Markdown Examples.md",
-    "Sandbox/PresTEmatthieu.md",
-    "Sandbox/test code.md",
-    "README.md",
-    "Maths/Series.md",
-    "Maths/Linear Algebra/Matrices.md",
-    "Maths/Linear Algebra/Vector Spaces.md",
     "Cyber/OverTheWire/flags/Bandit-flags.md",
-    "Cyber/OverTheWire/1 - Bandit.md",
-    "Maths/Probabilities.md",
+    "Cyber/OverTheWire/Bandit.md",
     "Cyber/OverTheWire/0 - General stuff.md",
+    "README.md",
     "Programming/C.md",
     "Linux/Vim.md",
     "Linux/Arch/System.md",
     "Physique/Foundational Quantum Mechanics.md",
+    "Sandbox/test code.md",
     "Programming/Assembly.md",
     "Programming/Arduino.md",
     "Programming/Regex.md",
     "Programming/Code Golfing/C.md",
+    "Sandbox/PresTEmatthieu.md",
     "Cyber/root.md",
     "Cyber/OverTheWire/flags/Leviathan-flags.md",
     "Cyber/OverTheWire/flags",
@@ -196,10 +169,14 @@
     "Linux/etc/Dunnet.md",
     "Linux/Arch/Install.md",
     "Linux/etc/Aide.md",
+    "Linux/Arch/Printing.md",
     "Programming/Code Golfing",
+    "Maths/Series.md",
     "Linux/etc",
     "Sandbox",
+    "Linux/Low level/Sequential Logic.md",
     "Linux/Low level",
+    "Linux/Git.md",
     "Images/ElectromagSpectrum.jpeg",
     "Images/2023-02-07-131428_1048x587_scrot.png",
     "Images/2023-02-07-131323_1350x423_scrot.png",
@@ -210,6 +187,8 @@
     "Images/2023-02-07-125845_1245x542_scrot.png",
     "Images/2023-02-07-125754_1062x247_scrot.png",
     "Images/2023-02-07-125729_1053x259_scrot.png",
+    "Algo/Trees.md",
+    "Maths/Probabilities.md",
     "Images",
     "Cyber/Untitled",
     "Cyber/OverTheWire",
