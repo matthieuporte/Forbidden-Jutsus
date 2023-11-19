@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Probabilities.md",
-                "mode": "source",
+                "file": "Cyber/OverTheWire/flags/Bandit-flags.md",
+                "mode": "preview",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -65,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Probabilities.md",
+                "file": "Cyber/OverTheWire/flags/Bandit-flags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Probabilities.md",
+                "file": "Cyber/OverTheWire/flags/Bandit-flags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Probabilities.md"
+                "file": "Cyber/OverTheWire/flags/Bandit-flags.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "5c0d4fe054fe7ed5",
   "lastOpenFiles": [
+    "Cyber/OverTheWire/1 - Bandit.md",
     "Cyber/OverTheWire/flags/Bandit-flags.md",
-    "Cyber/OverTheWire/Bandit.md",
+    "Maths/Probabilities.md",
     "Maths/Linear Algebra/Matrices.md",
     "Cyber/OverTheWire/0 - General stuff.md",
     "README.md",
@@ -189,7 +190,6 @@
     "Images/2023-02-07-125845_1245x542_scrot.png",
     "Images/2023-02-07-125754_1062x247_scrot.png",
     "Images/2023-02-07-125729_1053x259_scrot.png",
-    "Algo/Trees.md",
     "Images",
     "Cyber/Untitled",
     "Cyber/OverTheWire",
