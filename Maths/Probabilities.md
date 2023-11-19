@@ -1,8 +1,11 @@
-## Finite Probability Space 
+
+# Finite Probability Space 
 
 F.P.S. are used in situations where an experiment with an finite number of outcomes can be repeated an infinite number of times.
 
 It is defined as $(\Omega,\textbf {P}(\Omega),P)$
+
+---
 
 ### Definitions :
 
@@ -25,6 +28,7 @@ elementary event $\not =$ outcome
 >[!info]
 > $A1 \bigsqcup A2 = \Omega \iff A2 = \overline {A1}$
 
+---
 
 ### Basic axioms of the probability function and proofs:
 
@@ -34,20 +38,22 @@ $P(\Omega) = 1$
 
 $P(A \bigsqcup B) = P(A) + P(B)$
 
+---
 
 ### Law of total probability :
 
----
-
 $$ P(A) = \sum_{i=1}^n P(A\cap B_n) $$
+
+---
 
 ### Conditional probabilities :
 
----
 
 $$ P(A \backslash B) = P(A) - P(A \cap B) $$
 
 $$ \text {A and B independent} \iff P(A \cap B) = P(A) * P(B) $$
+
+---
 
 ### Bayes Theorem :
 
@@ -56,23 +62,23 @@ $$ P (A \space| \space B) = P_B(A) = \frac {P(A\cap B)} {P(B)} = \frac {P(A) * P
 >[!info] 
 >**M.E.C.E.** means Mutually Exclusive Collectively Exhaustive. (a partition of $\Omega$)
 
-
+---
 
 ### Random variables
 
----
 
-<aside> 📖 A Finite Random Variable (F.R.V.) is a map/function mapping every element from the set of outcomes $\Omega$ to a real number.
+>[!info] 
+>A Finite Random Variable (F.R.V.) is a map/function mapping every element from the set of outcomes $\Omega$ to a real number.
 
-</aside>
 
-**Bernoulli Distribution** : one trial, two outcomes : succes or failure.
+**Bernoulli Distribution** : one trial, two outcomes : success or failure.
 
-$$ X : B(p) \implies $$
-
-- $X(\Omega) = \{0,1\}$
-- $P(X = 1) = p$
-- $P(X = 0) = 1 - p$
+$$ \begin{aligned}
+&X : B(p) \implies \\
+& \qquad X(\Omega) = \{0,1\} \\
+& \qquad P(X = 1) = p \\
+& \qquad P(X = 0) = 1 - p \\
+\end{aligned}$$
 
 **Binomial Distribution** : we repeat the same trial n times. The trials are **identical** and **independent**
 
@@ -80,11 +86,11 @@ $$ X : B(n,p) $$
 
 $$ \forall k \in X(\Omega),\space P(X = k) = {n \choose k}p^k(1-p)^{n-k} $$
 
-### Expected value
-
 ---
 
-The expected value is the average outcome (the sum of all outcomes times their probability of occurence)
+### Expected value
+
+The expected value is the average outcome (the sum of all outcomes times their probability of occurrence)
 
 $$ \mathbb {E} (X) = \sum_{i=1}^n P(X = x_i) * x_i $$
 
@@ -95,9 +101,10 @@ properties on $\mathbb E$ :
 - $\mathbb{E}(aX + bY) = a\mathbb{E}(X) + b\mathbb{E}(Y)$
 - $\mathbb {E}(aX + b) = a\mathbb{E}(X) + b$
 
+---
+
 ### Variance
 
----
 
 The variance translates how the values of X are spread.
 
@@ -113,24 +120,25 @@ if X and Y are independent then :
 
 - $\mathbb {V}(X + Y) = \mathbb{V}(X) + \mathbb{V}(Y)$
 
+---
+
 ### Standard deviation
 
----
 
 The standard deviation is that, unlike the variance, it is expressed in the same unit as the data.
 
 $$ \sigma(X) = \sqrt{\mathbb{V}(X)} $$ 
 
-## Infinite Probability Space
+# Infinite Probability Space
 
-
-### Generating functions
 
 ---
 
-<aside> 💡 The generating function of a discrete random variable contains all the distribution data.
+### Generating functions
 
-</aside>
+>[!tip] 
+>The generating function of a discrete random variable contains all the distribution data.
+
 
 We can compute the discrete random variable expected value and variance.
 
@@ -139,40 +147,47 @@ Let $X$ an integer random variable with $X(\Omega)$ _(the range of $X$)_
 We call the generating function of $X$ the following polynomial :
 
 $$
+\mathbb{R} \mapsto \mathbb{R} $$
+$$ 
+G_X \colon t \to \sum_{k=0}^n P(X = k)\times t^k = \mathbb{E}(t^k) $$
 
-\mathbb{R} \mapsto \mathbb{R} $$$$ G_X \colon t \to \sum_{k=0}^n P(X = k)\times t^k = \mathbb{E}(t^k) $$
+---
 
 ### Expectation and Variance
 
----
-
 Let $X$ a Finite integer random variable (F.I.R.V.) such that $X(\Omega) = [\![ 0,n ]\!]$ and $G_X$ the GF
 
-$$ \mathbb{E}(X) = G_X'(1) \\ - \\ \mathbb{V}(X) = G_X''(1) + G_X(1)' - G_X'(1)^2 $$
+$$ 
+\mathbb{E}(X) = G_X'(1) $$
+$$
+\mathbb{V}(X) = G_X''(1) + G_X(1)' - G_X'(1)^2 $$
+
+---
 
 ### G.F. of a sum of two finite integer random variables
 
----
 
 Let $X$ and $Y$ two F.I.R.V. with $G_X$ and $G_Y$ their generating functions. Then : $X + Y = Z$
 
 $$
-
-\mathbb{R} \mapsto \mathbb{R} $$$$ G_{X + Y} \colon t \to G_X(t) \times G_Y(t) \\ \iff G_Z = G_X \times G_Y $$
+\mathbb{R} \mapsto \mathbb{R} $$
+$$
+G_{X + Y} \colon t \to G_X(t) \times G_Y(t) \\ \iff G_Z = G_X \times G_Y $$
 
 as a consequence :
 
-$$ \mathbb{E} (X + Y) = \mathbb{E}(X) + \mathbb{E}(Y) \\ \mathbb{V} (X + Y) = \mathbb{V}(X) + \mathbb{V}(Y) $$
+$$ 
+\mathbb{E} (X + Y) = \mathbb{E}(X) + \mathbb{E}(Y) \\ \mathbb{V} (X + Y) = \mathbb{V}(X) + \mathbb{V}(Y) $$
 
 True for $\mathbb{V}$ if $X$ and $Y$ are independent.
 
 >[!tip]
 > $G_x(1) = 1$ because $G_x(1) = \sum_{k=0}^{X(\Omega)} P(X = k)$
 
+---
 
 ### Bernoulli Distribution
 
----
 
 The notation $X \sim \text{Bernoulli}(p)$ means that the random variable $X$ follows a Bernoulli distribution with parameter $p$. Let’s take the example : $X \sim \text{Bernoulli}(1/3)$, it means that $X$ is a Bernoulli random variable with a probability of success $p$ equal to $1/3$.
 
@@ -190,8 +205,10 @@ $$ P(X = 1) = \frac{1}{3} \\ P(X = 0) = \frac{2}{3} $$
 
 This distribution is often used to model binary outcomes where there are only two possible outcomes, such as success/failure, heads/tails, etc.
 
-### Geometric distribution
 ----
+
+### Geometric distribution
+
 The geometric distribution is a probability distribution that models the number of independent and identically distributed Bernoulli trials needed before a success occurs. 
 
 It's distribution is :

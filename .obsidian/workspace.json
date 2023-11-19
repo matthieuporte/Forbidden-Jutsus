@@ -6,6 +6,7 @@
       {
         "id": "22c3cbc9a9a2af83",
         "type": "tabs",
+        "dimension": 52.651048088779284,
         "children": [
           {
             "id": "ea6989cc8b61bb16",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Linear Algebra/Matrices.md",
+                "file": "Maths/Probabilities.md",
                 "mode": "source",
                 "source": true
               }
@@ -24,6 +25,7 @@
       {
         "id": "c69706060566109c",
         "type": "tabs",
+        "dimension": 47.348951911220716,
         "children": [
           {
             "id": "bc8a4f201126240f",
@@ -31,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Linear Algebra/Matrices.md",
+                "file": "Maths/Probabilities.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Linear Algebra/Matrices.md",
+                "file": "Maths/Probabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Linear Algebra/Matrices.md",
+                "file": "Maths/Probabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Linear Algebra/Matrices.md"
+                "file": "Maths/Probabilities.md"
               }
             }
           }
@@ -164,10 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc8a4f201126240f",
+  "active": "ea6989cc8b61bb16",
   "lastOpenFiles": [
-    "Sandbox/Markdown Examples.md",
     "Maths/Linear Algebra/Matrices.md",
+    "Maths/Probabilities.md",
+    "Sandbox/Markdown Examples.md",
     "Programming/C.md",
     "Images/200px-Matrix_transpose.gif",
     "Images/200px-Matrix_transpose.gif.crdownload",
@@ -179,7 +182,6 @@
     "Maths/Series.md",
     "Maths/Complex numbers.md",
     "Maths/Trigonometry.md",
-    "Maths/Probabilities.md",
     "Sandbox/PresTEmatthieu.md",
     "Sandbox/Latex Examples.md",
     "Maths/0 - side quests",

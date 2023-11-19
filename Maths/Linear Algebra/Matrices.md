@@ -61,7 +61,7 @@ $I_n$ is the identity matrix of dimension $(n \times n)$
 >$$AB = BA = I_n$$
 
 >[!info] proposition
->Let $A \in \mathcal{M}_n(\mathbb{K})$. A is invertible iff $det(Q) \neq 0$. Furthermore : 
+>Let $A \in \mathcal{M}_n(\mathbb{K})$. A is invertible iff $det(A) \neq 0$. Furthermore : 
 >
 >$$det(A^{-1}) = \frac{1}{det(A)}$$
 
@@ -130,6 +130,15 @@ The determinant of a upper/lower triangular matrix is the <u>product</u> of the 
 $$A = \begin{pmatrix} 2 & 4 & 2 \\ 0 & 2 & 3 \\ 0 & 0 & 3  \end{pmatrix}, det(A) = 12$$
 
 [Vandermonde matrix](https://en.wikipedia.org/wiki/Vandermonde_matrix)
+
+1) Two row/column equal $\implies$ det is null
+2) Two row/column linearly dep. $\implies$ det is null
+3) One row/column is made out of $0 \implies$ det is null
+4) Adding a linear combination of other column in one colum doesn't change the det
+5) Swaping 2 cols/row multiplies the det by $-1$
+6) Multipliying a row/col by $\lambda$ multiplies the det by $\lambda$ 
+
+
 
 
 ---
