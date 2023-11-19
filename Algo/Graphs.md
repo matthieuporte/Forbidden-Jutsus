@@ -43,6 +43,7 @@ There are 4 types of edges
 - the forward edges
 - the cross edges
 
+
 ![[arcs_graphes.png]]
 
 #### Breadth First Search
