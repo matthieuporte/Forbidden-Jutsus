@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46685c4ff621f98a",
+        "id": "81ce471affd16848",
         "type": "tabs",
         "children": [
           {
-            "id": "aa44af16b744a063",
+            "id": "5c0d4fe054fe7ed5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber/OverTheWire/Bandit.md",
+                "file": "Maths/Probabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber/OverTheWire/Bandit.md",
+                "file": "Maths/Probabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber/OverTheWire/Bandit.md",
+                "file": "Maths/Probabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber/OverTheWire/Bandit.md"
+                "file": "Maths/Probabilities.md"
               }
             }
           }
@@ -146,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa44af16b744a063",
+  "active": "5c0d4fe054fe7ed5",
   "lastOpenFiles": [
     "Cyber/OverTheWire/flags/Bandit-flags.md",
     "Cyber/OverTheWire/Bandit.md",
