@@ -8,7 +8,8 @@
 
 we say that $(U_n)$ converges to $l \in \mathbb{R}$ if
 
-$$ \forall \epsilon > 0, \exists n_\epsilon \in \mathbb{N} : \forall n \in \mathbb{N} (n \geq n_\epsilon \implies |U_n - l| < \epsilon ) $$
+$$
+\forall \epsilon > 0, \exists n_\epsilon \in \mathbb{N} : \forall n \in \mathbb{N} (n \geq n_\epsilon \implies |U_n - l| < \epsilon ) $$
 
 indeterminate limits
 
