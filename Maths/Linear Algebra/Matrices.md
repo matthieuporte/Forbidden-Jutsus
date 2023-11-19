@@ -50,15 +50,22 @@ $I_n$ is the identity matrix of dimension $(n \times n)$
 
 ---
 
-### Inverse of a square matrix
+### Inverse of a matrix
 
 
 [Youtube video that explains kramer's method](https://youtu.be/Fg7_mv3izR0?si=TzhiXIz_DMDNlLKN)
 
->[!warning]
->A matrix $A \in \mathcal{M}_n(\mathbb{K})$ is invertible iff there exists a matrix $A \in \mathcal{M}_n(\mathbb{K})$ such that :
+>[!abstract] Definition
+>Let $A \in \mathcal{M}_n(\mathbb{K})$. $A$ is invertible if there exists a matrix $A \in \mathcal{M}_n(\mathbb{K})$ such that :
 >
->$AB = BA = I_n$
+>$$AB = BA = I_n$$
+
+>[!info] proposition
+>Let $A \in \mathcal{M}_n(\mathbb{K})$. A is invertible iff $det(Q) \neq 0$. Furthermore : 
+>
+>$$det(A^{-1}) = \frac{1}{det(A)}$$
+
+⚠ Only square matrices are invertible !
 
 ---
 
@@ -114,10 +121,15 @@ a_{22} & a_{23} \\ a_{32} & a_{33} \\ \end{vmatrix}
 >
 > $A^T$  is the transpose of the matrix $A$
 
----
+#### Tips
+The determinant of a diagonal matrix is the <u>product</u> of the terms of the diagonal.
+$$A = \begin{pmatrix} 2 & 0 & 0 \\ 0 & 2 & 0 \\ 0 & 0 & 3  \end{pmatrix}, det(A) = 12$$
 
-### Inverse of a Matrix
----
-A matrix is invertible (or non-singular) if and only if it is a square matrix and its determinant is non-zero.
 
-#WIP 
+The determinant of a upper/lower triangular matrix is the <u>product</u> of the terms of the diagonal.
+$$A = \begin{pmatrix} 2 & 4 & 2 \\ 0 & 2 & 3 \\ 0 & 0 & 3  \end{pmatrix}, det(A) = 12$$
+
+[Vandermonde matrix](https://en.wikipedia.org/wiki/Vandermonde_matrix)
+
+
+---
