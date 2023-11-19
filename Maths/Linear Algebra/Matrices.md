@@ -5,7 +5,7 @@
 ---
 
 >[!tip] 
->L**[CL]**C; number of **column** on the **left** must **equal** the number of **row** on the **right**
+>L**[CL]**C number of **column** on the **left** must **equal** the number of **row** on the **right**
 
 
 - Matrix transition #WIP 
@@ -56,11 +56,7 @@ The determinant of the matrix $A = \begin{pmatrix} a_{1,1} & a_{1,2} \\ a_{2,1} 
 $$ det(A) = \begin{vmatrix}  
 a_{11} & a_{12} \\ a_{21} & a_{22} \\ \end{vmatrix} = a_{11}a_{22} - a_{21}a_{12} $$
 
-The determinant of the matrix $$A = \begin{pmatrix} a_{1,1} & a_{1,2} & a_{1,3} \\
-
-a_{2,1} & a_{2,2} & a_{2,3} \\ a_{3,1} & a_{3,2} & a_{3,3}  
-\end{pmatrix} \in \mathcal{M}_3(\mathbb{K})$$
-, denoted $det(A)$ is the scalar defined by :
+The determinant of the matrix $A = \begin{pmatrix} a_{1,1} & a_{1,2} & a_{1,3} \\ a_{2,1} & a_{2,2} & a_{2,3} \\ a_{3,1} & a_{3,2} & a_{3,3}  \end{pmatrix} \in \mathcal{M}_3(\mathbb{K})$, denoted $det(A)$ is the scalar defined by :
 
 $$ det(A) = \begin{vmatrix}
 
