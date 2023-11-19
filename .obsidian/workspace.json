@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sandbox/Mermaid graphs.md",
+                "file": "Sandbox/Latex.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sandbox/Mermaid graphs.md",
+                "file": "Sandbox/Latex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sandbox/Mermaid graphs.md",
+                "file": "Sandbox/Latex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sandbox/Mermaid graphs.md"
+                "file": "Sandbox/Latex.md"
               }
             }
           }
@@ -146,18 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea6989cc8b61bb16",
+  "active": "07706f0ecaa786b8",
   "lastOpenFiles": [
-    "Algo/Graphs.md",
+    "Sandbox/Markdown Examples.md",
+    "Sandbox/test code.md",
     "Sandbox/Mermaid graphs.md",
+    "Algo/Graphs.md",
     "Images/graphes1.jpg",
     "Maths/Series.md",
-    "Maths/0 - side quests/Latex.md",
+    "Sandbox/Latex.md",
     "Maths/Complex numbers.md",
     "Maths/Trigonometry.md",
     "Maths/Probabilities.md",
-    "Sandbox/Markdown Examples.md",
-    "Sandbox/test code.md",
     "Sandbox/PresTEmatthieu.md",
     "Sandbox/Latex Examples.md",
     "Maths/0 - side quests",
