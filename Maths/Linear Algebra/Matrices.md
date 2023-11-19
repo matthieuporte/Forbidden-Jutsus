@@ -1,17 +1,28 @@
 
 ### Definitions
->[!info]- Transpose
+>[!abstract]- Transpose
 >>The transpose $A^T$ of a matrix $A$ can be obtained by reflecting the elements along its main diagonal. Repeating the process on the transposed matrix returns the elements to their original position.
 >>
 >> ![[200px-Matrix_transpose.gif]]
 
 
->[!info]- Inverse
+>[!abstract]- Inverse
 >>The inverse of a matrix is another matrix that, when multiplied by the given matrix, yields the multiplicative identity. For a matrix $A$, its inverse is $A^{-1}$. And 
 >>$A \cdot A^{-1} = I$
 
->[!info]- Trace
->> the trace of a square matrix $A$, denoted $tr(A)$, is defined to be **the sum of elements on the main diagonal** (from the upper left to the lower right) of $A$. The trace is only defined for a square matrix $(n \times n)$.
+>[!abstract]- Trace
+>>The trace of a square matrix $A$, denoted $tr(A)$, is defined to be **the sum of elements on the main diagonal** (from the upper left to the lower right) of $A$. The trace is only defined for a square matrix $(n \times n)$.
+
+>[!abstract]- Determinant
+>> The **determinant** is a scalar value that is a function of the entries of a square matrix. It is nonzero if and only if the matrix is invertible and the linear map represented by the matrix is an isomorphism.
+>> 
+>> It is denoted $det(A)$
+
+>[!abstract]- Rank
+>> The rank of a matrix $A$ is the dimension of the vector space generated (or spanned) by its columns. This corresponds to the maximal number of linearly independent columns of A.
+>>
+>>It is denoted $rank(A)$
+
 
 <br>
 
@@ -19,7 +30,7 @@
 
 ### Product of matrices
 
->[!tip] 
+>[!danger] 
 >L**[CL]**C number of **column** on the **left** must **equal** the number of **row** on the **right**
 
 
@@ -35,17 +46,19 @@ $\mathcal{M}_n(\mathbb{K})$ is the vector space of square matrix of order n with
 
 $0_{\mathcal{M}_n(\mathbb{K})}$ is the null matrix
 
-$I_n$ is the identity matrix
+$I_n$ is the identity matrix of dimension $(n \times n)$
 
 ---
 
-### Inverse of a 3\*3 matrix
+### Inverse of a square matrix
 
 
 [Youtube video that explains kramer's method](https://youtu.be/Fg7_mv3izR0?si=TzhiXIz_DMDNlLKN)
 
->[!tip] 
->It works for any square matrix
+>[!warning]
+>A matrix $A \in \mathcal{M}_n(\mathbb{K})$ is invertible iff there exists a matrix $A \in \mathcal{M}_n(\mathbb{K})$ such that :
+>
+>$AB = BA = I_n$
 
 ---
 
