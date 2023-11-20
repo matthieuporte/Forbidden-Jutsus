@@ -25,6 +25,7 @@ $$
 
 $\mathbb{K}$ is a set (often $\mathbb{C}$ or $\mathbb{R}$)
 
+---
 
 A vector space follows 8 laws :
 
@@ -107,7 +108,6 @@ Let $E$ be a vector space. Then $F$ is a vector sub space if and only if all lin
 >[!failure] Union
 > the union $\cup$ of two vector sub spaces is NOT a sub space
 
-</aside>
 
 ---
 
@@ -124,11 +124,25 @@ $F$ and $G$ are in direct sum in $E$ if
 
 We then denote $F \oplus G = E$
 
-$F$ and $G$ are called additional sub-spaces
+$F$ and $G$ are called <u>additional sub-spaces</u>
 
 
 >[!tip] 
 >$F$ and $G$ are additional sub-spaces in $E$ if and only if any element of $E$ is uniquely written as the sum of an element of $F$ and an element of $G$
+>> $$\begin{flalign}
+\text{si} \begin{cases} 
+w =u + v \\
+w = u' + v' 
+\end{cases} &
+\quad\text{avec} \begin{cases} 
+u \in F, v \in G \\
+u' \in F, v' \in G 
+\end{cases} 
+\quad\text{alors} \begin{cases} 
+u = u' \\
+v = v'
+\end{cases} &
+\end{flalign}$$
 
 
 ---
@@ -145,7 +159,13 @@ $$ \begin{aligned}
 & \qquad \implies \lambda_1 = \lambda_2 = \ldots = \lambda_n = 0
 \end{aligned}$$
 
-Otherwise, they are linearly dependent. 
+The opposite (there exists a null linear combination with at least 1 coefficient that is not null) is called a linearly dependent family.
+
+>[!tip] 
+> Let $E$ a $\mathbb{K}$-vector space,
+> 
+> A family $F = \{v_1,v_2,...,v_p\}$ with $p \geq 2$ vectors of $E$ is a linked family iff at least one vector is a linear combination of the other vectors.
+
 
 ---
 
@@ -169,10 +189,46 @@ $$
 > <br>
 > 2) Solve the system. If you find a value for every $\lambda$ then it is spanning
 
+>[!example]- Spanning family exercise
+> ![[2023-11-08-094429_583x68_scrot.png]]
+>>[!success]- Correction
+>> ![[2023-11-08-094452_917x359_scrot.png]]
+
 ---
 
 ### Basis
 
+A family of vectors of $E$ is a basis if it is both a free family and a spanning family.
+
+It acts as a reference for the vector space
+
+>[!abstract] Dimension
+>Every basis of a finite dimension vector space $E$ has the same number of elements. This number is called the <u>dimension</u> (dim $E$) of the vector space.
+
+
 ---
 
-### Dimentions 
+### Dimensions 
+
+Let $E$ be a $\mathbb{K}$-vector space of dimension _n._ Then :
+
+- Any free family of $E$ as at most **n** elements.
+- Any spanning family of $E$ as at least _n_ elements.
+
+Let $E$ be a $\mathbb{K}$-vector space of dimension _n._ Then :
+
+- A v.s.s of dimension _1_ is called a **vector line**
+- A v.s.s of dimension _2_ is called a **vector plane**
+- A v.s.s of dimension _n-1_ is called an **hyperplan**
+
+Let $F$ and $G$ be two v.s.s of $E$, a finite vector space.
+
+1. $F$ is of a finite dimension too
+2. $\text{dim}\space F \leq \text{dim}\space E$
+3. $$\begin{flalign}
+& \text{dim}\space F = \text{dim}\space E \\ &
+\qquad\iff F = E &  
+\end{flalign}$$
+
+$$ 
+\text{dim}(F + G) = \text{dim}(F) + \text{dim}(G) - \text{dim}(F \cap G)$$

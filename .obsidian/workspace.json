@@ -6,7 +6,7 @@
       {
         "id": "0a950baf31956794",
         "type": "tabs",
-        "dimension": 59.432799013563496,
+        "dimension": 63.871763255240445,
         "children": [
           {
             "id": "ae9f883fd4349016",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sandbox/Highlights.md",
+                "file": "Maths/Linear Algebra/Vector Spaces.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
       {
         "id": "fbe1a66847ab206c",
         "type": "tabs",
-        "dimension": 40.5672009864365,
+        "dimension": 36.128236744759555,
         "children": [
           {
             "id": "92103c659d5778a4",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sandbox/Highlights.md",
+                "file": "Maths/Linear Algebra/Vector Spaces.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sandbox/Highlights.md",
+                "file": "Maths/Linear Algebra/Vector Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sandbox/Highlights.md",
+                "file": "Maths/Linear Algebra/Vector Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sandbox/Highlights.md"
+                "file": "Maths/Linear Algebra/Vector Spaces.md"
               }
             }
           }
@@ -170,9 +170,14 @@
   },
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
-    "Sandbox/Callouts.md",
+    "Sandbox/Latex.md",
     "Sandbox/Highlights.md",
+    "Sandbox/test code.md",
+    "Sandbox/Mermaid graphs.md",
+    "Sandbox/Callouts.md",
     "Maths/Linear Algebra/Vector Spaces.md",
+    "Images/2023-11-08-094429_583x68_scrot.png",
+    "Images/2023-11-08-094452_917x359_scrot.png",
     "README.md",
     "Physique/Further content.md",
     "Cyber/OverTheWire/1 - Bandit.md",
@@ -185,7 +190,6 @@
     "Maths/Linear Algebra/Matrices.md",
     "Maths/Arithmetic.md",
     "Maths/Calculus/Basic relations.md",
-    "Sandbox/Latex.md",
     "Maths/Probabilities.md",
     "Programming/Regex.md",
     "Maths/Complex numbers.md",
@@ -193,12 +197,9 @@
     "Maths/Linear Algebra/Linear maps.md",
     "Images/200px-Matrix_transpose.gif",
     "Images/200px-Matrix_transpose.gif.crdownload",
-    "Sandbox/test code.md",
-    "Sandbox/Mermaid graphs.md",
     "Images/graphes1.jpg",
     "Maths/Series.md",
     "Maths/Trigonometry.md",
-    "Sandbox/PresTEmatthieu.md",
     "Maths/0 - side quests",
     "Cyber/OverTheWire/flags",
     "Programming/Code Golfing",
@@ -211,8 +212,6 @@
     "Images/2023-02-07-131234_1360x404_scrot.png",
     "Images/2023-02-07-131140_1330x401_scrot.png",
     "Images/2023-02-07-131058_875x509_scrot.png",
-    "Images/2023-02-07-130050_1047x264_scrot.png",
-    "Images/2023-02-07-125845_1245x542_scrot.png",
     "Images",
     "Cyber/Untitled",
     "Cyber/OverTheWire",
