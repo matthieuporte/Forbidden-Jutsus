@@ -4,7 +4,7 @@ The complex number math chapter delves into the realm of numbers that extend bey
 
 ### Introduction to Complex Numbers
 
-
+#WIP
 
 ### Operations with Complex Numbers
    - Addition and subtraction of complex numbers involve adding or subtracting the real and imaginary parts separately.
