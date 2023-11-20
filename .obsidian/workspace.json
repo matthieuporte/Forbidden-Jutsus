@@ -6,7 +6,7 @@
       {
         "id": "0a950baf31956794",
         "type": "tabs",
-        "dimension": 55.17879161528977,
+        "dimension": 60.23427866831072,
         "children": [
           {
             "id": "ae9f883fd4349016",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Linear Algebra/Vector Spaces.md",
+                "file": "Maths/Calculus/Series.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
       {
         "id": "fbe1a66847ab206c",
         "type": "tabs",
-        "dimension": 44.82120838471023,
+        "dimension": 39.76572133168928,
         "children": [
           {
             "id": "92103c659d5778a4",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Linear Algebra/Vector Spaces.md",
+                "file": "Maths/Calculus/Series.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Linear Algebra/Vector Spaces.md",
+                "file": "Maths/Calculus/Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Linear Algebra/Vector Spaces.md",
+                "file": "Maths/Calculus/Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Linear Algebra/Vector Spaces.md"
+                "file": "Maths/Calculus/Series.md"
               }
             }
           }
@@ -168,14 +168,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92103c659d5778a4",
+  "active": "ae9f883fd4349016",
   "lastOpenFiles": [
+    "Maths/Calculus/Taylor Expansions.md",
+    "Maths/Calculus/Series.md",
+    "Maths/Trigonometry.md",
+    "Maths/Probabilities.md",
+    "Maths/Arithmetic.md",
+    "Maths/Complex numbers.md",
+    "Maths/Linear Algebra/Linear maps.md",
+    "Maths/Linear Algebra/Vector Spaces.md",
     "Sandbox/Latex.md",
     "Sandbox/Highlights.md",
     "Sandbox/test code.md",
     "Sandbox/Mermaid graphs.md",
     "Sandbox/Callouts.md",
-    "Maths/Linear Algebra/Vector Spaces.md",
     "Images/2023-11-08-094429_583x68_scrot.png",
     "Images/2023-11-08-094452_917x359_scrot.png",
     "README.md",
@@ -188,18 +195,12 @@
     "Physique/Foundational Quantum Mechanics.md",
     "Programming/C.md",
     "Maths/Linear Algebra/Matrices.md",
-    "Maths/Arithmetic.md",
     "Maths/Calculus/Basic relations.md",
-    "Maths/Probabilities.md",
     "Programming/Regex.md",
-    "Maths/Complex numbers.md",
     "Programming/Neural Network.md",
-    "Maths/Linear Algebra/Linear maps.md",
     "Images/200px-Matrix_transpose.gif",
     "Images/200px-Matrix_transpose.gif.crdownload",
     "Images/graphes1.jpg",
-    "Maths/Series.md",
-    "Maths/Trigonometry.md",
     "Maths/0 - side quests",
     "Cyber/OverTheWire/flags",
     "Programming/Code Golfing",
