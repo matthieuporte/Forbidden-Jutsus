@@ -1,54 +1,86 @@
 
-#WIP
 
 Let $E$ and $F$ be two $\mathbb{K}$-vector spaces
 
-**DEFINITION**
+---
+
+### DEFINITION
 
 A map $f$ from $E$ to $F$ is a _**linear map**_ if :
 
-- $f(0_E) = 0_F$
-- $f(u + v) = f(u) + f(v), \forall u,v \in E$
-- $f(\lambda\cdot u) = \lambda \cdot f(u), \forall (u,\lambda) \in E*\mathbb{K}$
 
-<aside> 📖 The set of all linear maps from $E$ to $F$ is denoted $\mathcal{L}(E,F)$
+$$
+\begin{flalign}
+& \text{1. } f(0_E) = 0_F \\ &
+\text{2. } f(u + v) = f(u) + f(v), \forall u,v \in E \\ &
+\text{3. } f(\lambda\cdot u) = \lambda \cdot f(u), \forall (u,\lambda) \in E*\mathbb{K} &
+\end{flalign}
+$$
 
-</aside>
+>[!info] 
+>The set of all linear maps from $E$ to $F$ is denoted $\mathcal{L}(E,F)$
 
-**********VOCABULARY**********
+---
+
+### VOCABULARY 
 
 **morphism** : Any linear map.
 
-**endomorphism** : Linear map from $E$ to $E$$\mathcal{L}(E,E)$. (denoted $\mathcal{L}(E)$) )
+**endomorphism** : Linear map from $E$ to $E$. (denoted $\mathcal{L}(E)$) )
 
 **isomorphism** : Linear map from $E$ to $F$ that is bijective.
 
 **automorphism** : both an endomorphism and an isomorphism
 
 
-### Identity Linear Map
-
-
-Dans le contexte que vous avez donné, "idE(u)" représente l'image de l'élément \(u\) par l'identité de l'espace vectoriel \(E\). L'identité d'un espace vectoriel est l'application linéaire qui envoie chaque vecteur sur lui-même.
-
-Formellement, si \(E\) est un espace vectoriel sur un corps \(K\), alors l'identité de \(E\), notée \(id_E\), est définie comme suit :
-
-\[id_E : E \rightarrow E\]
-
-\[id_E(u) = u \quad \text{pour tout } u \in E\]
-
-Ainsi, \(id_E(u)\) est simplement le vecteur \(u\) lui-même. Cela signifie que pour tout \(u \in E\), l'application \(f(-u) + f(u) + u\) est équivalente à l'application de l'identité sur \(u\).
+>[!abstract]- Identity Linear Map
+>> The Identity Linear Map, often simply called the identity map, is a linear transformation from a vector space to itself that leaves vectors unchanged. In other words, it is a linear operator that maps each vector to itself.
+>> 
+>> Let $V$ be a vector space. The identity linear map on $V$, denoted by $I_V$ or simply $I$, is defined as follows:
+>>
+>>For any vector $v$ in $V$, the image of $v$ under the identity linear map is itself:
+>>
+>>$I(v) = v$
+>>
+>>The identity linear map preserves vector addition and scalar multiplication, which are the defining properties of a linear transformation. Mathematically, this means that for any vectors $u$ and $v$ in $V$ and any scalar $c$:
+>>
+>>$I(u + v) = I(u) + I(v)$
+>>
+>>$I(cu) = cI(u)$
+>>
+>>This property makes the identity linear map an example of a linear transformation that doesn't alter the structure of the vector space—it acts as a kind of "do-nothing" transformation.
 
 ---
 
+### Properties
+
+#### Proposition 1
+Let $E$ and $F$ two $\mathbb{K}$-vector spaces. if $f$ is a linear map from $E$ to $F$ then :
+
+$$
+f(0_E) = 0_F \text{ and } \forall u \in E, f(-u) = -f(u).
+$$
+
+#### Proposition 2
+Let $E$ and $F$ two $\mathbb{K}$-vector spaces and $f$ a linear map from $E$ to $F$. $f$ is linear if and only if,
+
+$$
+\forall(u,v) \in E^2 \text{ and } \forall(\alpha,\beta) \in \mathbb{K}^2,
+f(\alpha u + \beta v) = \alpha f(u) + \beta f(v).
+$$
+
+---
+
+
 ### Image and Kernel of a Linear map
 
+Let $f : E \rightarrow F$ 
 
-$Im(f) = {f(x); x ∈ E}$ 
+$$\begin{aligned}
+& ker(f) = \{ x \in E : f(x) = 0\} \\ \\
+& Im(f) = \{w \in F : w = f(x), x \in E\}
+\end{aligned}$$
 
-$Im(f) = y ∈ F, ∃x ∈ E$ such that $y = f(x).$
-
-$Ker(f) = {x ∈ E : f(x) = 0F }.$
 
 **KERNEL JUTSU**
 

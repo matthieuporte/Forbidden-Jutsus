@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Linear Algebra/Vector Spaces.md",
-                "mode": "preview",
-                "source": true
+                "file": "Linux/Vim.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Maths/Linear Algebra/Vector Spaces.md",
+            "file": "Linux/Vim.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Maths/Linear Algebra/Vector Spaces.md",
+            "file": "Linux/Vim.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Maths/Linear Algebra/Vector Spaces.md"
+            "file": "Linux/Vim.md"
           }
         }
       }
@@ -133,39 +133,35 @@
   },
   "active": "6f7f48ae257d47df",
   "lastOpenFiles": [
-    "Programming/Code Golfing/C.md",
-    "Programming/C.md",
-    "Sandbox/test code.md",
-    "Maths/Probabilities.md",
-    "Maths/Linear Algebra/Linear maps.md",
-    "Maths/Linear Algebra/Matrices.md",
-    "Maths/Linear Algebra/Vector Spaces.md",
-    "Sandbox/Mermaid graphs.md",
-    "Maths/Arithmetic.md",
-    "Maths/Series.md",
-    "Maths/Calculus/Basic relations.md",
     "Maths/Calculus/Integration.md",
-    "Maths/Calculus/Differential Equations.md",
-    "Physique/Foundational Quantum Mechanics.md",
-    "Integration by Parts.md",
-    "Sandbox/Latex.md",
-    "/Maths/Probabilities.md",
-    "/Maths/Linear Algebra/Linear maps.md",
-    "Physique/Basic formulas.md",
-    "Maths/Trigonometry.md",
-    "Algo/Graphs.md",
-    "Images/200px-Matrix_transpose.gif",
-    "/Programming/C.md",
-    "/Maths/Linear Algebra/Matrices.md",
-    "/Images/200px-Matrix_transpose.gif",
-    "Sandbox/Markdown Examples.md",
-    "README.md",
-    "/Sandbox/Latex.md",
-    "Maths/0 - side quests",
-    "/Maths/0 - side quests",
+    "Linux/Low level/Sequential Logic.md",
+    "Linux/Vim.md",
+    "Linux/Git.md",
+    "Cyber/OverTheWire/Bandit.md",
+    "Cyber/OverTheWire/flags/Leviathan-flags.md",
+    "Cyber/OverTheWire/flags/Bandit-flags.md",
+    "/README.md",
+    "/Programming/Assembly.md",
+    "/Cyber/OverTheWire/flags/Leviathan-flags.md",
+    "/Cyber/OverTheWire/flags/Bandit-flags.md",
+    "/Cyber/OverTheWire/Bandit.md",
+    "/Cyber/OverTheWire/0 - General stuff.md",
     "Cyber/OverTheWire/flags",
     "/Cyber/OverTheWire/flags",
+    "Programming/Code Golfing/C.md",
     "Sandbox/Untitled.canvas",
+    "2023-11-17.md",
+    "Physique/Foundational Quantum Mechanics.md",
+    "Algo/Graphs.md",
+    "Maths/Calculus/Differential Equations.md",
+    "README.md",
+    "Linux/etc/Dunnet.md",
+    "Maths/Calculus/Taylor Expansions.md",
+    "Maths/Arithmetic.md",
+    "Cyber/root.md",
+    "Physique/Basic formulas.md",
+    "Sandbox/test code.md",
+    "Cyber/OverTheWire/Leviathan.md",
     "Programming/Code Golfing",
     "Linux/etc",
     "/Programming/Code Golfing",
@@ -178,7 +174,11 @@
     "Images/2023-02-07-131058_875x509_scrot.png",
     "Images/2023-02-07-130050_1047x264_scrot.png",
     "Images/2023-02-07-125845_1245x542_scrot.png",
+    "Images/2023-02-07-125754_1062x247_scrot.png",
+    "Images/2023-02-07-125729_1053x259_scrot.png",
     "Linux/Low level",
-    "/Linux/Low level"
+    "/Linux/Low level",
+    "Sandbox",
+    "Images"
   ]
 }

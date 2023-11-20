@@ -171,13 +171,17 @@ Let $X$ and $Y$ two F.I.R.V. with $G_X$ and $G_Y$ their generating functions. Th
 
 $$
 \mathbb{R} \mapsto \mathbb{R} $$
-$$
-G_{X + Y} \colon t \to G_X(t) \times G_Y(t) \\ \iff G_Z = G_X \times G_Y $$
+$$\begin{aligned}
+& G_{X + Y} \colon t \to G_X(t) \times G_Y(t) \\
+& \qquad \iff G_Z = G_X \times G_Y 
+\end{aligned}$$
 
 as a consequence :
 
 $$ 
-\mathbb{E} (X + Y) = \mathbb{E}(X) + \mathbb{E}(Y) \\ \mathbb{V} (X + Y) = \mathbb{V}(X) + \mathbb{V}(Y) $$
+\mathbb{E} (X + Y) = \mathbb{E}(X) + \mathbb{E}(Y) $$
+$$
+\mathbb{V} (X + Y) = \mathbb{V}(X) + \mathbb{V}(Y) $$
 
 True for $\mathbb{V}$ if $X$ and $Y$ are independent.
 
@@ -193,15 +197,18 @@ The notation $X \sim \text{Bernoulli}(p)$ means that the random variable $X$ fol
 
 In the context of a Bernoulli distribution, the random variable $X$ can take on one of two possible values, usually denoted as 0 and 1. The distribution is given by:
 
-$$ P(X = k) = \begin{cases} p & \text{if } k = 1 \\ 1-p & \text{if } k = 0 \end{cases}
-
+$$ 
+P(X = k) = \begin{cases} p & \text{if } k = 1 \\ 1-p & \text{if } k = 0 \end{cases}
 $$
 
 Here, $p$ is the probability of success (in your case, $1/3$), and $(1-p)$ is the probability of failure.
 
 So, for $(X \sim \text{Bernoulli}(1/3))$, you have:
 
-$$ P(X = 1) = \frac{1}{3} \\ P(X = 0) = \frac{2}{3} $$
+$$ \begin{aligned}
+& P(X = 0) = \frac{2}{3} \\
+& \qquad  P(X = 1) = \frac{1}{3}
+\end{aligned}$$
 
 This distribution is often used to model binary outcomes where there are only two possible outcomes, such as success/failure, heads/tails, etc.
 
@@ -223,3 +230,47 @@ where:
 The expected value (mean) of the geometric distribution is $\frac{1}{p}$, and its variance is $\frac{1-p}{p^2}$. 
 
 It is important to note that the geometric distribution assumes a fixed probability of success on each trial and that the trials are independent of each other.
+
+---
+
+### Poisson distribution
+
+The Poisson distribution is a probability distribution that describes the number of events that occur within a fixed interval of time or space. It is named after the French mathematician Siméon Denis Poisson, who introduced it in the early 19th century.
+
+The Poisson distribution is often used in situations where events are rare and occur independently. The distribution is characterized by a single parameter, denoted by $\lambda$, which represents the average rate of occurrence of the events in the given interval. The random variable $X$, representing the number of events, follows a Poisson distribution with parameter $\lambda$, and is denoted as $X \sim \text{Poisson}(\lambda)$.
+
+The probability mass function (PMF) of a Poisson-distributed random variable $X$ is given by:
+
+$$ 
+P(X = k) = \frac{e^{-\lambda} \cdot \lambda^k}{k!} $$
+
+where:
+- $e$ is the mathematical constant approximately equal to 2.71828.
+- $k$ is a non-negative integer (0, 1, 2, ...) representing the number of events.
+- $\lambda$ is the average rate of events occurring in the given interval.
+
+The mean ($\mu$) and variance ($\sigma^2$) of a Poisson distribution are both equal to $\lambda$, making the distribution particularly useful for modeling situations where events occur with a known average rate.
+
+---
+
+### Pascal distribution
+
+The Pascal distribution, also known as the negative binomial distribution, is a probability distribution that models the number of independent and identically distributed Bernoulli trials needed to achieve a fixed number of successes. It is named after the French mathematician Blaise Pascal. The distribution is often denoted as Pascal($r, p$), where $r$ is the number of successes desired and $p$ is the probability of success on each trial.
+
+The probability mass function (PMF) of a Pascal-distributed random variable $X$ is given by:
+
+$P(X = k) = \binom{k-1}{r-1} \cdot p^r \cdot (1-p)^{k-r}$
+
+where:
+- $k$ is the total number of trials needed to achieve $r$ successes.
+- $p$ is the probability of success on each individual trial.
+- $\binom{k-1}{r-1}$ is the binomial coefficient, representing the number of ways to choose $r-1$ successes from $k-1$ trials.
+
+The mean ($\mu$) and variance ($\sigma^2$) of a Pascal distribution are given by:
+
+$\mu = \frac{r}{p}$
+$\sigma^2 = \frac{r(1-p)}{p^2}$
+
+The Pascal distribution is related to the geometric distribution, which models the number of trials needed to achieve the first success. In the Pascal distribution, we generalize this concept to the number of trials needed to achieve a fixed number $r$ of successes.
+
+
