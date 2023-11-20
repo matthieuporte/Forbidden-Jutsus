@@ -161,3 +161,12 @@ on the line
 you can see all the env variables with `env`
 
 env variables can be set here `cat /etc/environment`
+
+### Executing env variables
+
+You can execute an env variable like this :
+
+```shell
+$SHELL
+```
+

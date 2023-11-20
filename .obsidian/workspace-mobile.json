@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "4c32815bac27d2fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "26f68260b33c07b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29b1f17a79d0a392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber/OverTheWire/1 - Bandit.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5986e0f79f749ee",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "979d26ea538dfb24",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1a2eaac835795a13",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1f08588207883d95",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c2069de7c6930e7f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b30b37fe15292103",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "39443ac451b8d1ad",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Cyber/OverTheWire/1 - Bandit.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4afa707ecdb5018a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Cyber/OverTheWire/1 - Bandit.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e1b391fea71772ec",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Cyber/OverTheWire/1 - Bandit.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "29b1f17a79d0a392",
+  "lastOpenFiles": [
+    "Algo/Graphs.md",
+    "/Sandbox/Markdown Examples.md",
+    "/Algo/Graphs.md",
+    "Sandbox/Latex.md",
+    "Maths/Linear Algebra/Vector Spaces.md",
+    "To do list.md",
+    "/Sandbox/Latex.md",
+    "/Maths/Linear Algebra/Vector Spaces.md",
+    "/Linux/Git.md",
+    "/Cyber/OverTheWire/1 - Bandit.md"
+  ]
+}
