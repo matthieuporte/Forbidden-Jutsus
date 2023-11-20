@@ -107,3 +107,24 @@ def BFS(G):
 		if not M[i]:
 			__BFS(G, x, M)
 ```
+
+>[!info]- Vector of spanning forest exercice
+>This function builds the vector of the spanning forest. (have the parent of every vertex)
+>```python
+>def __BFS_parents(G, x, p):
+>	q = queue.Queue()
+>	q.enqueue(x)
+>	p[x] = -1
+>	while not q.isempty():
+>		x = q.dequeue()
+>		for y in G.adjlists[x]:
+>			if p[y] == None:
+>				q.enqueue(y)
+>				p[y] = x
+>
+>def BFS_parents(G):
+>	p = [None]*G.order
+>	for i in range(G.order):
+>		if p[i] == None:
+>			__BFS_parents(G, x, p)
+>```
