@@ -34,7 +34,7 @@
 >L**[CL]**C number of **column** on the **left** must **equal** the number of **row** on the **right**
 
 
-
+- Matrix transition #WIP 
 - Matrix multiplication #WIP 
 
 ---
@@ -108,6 +108,10 @@ a_{22} & a_{23} \\ a_{32} & a_{33} \\ \end{vmatrix}
 - a_{31} \begin{vmatrix}  
     a_{12} & a_{13} \\ a_{22} & a_{23} \\ \end{vmatrix} $$
 
+>[!tip] 
+>1 : we remove the first column and the first line
+>2 : we remove the first column and the second line
+>3 : we remove the first column and the third line
 
 >[!info] Properties on the determinant
 > $\text{Let } A,B \in \mathcal{M}_n \text{ and } \lambda \in \mathbb{K}. \text{Then :}$
