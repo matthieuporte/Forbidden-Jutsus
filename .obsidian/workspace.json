@@ -168,8 +168,9 @@
   },
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
-    "Maths/Calculus/Basic relations.md",
+    "Maths/Linear Algebra/Matrices.md",
     "Maths/Linear Algebra/Vector Spaces.md",
+    "Maths/Calculus/Basic relations.md",
     "Sandbox/Latex.md",
     "Maths/Probabilities.md",
     "Programming/Regex.md",
@@ -178,7 +179,6 @@
     "Maths/Complex numbers.md",
     "Programming/Neural Network.md",
     "Maths/Linear Algebra/Linear maps.md",
-    "Maths/Linear Algebra/Matrices.md",
     "Sandbox/Markdown Examples.md",
     "Programming/C.md",
     "Images/200px-Matrix_transpose.gif",
