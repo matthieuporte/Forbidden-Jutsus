@@ -36,6 +36,23 @@ class Graph:
 
 #### Depth First Search
 
+```python
+
+# adjlist implementation
+
+def DFS(G):
+	visited = [False]*G.order
+	for i in range(G.order):
+		__DFS(G,i,visited)
+
+def __DFS(G,i,visited):
+	visited[i] = True
+	for j in G.adjlists[i]:
+		if not visited[j]:
+			__DFS(G,i,visited)
+
+```
+
 There are 4 types of edges
 
 - the discovery edges (or tree edges)
@@ -70,3 +87,21 @@ forward edge : $p[x] < p[y] <s[y] < s[x]$
 >Therefore you want to check a tree edge with `if p[y] != NULL`
 
 #### Breadth First Search
+
+```python
+
+def BFS(G):
+	p = [None]*G.order
+	q = Queue.queue()
+	for i in range(G.order):
+		if p[i] == None:
+			q.enqueue(i)
+			p[i] = -1
+			while not q.isempty():
+				j = q.dequeue()
+				for k in G.adjlist[j]:
+					if p[k] == None:
+						q.enqueue(k)
+						p[k] = j
+
+```
