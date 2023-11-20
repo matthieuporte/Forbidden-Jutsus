@@ -61,7 +61,7 @@ Types of edges
 >When going through the graph, the index of the first encounter is the prefix value and the index of the second encounter is the suffix value
 
 tree edge : $p[x] < p[y] <s[y] < s[x]$
-back edge : $p[y] < p[x] < s[x] < s[y]$
+back edge : $p[y] < p[x] < s[x]$ ($s[y]$ is unset here)
 cross edge : $p[y] < s[y] < p[x] < s[x]$
 forward edge : $p[x] < p[y] <s[y] < s[x]$
 
