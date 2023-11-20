@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Complex numbers.md",
+                "file": "Programming/Neural Network.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Complex numbers.md",
+                "file": "Programming/Neural Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Complex numbers.md",
+                "file": "Programming/Neural Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Complex numbers.md"
+                "file": "Programming/Neural Network.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "800252986721b3a3",
   "lastOpenFiles": [
+    "Maths/Complex numbers.md",
+    "Programming/Neural Network.md",
     "Maths/Linear Algebra/Vector Spaces.md",
     "Maths/Linear Algebra/Linear maps.md",
     "Maths/Probabilities.md",
-    "Maths/Complex numbers.md",
     "Maths/Linear Algebra/Matrices.md",
     "Sandbox/Markdown Examples.md",
     "Programming/C.md",
@@ -177,7 +178,6 @@
     "Linux/Vim.md",
     "Linux/Arch/System.md",
     "Physique/Foundational Quantum Mechanics.md",
-    "Programming/Assembly.md",
     "Cyber/OverTheWire/flags",
     "Programming/Code Golfing",
     "Linux/etc",
