@@ -6,7 +6,7 @@
       {
         "id": "0a950baf31956794",
         "type": "tabs",
-        "dimension": 63.871763255240445,
+        "dimension": 55.17879161528977,
         "children": [
           {
             "id": "ae9f883fd4349016",
@@ -26,7 +26,7 @@
       {
         "id": "fbe1a66847ab206c",
         "type": "tabs",
-        "dimension": 36.128236744759555,
+        "dimension": 44.82120838471023,
         "children": [
           {
             "id": "92103c659d5778a4",
@@ -168,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae9f883fd4349016",
+  "active": "92103c659d5778a4",
   "lastOpenFiles": [
     "Sandbox/Latex.md",
     "Sandbox/Highlights.md",

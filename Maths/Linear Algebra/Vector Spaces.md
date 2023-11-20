@@ -92,13 +92,16 @@ Let $E$ be a vector space, $F$ is a subspace if and only if
 ---
 ### Linear combination
 
-Let's consider a set of vectors \(v_1, v_2, \ldots, v_n\) in a vector space \(V\) and corresponding scalars \(c_1, c_2, \ldots, c_n\). The linear combination of these vectors with the given scalars is expressed as:
+Let's consider a set of vectors $v_1, v_2, \ldots, v_n$ in a vector space $V$ and corresponding scalars $c_1, c_2, \ldots, c_n$. The linear combination of these vectors with the given scalars is expressed as:
 
-\[c_1v_1 + c_2v_2 + \ldots + c_nv_n\]
+$$c_1v_1 + c_2v_2 + \ldots + c_nv_n$$
 
-For example, in \(\mathbb{R}^2\), if we have vectors \(v_1 = \begin{bmatrix} 1 \\ 2 \end{bmatrix}\) and \(v_2 = \begin{bmatrix} 3 \\ 4 \end{bmatrix}\), and scalars \(c_1 = 2\) and \(c_2 = -1\), the linear combination would be:
-
-\[2 \begin{bmatrix} 1 \\ 2 \end{bmatrix} - 1 \begin{bmatrix} 3 \\ 4 \end{bmatrix} = \begin{bmatrix} 2 \\ 4 \end{bmatrix} - \begin{bmatrix} 3 \\ 4 \end{bmatrix} = \begin{bmatrix} -1 \\ 0 \end{bmatrix}\]
+>[!info]- Example
+>In $\mathbb{R}^2$, if we have vectors $v_1 = \begin{bmatrix} 1 \\ 2 \end{bmatrix}$ and $v_2 = \begin{bmatrix} 3 \\ 4 \end{bmatrix}$, and scalars $c_1 = 2$ and $c_2 = -1$, the linear combination would be:
+>
+>$$\begin{aligned}
+>& 2 \begin{bmatrix} 1 \\ 2 \end{bmatrix} - 1 \begin{bmatrix} 3 \\ 4 \end{bmatrix} = \begin{bmatrix} 2 \\ 4 \end{bmatrix} - \begin{bmatrix} 3 \\ 4 \end{bmatrix} = \begin{bmatrix} -1 \\ 0 \end{bmatrix} & 
+\end{aligned}$$
 
 Let $E$ be a vector space. Then $F$ is a vector sub space if and only if all linear combination of two element of $F$ also belongs to $F$.
 
