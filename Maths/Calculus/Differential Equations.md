@@ -1,8 +1,10 @@
 
 Not all differential equations can be easily solved, but there is some cases where the solutions can be expressed with the usual functions. We are going to study those cases in this chapter.
 
-## TL;DR;
+
 ---
+
+## TL;DR;
 
 First order:
 
@@ -14,8 +16,10 @@ $$
 
 $$ S = \{ t \to y_p(t) + ke^{-\int \frac {b(t)} {a(t)}} ,k \in \mathbb{R} \} $$
 
-## First order equations
+
 ---
+
+## First order equations
 
 A first order linear differential equation has the form :
 
@@ -34,8 +38,9 @@ $S$ is the set of function solutions of $(E)$ on the interval $I \subset J$
 >3. $S = \{y_p + y_0, y_0 \in (S_0)\}$
 
 
-### Steps of resolution
 ---
+
+### Steps of resolution
 
 Let’s consider a new equation $(E_0)$ (called homogeneous equation) obtained by canceling $c(t)$ in the right part of the equation.
 
@@ -55,8 +60,9 @@ We can now express the set $S$ like this
 
 $$ S = \{y_p + y_0, y_0 \in (S_0)\} $$
 
-### Solving $(E_0)$
 ---
+
+### Solving $(E_0)$
 
 #### Theorem :
 
@@ -68,8 +74,9 @@ Where $\int \frac {b(t)} {a(t)}$ is a primitive of $\frac {b} {a}$
 
 Now that we’ve got the set of solutions for $y_0$ we need to find a specific solution $y_p$ and we do so by using the :
 
-### Variation of the constant
 ---
+
+### Variation of the constant
 
 1. Get a non null solution $y_0$
     
@@ -84,8 +91,9 @@ Now that we’ve got the set of solutions for $y_0$ we need to find a specific s
 
 $$ S = \{ t \to y_p(t) + ke^{-\int \frac {b(t)} {a(t)}} ,k \in \mathbb{R} \} $$
 
-## Second order equations
 ---
+
+## Second order equations
 
 A second order linear differential equation has the form :
 
@@ -93,8 +101,9 @@ $$ (E):\space\space\space\space\space ay''(t) + by'(t) + cy(t) = d $$
 
 where a,b,c and d are all functions defined on the interval $J \in \mathbb{R}$
 
-### Steps of resolution
 ---
+
+### Steps of resolution
 
 Let’s consider a new equation $(E_0)$ (called homogeneous equation) obtained by canceling $c(t)$ in the right part of the equation.
 
@@ -105,9 +114,9 @@ We denote $(S_0)$ the set of solutions of $(E_0)$ on $I$. It cannot be empty sin
 >[!info]
 > You will use the same steps as for the first order, but the steps in themselves will change a bit.
 
+---
 
 ### Solving $(E_0)$
----
 
 we associate to the homogeneous equation the characteristic equation :
 

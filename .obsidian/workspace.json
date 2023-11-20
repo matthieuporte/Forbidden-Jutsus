@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Calculus/Series.md",
+                "file": "Maths/Calculus/Integration.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Calculus/Series.md",
+                "file": "Maths/Calculus/Integration.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Calculus/Series.md",
+                "file": "Maths/Calculus/Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Calculus/Series.md",
+                "file": "Maths/Calculus/Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Calculus/Series.md"
+                "file": "Maths/Calculus/Integration.md"
               }
             }
           }
@@ -170,8 +170,13 @@
   },
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
-    "Maths/Calculus/Taylor Expansions.md",
+    "Maths/Calculus/Differential Equations.md",
+    "Algo/Graphs.md",
+    "Cyber/OverTheWire/1 - Bandit.md",
+    "Cyber/OverTheWire/0 - General stuff.md",
+    "Linux/Dictionary.md",
     "Maths/Calculus/Series.md",
+    "Maths/Calculus/Taylor Expansions.md",
     "Maths/Trigonometry.md",
     "Maths/Probabilities.md",
     "Maths/Arithmetic.md",
@@ -187,17 +192,12 @@
     "Images/2023-11-08-094452_917x359_scrot.png",
     "README.md",
     "Physique/Further content.md",
-    "Cyber/OverTheWire/1 - Bandit.md",
     "Linux/Git.md",
     "Cyber/OverTheWire/flags/Bandit-flags.md",
-    "Cyber/OverTheWire/0 - General stuff.md",
-    "Algo/Graphs.md",
     "Physique/Foundational Quantum Mechanics.md",
     "Programming/C.md",
     "Maths/Linear Algebra/Matrices.md",
     "Maths/Calculus/Basic relations.md",
-    "Programming/Regex.md",
-    "Programming/Neural Network.md",
     "Images/200px-Matrix_transpose.gif",
     "Images/200px-Matrix_transpose.gif.crdownload",
     "Images/graphes1.jpg",

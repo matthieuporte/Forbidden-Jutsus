@@ -1,7 +1,7 @@
 
 ## Derivatives
 
-|fonction|Dérivée|
+|Function|Derivative|
 |---|---|
 |$f * g$|$f’ * g + f * g’$|
 |$f / g$|$(f'_g - f_g' )/g²$|
@@ -16,7 +16,7 @@
 
 ## Anti-Derivatives
 
-|fonction|Primitive|
+|Function|Primitive|
 |---|---|
 |$1/x^n$|$-1/(n-1)x^{n-1}$|
 |$u’u$|$u²/2$|
