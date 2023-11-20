@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "79f29e2459a26764",
+        "id": "53f9ab5937c0d99f",
         "type": "tabs",
         "children": [
           {
-            "id": "bd68402343e4d54e",
+            "id": "b5f1582af8a58a91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Maths/Linear Algebra/Linear maps.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd68402343e4d54e",
+  "active": "b5f1582af8a58a91",
   "lastOpenFiles": [
     "Maths/Linear Algebra/Linear maps.md",
     "Maths/Complex numbers.md",
