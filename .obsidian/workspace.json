@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Linear Algebra/Matrices.md",
-                "mode": "preview",
+                "file": "Maths/Complex numbers.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Linear Algebra/Matrices.md",
+                "file": "Maths/Complex numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Linear Algebra/Matrices.md",
+                "file": "Maths/Complex numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Linear Algebra/Matrices.md"
+                "file": "Maths/Complex numbers.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   "active": "800252986721b3a3",
   "lastOpenFiles": [
     "Maths/Linear Algebra/Linear maps.md",
+    "Maths/Linear Algebra/Matrices.md",
+    "Maths/Linear Algebra/Vector Spaces.md",
     "Maths/Complex numbers.md",
     "Maths/Probabilities.md",
-    "Maths/Linear Algebra/Matrices.md",
     "Sandbox/Markdown Examples.md",
     "Programming/C.md",
     "Images/200px-Matrix_transpose.gif",
@@ -171,7 +172,6 @@
     "Cyber/OverTheWire/1 - Bandit.md",
     "Cyber/OverTheWire/Leviathan.md",
     "README.md",
-    "Maths/Linear Algebra/Vector Spaces.md",
     "Cyber/OverTheWire/flags/Bandit-flags.md",
     "Cyber/OverTheWire/0 - General stuff.md",
     "Linux/Vim.md",
