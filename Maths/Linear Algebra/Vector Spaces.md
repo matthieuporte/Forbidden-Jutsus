@@ -30,14 +30,27 @@ $\mathbb{K}$ is a set (often $\mathbb{C}$ or $\mathbb{R}$)
 A vector space follows 8 laws :
 
 
-1. $u + v = v + u \space\space\space(\forall (u,v) \in E)$
-3. $u + (v + w) = (u + v) + w \space\space\space(\forall (u,v,w) \in E)$
-4. $1 \cdot u = u \space\space\space(\forall u\in E)$
-5. $\lambda \cdot (\mu \cdot u) = (\lambda \mu) \cdot u \space\space\space(\forall \space\lambda,\mu \in \mathbb{K} ,u \in E)$
-6. There exists a neutral element $0_E \in E$ so that $u + 0_E = u \space\space\space(\forall u \in E)$
-7. All elements admit a symmetric $u'$ so that $u + u' = 0_E$. This element $u'$ is denoted $-u$
-8. $\lambda \cdot (v + u) = (\lambda \cdot v) + (\lambda \cdot u) \space\space\space(\forall \space\lambda \in \mathbb{K} ,v,u \in E)$
-9. $(\lambda + \mu) \cdot u = (\lambda \cdot u) + (\mu \cdot u) \space\space\space(\forall \space\lambda,\mu \in \mathbb{K} ,u \in E)$
+1. $$\begin{flalign}
+& u + v = v + u \quad(\forall (u,v) \in E) &
+\end{flalign}$$
+2. $$\begin{flalign}
+& u + (v + w) = (u + v) + w \quad(\forall (u,v,w) \in E) &
+\end{flalign}$$
+
+3. $$\begin{flalign}
+& 1 \cdot u = u \quad(\forall u\in E) &
+\end{flalign}$$
+4. $$\begin{flalign}
+& \lambda \cdot (\mu \cdot u) = (\lambda \mu) \cdot u \quad(\forall \space\lambda,\mu \in \mathbb{K} ,u \in E) &
+\end{flalign}$$
+5. There exists a neutral element $0_E \in E$ so that $u + 0_E = u \space\space\space(\forall u \in E)$
+6. All elements admit a symmetric $u'$ so that $u + u' = 0_E$. This element $u'$ is denoted $-u$
+7. $$\begin{flalign}
+& \lambda \cdot (v + u) = (\lambda \cdot v) + (\lambda \cdot u) \quad(\forall \space\lambda \in \mathbb{K} ,v,u \in E) &
+\end{flalign}$$
+8. $$\begin{flalign}
+& (\lambda + \mu) \cdot u = (\lambda \cdot u) + (\mu \cdot u) \quad(\forall \space\lambda,\mu \in \mathbb{K} ,u \in E) &
+\end{flalign}$$
 
 The elements of $E$ are called <u>vectors</u>
 The elements of $\mathbb{K}$ are called <u>scalars</u>
@@ -45,6 +58,18 @@ The neutral element $0_E$ is also called <u>the null vector</u>
 The symmetrical $-u$ is also called <u>the opposite</u>
 the internal composition law on $E$, denoted $+$, is the addition
 the external composition law on $E$ is the multiplication by a scalar
+
+>[!info] Note that :
+>> $0_E$ is unique
+> $-u$ is unique
+
+>[!abstract]- In summary
+>To make sure an object is a vector space you need to check:
+>1. the internal law
+2. the external law
+3. the neutral element
+4. it’s symmetrical
+5. both laws together
 
 ---
 
