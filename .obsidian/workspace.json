@@ -6,7 +6,7 @@
       {
         "id": "0a950baf31956794",
         "type": "tabs",
-        "dimension": 57.33662145499383,
+        "dimension": 48.581997533908755,
         "children": [
           {
             "id": "ae9f883fd4349016",
@@ -14,30 +14,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Linear Algebra/Vector Spaces.md",
+                "file": "Algo/Graphs.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "bcd073c3ec832533"
           }
         ]
       },
       {
-        "id": "3aaba3c244ddfde3",
+        "id": "582679e6e6e3b414",
         "type": "tabs",
-        "dimension": 42.66337854500616,
+        "dimension": 51.41800246609125,
         "children": [
           {
-            "id": "5ce72c3ac298f3f5",
+            "id": "b86e548e01bf5165",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Linear Algebra/Vector Spaces.md",
+                "file": "Algo/Graphs.md",
                 "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "bcd073c3ec832533"
           }
         ]
       }
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Linear Algebra/Vector Spaces.md",
+                "file": "Algo/Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Linear Algebra/Vector Spaces.md",
+                "file": "Algo/Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Linear Algebra/Vector Spaces.md"
+                "file": "Algo/Graphs.md"
               }
             }
           }
@@ -166,10 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae9f883fd4349016",
+  "active": "b86e548e01bf5165",
   "lastOpenFiles": [
-    "Maths/Linear Algebra/Matrices.md",
+    "Maths/Arithmetic.md",
     "Maths/Linear Algebra/Vector Spaces.md",
+    "Sandbox/Markdown Examples.md",
+    "Maths/Linear Algebra/Matrices.md",
     "Maths/Calculus/Basic relations.md",
     "Sandbox/Latex.md",
     "Maths/Probabilities.md",
@@ -179,7 +183,6 @@
     "Maths/Complex numbers.md",
     "Programming/Neural Network.md",
     "Maths/Linear Algebra/Linear maps.md",
-    "Sandbox/Markdown Examples.md",
     "Programming/C.md",
     "Images/200px-Matrix_transpose.gif",
     "Images/200px-Matrix_transpose.gif.crdownload",
@@ -197,7 +200,6 @@
     "Cyber/OverTheWire/Leviathan.md",
     "README.md",
     "Cyber/OverTheWire/flags/Bandit-flags.md",
-    "Cyber/OverTheWire/0 - General stuff.md",
     "Cyber/OverTheWire/flags",
     "Programming/Code Golfing",
     "Linux/etc",

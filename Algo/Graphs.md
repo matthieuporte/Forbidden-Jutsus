@@ -46,4 +46,27 @@ There are 4 types of edges
 
 ![[arcs_graphes.png]]
 
+Types of edges
+
+| undir | dir |
+| --- | --- |  
+| tree | tree|
+|back|back|
+| | forward|
+| | cross|
+
+<br>
+
+>[!abstract] Prefix and suffix values
+>When going through the graph, the index of the first encounter is the prefix value and the index of the second encounter is the suffix value
+
+tree edge : $p[x] < p[y] <s[y] < s[x]$
+back edge : $p[y] < p[x] < s[x] < s[y]$
+cross edge : $p[y] < s[y] < p[x] < s[x]$
+forward edge : $p[x] < p[y] <s[y] < s[x]$
+
+>[!danger]
+>The tree edge and forward edge are the same with thoses specifications. 
+>Therefore you want to check a tree edge with `if p[y] != NULL`
+
 #### Breadth First Search
