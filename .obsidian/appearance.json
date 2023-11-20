@@ -4,6 +4,7 @@
   "theme": "obsidian",
   "cssTheme": "",
   "enabledCssSnippets": [
-    "big-math"
+    "big-math",
+    "highlight"
   ]
 }

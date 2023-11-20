@@ -6,7 +6,7 @@
       {
         "id": "0a950baf31956794",
         "type": "tabs",
-        "dimension": 48.581997533908755,
+        "dimension": 59.432799013563496,
         "children": [
           {
             "id": "ae9f883fd4349016",
@@ -14,32 +14,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/Graphs.md",
+                "file": "Sandbox/Highlights.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "bcd073c3ec832533"
+            "group": "8d6c1d7d5a60fbb3"
           }
         ]
       },
       {
-        "id": "582679e6e6e3b414",
+        "id": "fbe1a66847ab206c",
         "type": "tabs",
-        "dimension": 51.41800246609125,
+        "dimension": 40.5672009864365,
         "children": [
           {
-            "id": "b86e548e01bf5165",
+            "id": "92103c659d5778a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/Graphs.md",
+                "file": "Sandbox/Highlights.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "bcd073c3ec832533"
+            "group": "8d6c1d7d5a60fbb3"
           }
         ]
       }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algo/Graphs.md",
+                "file": "Sandbox/Highlights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algo/Graphs.md",
+                "file": "Sandbox/Highlights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algo/Graphs.md"
+                "file": "Sandbox/Highlights.md"
               }
             }
           }
@@ -168,21 +168,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b86e548e01bf5165",
+  "active": "ae9f883fd4349016",
   "lastOpenFiles": [
-    "Physique/Foundational Quantum Mechanics.md",
-    "Algo/Graphs.md",
+    "Sandbox/Callouts.md",
+    "Sandbox/Highlights.md",
+    "Maths/Linear Algebra/Vector Spaces.md",
+    "README.md",
+    "Physique/Further content.md",
+    "Cyber/OverTheWire/1 - Bandit.md",
     "Linux/Git.md",
+    "Cyber/OverTheWire/flags/Bandit-flags.md",
+    "Cyber/OverTheWire/0 - General stuff.md",
+    "Algo/Graphs.md",
+    "Physique/Foundational Quantum Mechanics.md",
     "Programming/C.md",
     "Maths/Linear Algebra/Matrices.md",
     "Maths/Arithmetic.md",
-    "Maths/Linear Algebra/Vector Spaces.md",
-    "Sandbox/Markdown Examples.md",
     "Maths/Calculus/Basic relations.md",
     "Sandbox/Latex.md",
     "Maths/Probabilities.md",
     "Programming/Regex.md",
-    "Cyber/OverTheWire/1 - Bandit.md",
     "Maths/Complex numbers.md",
     "Programming/Neural Network.md",
     "Maths/Linear Algebra/Linear maps.md",
@@ -194,12 +199,7 @@
     "Maths/Series.md",
     "Maths/Trigonometry.md",
     "Sandbox/PresTEmatthieu.md",
-    "Sandbox/Latex Examples.md",
     "Maths/0 - side quests",
-    "Cyber/OverTheWire/Bandit.md",
-    "Cyber/OverTheWire/2 - Leviathan.md",
-    "Cyber/OverTheWire/Leviathan.md",
-    "README.md",
     "Cyber/OverTheWire/flags",
     "Programming/Code Golfing",
     "Linux/etc",

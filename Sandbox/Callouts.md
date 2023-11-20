@@ -1,4 +1,4 @@
-## Callouts
+
 
 > [!faq]- Are callouts foldable? 
 > Yes! In a foldable callout, the contents are hidden when the callout is collapsed.
@@ -7,7 +7,7 @@
 > > [!todo] Yes!, they can. 
 > > > [!example] You can even use multiple layers of nesting.
 
-#### Callout types :
+#### types :
 
 > [!note] Note --> ``` > [!abstract] lorem ipsum```
 
