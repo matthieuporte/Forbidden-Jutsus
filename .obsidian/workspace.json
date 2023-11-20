@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "53f9ab5937c0d99f",
+        "id": "492cad029d4cd4d2",
         "type": "tabs",
         "children": [
           {
-            "id": "b5f1582af8a58a91",
+            "id": "800252986721b3a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Linear Algebra/Linear maps.md",
+                "file": "Maths/Linear Algebra/Matrices.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Linear Algebra/Linear maps.md",
+                "file": "Maths/Linear Algebra/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Linear Algebra/Linear maps.md",
+                "file": "Maths/Linear Algebra/Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Linear Algebra/Linear maps.md"
+                "file": "Maths/Linear Algebra/Matrices.md"
               }
             }
           }
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5f1582af8a58a91",
+  "active": "800252986721b3a3",
   "lastOpenFiles": [
     "Maths/Linear Algebra/Linear maps.md",
     "Maths/Complex numbers.md",

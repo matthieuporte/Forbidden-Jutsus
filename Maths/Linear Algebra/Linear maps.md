@@ -101,6 +101,11 @@ In other words, any vector in $E$ can be represented as a linear combination of 
 $$ 
 \text{span}(\{\mathbf{e}_1, \mathbf{e}_2, \ldots, \mathbf{e}_n\}) = E $$
 
+>[!tip]- Tips for verifying if a family is spanning
+> 1) If the dimension of the space is $n$ over some field $F$.
+>	Then, the set contains at least $n$ linearly independent vectors from $F^n$ must be a spanning set of that space.
+> <br>
+> 2) Solve the system. If you find a value for every $\lambda$ then it is spanning
 
 ---
 
