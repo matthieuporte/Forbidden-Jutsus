@@ -171,13 +171,17 @@ Let $X$ and $Y$ two F.I.R.V. with $G_X$ and $G_Y$ their generating functions. Th
 
 $$
 \mathbb{R} \mapsto \mathbb{R} $$
-$$
-G_{X + Y} \colon t \to G_X(t) \times G_Y(t) \\ \iff G_Z = G_X \times G_Y $$
+$$\begin{aligned}
+& G_{X + Y} \colon t \to G_X(t) \times G_Y(t) \\
+& \qquad \iff G_Z = G_X \times G_Y 
+\end{aligned}$$
 
 as a consequence :
 
 $$ 
-\mathbb{E} (X + Y) = \mathbb{E}(X) + \mathbb{E}(Y) \\ \mathbb{V} (X + Y) = \mathbb{V}(X) + \mathbb{V}(Y) $$
+\mathbb{E} (X + Y) = \mathbb{E}(X) + \mathbb{E}(Y) $$
+$$
+\mathbb{V} (X + Y) = \mathbb{V}(X) + \mathbb{V}(Y) $$
 
 True for $\mathbb{V}$ if $X$ and $Y$ are independent.
 
