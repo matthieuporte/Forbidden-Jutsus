@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Neural Network.md",
+                "file": "Linux/Git.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Neural Network.md",
+                "file": "Linux/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Neural Network.md",
+                "file": "Linux/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Neural Network.md"
+                "file": "Linux/Git.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "800252986721b3a3",
   "lastOpenFiles": [
+    "Cyber/OverTheWire/1 - Bandit.md",
+    "Linux/Git.md",
     "Maths/Complex numbers.md",
     "Programming/Neural Network.md",
     "Maths/Linear Algebra/Vector Spaces.md",
@@ -170,14 +172,12 @@
     "Maths/0 - side quests",
     "Cyber/OverTheWire/Bandit.md",
     "Cyber/OverTheWire/2 - Leviathan.md",
-    "Cyber/OverTheWire/1 - Bandit.md",
     "Cyber/OverTheWire/Leviathan.md",
     "README.md",
     "Cyber/OverTheWire/flags/Bandit-flags.md",
     "Cyber/OverTheWire/0 - General stuff.md",
     "Linux/Vim.md",
     "Linux/Arch/System.md",
-    "Physique/Foundational Quantum Mechanics.md",
     "Cyber/OverTheWire/flags",
     "Programming/Code Golfing",
     "Linux/etc",
