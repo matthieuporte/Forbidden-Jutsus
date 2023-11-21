@@ -172,7 +172,17 @@ $E_{\lambda}$ is a vector sub-space of $\mathbb{K}^n$, called <u>**eigen sub-spa
 
 #### Direct sum of eigen sub-spaces
 
-#### Cancellation polynomials
+see [[1 - Vector Spaces]] for a revision on direct sums
+
+>[!danger] theorem
+> Let $\lambda_1,...,\lambda_k$ distinct eigen values of a square matrix $A$. Then the eigen sub-spaces $E_{\lambda_1},...,E_{\lambda_k}$ are in direct sum.
+
+
+#### Cancelling polynomials
+
+The polynomial $P \in \mathbb{K}[X]$ is a cancelling polynomial of $A$ if $P(A) = 0_{\mathcal{M}_n(\mathbb{K})}$
+
+By misuse, we write: $P(A) = 0$
 
 ### Characteristic polynomial 
 

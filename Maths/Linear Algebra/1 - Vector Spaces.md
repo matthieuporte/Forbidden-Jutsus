@@ -127,6 +127,12 @@ $F$ and $G$ are in direct sum in $E$ if
 
 We then denote $F \oplus G = E$
 
+The direct sum of the vector sub-spaces $F_1,F_2,...,F_3$ is denoted
+
+$$
+F_1 \oplus F_2 \oplus ... \oplus F_3 \quad \text{or} \quad \bigoplus^p_{i = 1} F_i
+$$
+
 $F$ and $G$ are called <u>additional sub-spaces</u>
 
 

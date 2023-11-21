@@ -6,7 +6,7 @@
       {
         "id": "0a950baf31956794",
         "type": "tabs",
-        "dimension": 70.83847102342786,
+        "dimension": 63.00863131935882,
         "children": [
           {
             "id": "ae9f883fd4349016",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Linear Algebra/Matrices.md",
+                "file": "Maths/ABA of maths.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
       {
         "id": "fbe1a66847ab206c",
         "type": "tabs",
-        "dimension": 29.161528976572132,
+        "dimension": 36.99136868064119,
         "children": [
           {
             "id": "92103c659d5778a4",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Linear Algebra/Matrices.md",
+                "file": "Maths/ABA of maths.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Linear Algebra/Matrices.md",
+                "file": "Maths/ABA of maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Linear Algebra/Matrices.md",
+                "file": "Maths/ABA of maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Linear Algebra/Matrices.md"
+                "file": "Maths/ABA of maths.md"
               }
             }
           }
@@ -170,7 +170,10 @@
   },
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
-    "Maths/Linear Algebra/Linear maps.md",
+    "Maths/Linear Algebra/3 - Matrices.md",
+    "Maths/ABA of maths.md",
+    "Maths/Linear Algebra/1 - Vector Spaces.md",
+    "Maths/Linear Algebra/2 - Linear maps.md",
     "Maths/Calculus/Integration.md",
     "Maths/Calculus/Differential Equations.md",
     "Algo/Graphs.md",
@@ -183,7 +186,6 @@
     "Maths/Probabilities.md",
     "Maths/Arithmetic.md",
     "Maths/Complex numbers.md",
-    "Maths/Linear Algebra/Vector Spaces.md",
     "Sandbox/Latex.md",
     "Sandbox/Highlights.md",
     "Sandbox/test code.md",
@@ -196,8 +198,6 @@
     "Linux/Git.md",
     "Cyber/OverTheWire/flags/Bandit-flags.md",
     "Physique/Foundational Quantum Mechanics.md",
-    "Programming/C.md",
-    "Maths/Linear Algebra/Matrices.md",
     "Images/200px-Matrix_transpose.gif",
     "Images/200px-Matrix_transpose.gif.crdownload",
     "Images/graphes1.jpg",
