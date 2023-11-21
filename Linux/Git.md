@@ -131,13 +131,60 @@ git clean -fd #deletes in sub dirs as well
 
 ### `git fetch`
 
+`git fetch` is a safe way to update your local repository with changes from a remote repository without automatically merging them. 
+
+Note that `git pull` fetches the remotes by itself
+
 ---
 
 ### `git branch`
 
----
+A branch in Git is a lightweight movable pointer to a commit. It allows you to work on different parts of your project simultaneously without affecting the main or other branches. Here are some common uses of the `git branch` command:
 
-### `git checkout`
+1. **List branches:**
+     ```bash
+     git branch
+     git branch -r # list remote branches
+     git branch -a # list all branches
+     ```
+
+2. **Create a new branch:**
+     ```bash
+     # This only creates a new branch but doesn't switch to it.
+     git branch [branch-name]
+     ```
+     
+
+3. **Switch between branches:**
+     ```bash
+     git checkout/switch [branch-name]
+     ```
+
+   >[!info]- Combine branch creation and switching
+   >
+   >```bash
+   >git checkout -b [new-branch-name]
+   >```
+   >or
+   >```bash
+   >git switch -c [new-branch-name]
+   >```
+
+5. **Rename a branch:**
+     ```bash
+     git branch -m [old-branch-name] [new-branch-name]
+     ```
+
+6. **Delete a branch:**
+   
+   This deletes the branch if it has been fully merged into the current branch. 
+     ```bash
+     git branch -d [branch-name]
+     ```
+     If you want to force-delete a branch, even if it contains unmerged changes, you can use `-D`:
+     ```bash
+     git branch -D [branch-name]
+     ```
 
 ---
 
@@ -204,7 +251,7 @@ git merge <branch-to-merge>
 >    After resolving the conflicts, mark the file as resolved:
 > 
 >    ```bash
->    git add <conflicted-file>
+>    git add \<conflicted-file>
 >    ```
 > 
 > 6. **Complete the Merge:**
