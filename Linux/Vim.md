@@ -54,6 +54,7 @@ _open a new file in a split panel_
 <C-w-w> Change buffer
 <⬆️-v> select whole line
 <⬆️-a> insert at end of line
+<⬆️-d> deletes till end of line
 <⬆️-k> open man page for word under cursor
 <v-i-w> select word
 <c-i-w> replace word

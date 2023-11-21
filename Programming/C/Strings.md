@@ -10,18 +10,21 @@ Malloc and print
 ```c
 char *result;
 int res = asprintf(&result, "The value is %d", 42);
+free(result); 
 ```
 
 ---
 
 ### Copy string
 
-Malloc and copy
+Malloc and copy 
 [strdup(3)](https://manpages.debian.org/bookworm/manpages-dev/strdup.3.en.html)
 
 ```c
 const char *original = "Hello, World!";
-char *duplicate; // Malloc and duplicates the original string
+// Malloc and duplicates the original string
+char *duplicate = strdup(original); 
+free(duplicate);
 ```
 
 ---

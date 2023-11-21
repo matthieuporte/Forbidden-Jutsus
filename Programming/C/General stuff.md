@@ -30,7 +30,7 @@
 | pointer | %p |
 | 5 0 before number | %05i |
 
-
+---
 
 ## How to Debug
 
@@ -41,8 +41,10 @@ CFLAGS = -g -fsanitize=address
 LDFLAGS = -fsanitize=address
 ```
 
-### GDB
 ---
+
+### GDB
+
 `gdb ./execfile` : launch gdb
 `ctrl + x` then `a` / `tab` : get in visual mode
 `start` : start the program
@@ -55,9 +57,10 @@ LDFLAGS = -fsanitize=address
 `ctrl + l` : fix the interface if it is buggy
 `q` : leave gdb
 
+---
 
 ### Change struct not in place and update pointer
----
+
 sometimes I want to change some struct so much that I'd rather create a new one, free the old one and change the pointer. The problem is that if you free the old pointer you can't update it anymore. The solution is to use **double pointers** like this :
 ```c
 #include <stdio.h>
@@ -108,6 +111,8 @@ The important point to remember is that you must update the value, not the point
 oldStructPtr = &newStruct; // change the pointer /!\ only in this scope
 ```
 
+---
+
 ### How to use ```.``` vs ```->```
 
 - Use **`.`** when you have an instance of the struct.
@@ -115,9 +120,10 @@ oldStructPtr = &newStruct; // change the pointer /!\ only in this scope
 
 the `->` dereferences while the `.` only access the value
 
+---
 
 ### Are malloc checks worth it ?
----
+
 In real code yes, but it's very rarely useful. anyway here's how to do it :
 ```c
 int *arr = malloc(10 * sizeof(int)); 

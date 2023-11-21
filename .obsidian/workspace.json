@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C/Strings.md",
+                "file": "Linux/Vim.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C/Strings.md",
+                "file": "Linux/Vim.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C/Strings.md",
+                "file": "Linux/Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/C/Strings.md",
+                "file": "Linux/Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/C/Strings.md"
+                "file": "Linux/Vim.md"
               }
             }
           }
@@ -170,9 +170,9 @@
   },
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
-    "Programming/C/General stuff.md",
-    "Programming/C/Strings.md",
     "Programming/C/Network.md",
+    "Programming/C/Strings.md",
+    "Programming/C/General stuff.md",
     "Programming/C/Code golfing.md",
     "Programming/Projects/Mandelbrot.md",
     "Programming/C/GTK.md",
