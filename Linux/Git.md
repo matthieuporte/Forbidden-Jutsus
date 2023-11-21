@@ -46,7 +46,7 @@ git revert <commit>
 >    Use the `git revert` command to create a new commit that undoes the changes introduced by a specific commit. Specify the commit hash or commit reference that you want to revert.
 >
 >     ```bash
->     git revert <commit>
+>     git revert \<commit>
 >     ```
 >   This command creates a new commit with changes that are the opposite of those introduced in the specified commit. The original commit is not removed or altered in any way.
 >   <br>
@@ -75,26 +75,6 @@ git revert HEAD~3...HEAD
 ```
 
 
----
-
-### List and change git branch
-```shell
-git fetch
-git branch #list all local branhes
-git branch -a #list all branches (-r to only list remote)
-git checkout mybranch #change branch
-```
-
----
-
-### List all tags
-```shell
-git tag -l
-# go to the commit of the tag in a new branch
-git checkout tags/[tagname] -b mybranch
-# show information about the tag itself
-git show [tagname]
-```
 
 ---
 
@@ -117,21 +97,21 @@ The basic `git reset` command is used to reset the current branch pointer to a s
 > This mode resets the branch pointer but leaves the changes in your working directory and staging area intact. The changes that were in the latest commit become staged (index), and you can modify them or commit them again.
 >
 >    ```bash
->    git reset --soft <commit>
+>    git reset --soft \<commit>
 >    ```
 
 >[!abstract]- **Mixed Reset (default):**
 >If you don't specify a mode, it performs a mixed reset by default. This resets the branch pointer and the staging area but leaves the changes in your working directory.
 >
 >    ```bash
->    git reset <commit>
+>    git reset \<commit>
 >    ```
 
 >[!abstract]- **Hard Reset (`git reset --hard`):**
 >This mode resets the branch pointer, the staging area, and discards all changes in your working directory. It essentially reverts your working directory to the state of the specified commit.
 >
 >    ```bash
->    git reset --hard <commit>
+>    git reset --hard \<commit>
 >    ```
 >    **Note:** Be careful when using `git reset --hard` as it discards changes in your working directory, and these changes cannot be easily recovered.
 
@@ -146,3 +126,112 @@ git clean -n #dry run
 git clean -f 
 git clean -fd #deletes in sub dirs as well
 ```
+
+---
+
+### `git fetch`
+
+---
+
+### `git branch`
+
+---
+
+### `git checkout`
+
+---
+
+### `git merge`
+
+`git merge` combines changes from multiple branches. 
+
+```bash
+git merge <branch-to-merge>
+```
+
+>[!abstract]- Tutorial
+>
+> 1. **Checkout the branch where you want to merge changes:**
+> 
+>    ```bash
+>    git checkout master
+>    ```
+> 
+> 2. **Run the merge command:**
+>    Merge the brach
+> 
+>    ```bash
+>    git merge feature-branch
+>    ```
+> 
+> 
+> 3. **Resolve conflicts (if any)**
+> <br>
+> 4. **Commit the merge:**
+> 
+>    ```bash
+>    git commit -m "Merge changes from feature-branch"
+>    ```
+
+>[!danger]- Resolve Git conflicts
+>  When you attempt to merge or pull changes and Git detects conflicting modifications in the same portion of a file, it will mark those files as conflicted, and you'll need to resolve the conflicts before completing the merge or pull. Here are the general steps to resolve conflicts :
+> 
+> 
+> 1. **Identify Conflicted Files:**
+> 
+>    Use `git status` to see which files have conflicts.
+>    Conflicted files will be listed as both "both modified" and "unmerged."
+>    <br>
+> 
+> 2. **Open Conflicted Files:**
+> 
+>    Open the conflicted files. Git inserts markers (<<<<<<<, =\=\=\=\=\==, and >>>>>>>) to highlight the conflicting sections. 
+>    <br>
+> 
+> 3. **Manually Resolve Conflicts:**
+> 
+>    Edit the conflicted file to manually merge the changes. Decide which changes to keep or combine both sets of changes. Remove the conflict markers when you've resolved the conflicts.
+> 
+>    ```plaintext
+>    <<<<<<< HEAD
+>    // changes from the current branch (master)
+>    =======
+>    // changes from the branch being merged (feature-branch)
+>    >>>>>>> feature-branch
+>    ```
+> 
+> 4. **Mark as Resolved:**
+>    After resolving the conflicts, mark the file as resolved:
+> 
+>    ```bash
+>    git add <conflicted-file>
+>    ```
+> 
+> 6. **Complete the Merge:**
+>    Continue and complete the merge or pull:
+> 
+>    ```bash
+>    git merge/pull --continue
+>    ```
+> 
+> 7. **Commit the Merge:**
+>    Finally, commit the resolved changes:
+> 
+>    ```bash
+>    git commit
+>    ```
+> 
+>    This commit message is automatically generated with a default message describing the merge.
+> 
+> After completing these steps, your conflicts should be resolved, and the merge or pull should be successfully completed. 
+
+
+---
+
+### `git tag`
+
+---
+
+### `git show`
+
+---
