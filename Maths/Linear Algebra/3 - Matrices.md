@@ -84,6 +84,12 @@ $$\text{Rank a} = \text{rank f} = dim(Im f)$$
 
 ---
 
+### Change of basis
+
+#wip
+
+---
+
 ### Determinant of a square matrix
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Maths/Linear Algebra/3 - Matrices.md",
                 "mode": "preview",
                 "source": true
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Wip",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "b30b37fe15292103",
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Maths/Linear Algebra/3 - Matrices.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Maths/Linear Algebra/3 - Matrices.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Maths/Linear Algebra/3 - Matrices.md"
           }
         }
       }
@@ -134,12 +134,18 @@
   "active": "29b1f17a79d0a392",
   "lastOpenFiles": [
     "Programming/Network.md",
+    "Maths/Linear Algebra/1 - Vector Spaces.md",
+    "Maths/Linear Algebra/3 - Matrices.md",
+    "Maths/Arithmetic.md",
+    "Maths/Trigonometry.md",
+    "Maths/Probabilities.md",
+    "Maths/Calculus/Taylor Expansions.md",
+    "Maths/Calculus/Series.md",
+    "Maths/Linear Algebra/2 - Linear maps.md",
+    "README.md",
     "/README.md",
     "/Programming/Network.md",
     "/Programming/Assembly.md",
-    "Maths/Linear Algebra/3 - Matrices.md",
-    "Maths/Linear Algebra/1 - Vector Spaces.md",
-    "Maths/Linear Algebra/2 - Linear maps.md",
     "Maths/ABA of maths.md",
     "Maths/Linear Algebra/Vector Spaces.md",
     "/Maths/Linear Algebra/2 - Linear maps.md",
@@ -147,7 +153,6 @@
     "/Maths/Linear Algebra/1 - Vector Spaces.md",
     "/Maths/ABA of maths.md",
     "Maths/Linear Algebra/Linear maps.md",
-    "Maths/Calculus/Series.md",
     "Cyber/OverTheWire/1 - Bandit.md",
     "Sandbox/Highlights.md",
     "Sandbox/Callouts.md",
@@ -156,11 +161,6 @@
     "Images/2023-11-08-094429_583x68_scrot.png",
     "/Sandbox/Highlights.md",
     "/Sandbox/Callouts.md",
-    "/Physique/Further content.md",
-    "/Maths/Trigonometry.md",
-    "/Maths/Linear Algebra/Vector Spaces.md",
-    "/Maths/Calculus/Series.md",
-    "/Maths/Calculus/Integration.md",
     "/Images/2023-11-08-094452_917x359_scrot.png",
     "/Images/2023-11-08-094429_583x68_scrot.png"
   ]
