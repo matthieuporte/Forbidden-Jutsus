@@ -180,9 +180,40 @@ see [[1 - Vector Spaces]] for a revision on direct sums
 
 #### Cancelling polynomials
 
-The polynomial $P \in \mathbb{K}[X]$ is a cancelling polynomial of $A$ if $P(A) = 0_{\mathcal{M}_n(\mathbb{K})}$
+>[!abstract] Definition
+>The polynomial $P \in \mathbb{K}[X]$ is a cancelling polynomial of $A$ if $P(A) = 0_{\mathcal{M}_n(\mathbb{K})}$
 
 By misuse, we write: $P(A) = 0$
+
+>[!info] Lemma
+>Let $P \in \mathbb{K}_p[X]$ a cancelling polynomial of a matrix $A \in \mathcal{M}_n(\mathbb{K})$.
+>> $$
+>> \text{Si }P(0) \neq 0, \text{ then }A\text{ is invertible}
+>> $$
+
+The cancelling polynomial can be a great tool to find the inverse of a square matrix :
+
+>[!example]-
+> The polynomial $P(X) = X^2 - 5X + 4$ is the cancelling polynomial of 
+> $$
+> A = \begin{pmatrix} 3 & -1 & -1 \\ -1 & 3 & -1 \\ -1 & -1 & 3  \end{pmatrix}
+> $$
+> We have $P(0) = 4 \neq 0$, therefore $A$ is invertible. 
+> $$
+> \begin{aligned}
+> & \space\space\qquad A^2-5A = -4I_3 \\
+> & \implies A(-\frac{1}{4}A + \frac{5}{4}I_3) = I_3 \\
+> & \implies A^{-1} = -\frac{1}{4}A + \frac{5}{4}I_3 \\
+> & \implies A^{-1} = 
+> \begin{pmatrix} 
+> 0.5 & 0.25 & 0.25 \\
+> 0.25 & 0.5 & 0.25 \\
+> 0.25 & 0.25 & 0.5  
+> \end{pmatrix}
+> \end{aligned}
+> $$
+
+#wip how to find a cancelling polynomial
 
 ### Characteristic polynomial 
 
