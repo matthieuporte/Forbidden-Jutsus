@@ -277,8 +277,39 @@ git merge <branch-to-merge>
 
 ### `git tag`
 
----
+A tag is a reference that points to a specific commit. Tags are often used to mark specific points in Git history, such as releases or significant milestones. Unlike branches, tags are immutable and do not move as new commits are added. 
 
-### `git show`
+1. **Create a Tag:**
+   To create a lightweight tag (essentially just a reference to a specific commit), you can use:
+     ```bash
+     git tag [tag-name]
+     ```
+
+2. **Create an Annotated Tag:**
+   To create an annotated tag (a tag object with additional information such as a tagger name, email, date, and a tagging message), you can use:
+     ```bash
+     git tag -a [tag-name] -m "Tagging version 1.0.0"
+     ```
+
+3. **List Tags:**
+     ```bash
+     git tag
+     ```
+
+4. **List Tags Matching a Pattern:**
+     ```bash
+     git tag -l "v1.*" # all tags that start with v1
+     ```
+
+5. **View Tag Information:**
+     ```bash
+     git show [tag-name]
+     ```
+
+6. **Delete a Tag:**
+     ```bash
+     git tag -d [tag-name]
+     ```
+
 
 ---
