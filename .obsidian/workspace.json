@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Vim.md",
+                "file": "Linux/Git.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Vim.md",
+                "file": "Linux/Git.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Vim.md",
+                "file": "Linux/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Vim.md",
+                "file": "Linux/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Vim.md"
+                "file": "Linux/Git.md"
               }
             }
           }
@@ -171,6 +171,8 @@
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
     "Programming/C/Network.md",
+    "Maths/Linear Algebra/3 - Matrices.md",
+    "Linux/Vim.md",
     "Programming/C/Strings.md",
     "Programming/C/General stuff.md",
     "Programming/C/Code golfing.md",
@@ -181,7 +183,6 @@
     "Maths/ABA of maths.md",
     "Cyber/root.md",
     "README.md",
-    "Maths/Linear Algebra/3 - Matrices.md",
     "().md",
     "Programming/Assembly.md",
     "Programming/Projects",
@@ -198,7 +199,6 @@
     "Cyber/OverTheWire/0 - General stuff.md",
     "Linux/Dictionary.md",
     "Maths/Calculus/Series.md",
-    "Maths/Calculus/Taylor Expansions.md",
     "Images/2023-11-08-094429_583x68_scrot.png",
     "Images/2023-11-08-094452_917x359_scrot.png",
     "Images/200px-Matrix_transpose.gif",
