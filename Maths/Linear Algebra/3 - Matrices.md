@@ -82,6 +82,9 @@ The transition matrix allows us to change the basis.
 
 $$\text{Rank a} = \text{rank f} = dim(Im f)$$
 
+>[!warning] Transition Matrix vs Matrix of a linear map
+> #wip
+
 ---
 
 ### Change of basis

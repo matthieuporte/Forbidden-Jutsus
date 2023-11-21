@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "b30b37fe15292103",
@@ -133,14 +133,15 @@
   },
   "active": "29b1f17a79d0a392",
   "lastOpenFiles": [
-    "Programming/Network.md",
-    "Maths/Linear Algebra/1 - Vector Spaces.md",
+    "Maths/Calculus/Series.md",
     "Maths/Linear Algebra/3 - Matrices.md",
+    "Maths/Linear Algebra/1 - Vector Spaces.md",
+    "Programming/C.md",
+    "Programming/Network.md",
     "Maths/Arithmetic.md",
     "Maths/Trigonometry.md",
     "Maths/Probabilities.md",
     "Maths/Calculus/Taylor Expansions.md",
-    "Maths/Calculus/Series.md",
     "Maths/Linear Algebra/2 - Linear maps.md",
     "README.md",
     "/README.md",
@@ -160,7 +161,6 @@
     "Images/2023-11-08-094452_917x359_scrot.png",
     "Images/2023-11-08-094429_583x68_scrot.png",
     "/Sandbox/Highlights.md",
-    "/Sandbox/Callouts.md",
     "/Images/2023-11-08-094452_917x359_scrot.png",
     "/Images/2023-11-08-094429_583x68_scrot.png"
   ]
