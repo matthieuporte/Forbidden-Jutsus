@@ -14,3 +14,6 @@ It is made to be read in Obsidian. Feel free to clone and to use it !
 7) git clone and have fun
 
 
+### Obsidian tricks
+
+Split view open : ctrl+click on the read/write btn

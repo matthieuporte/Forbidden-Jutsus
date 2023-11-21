@@ -1,4 +1,6 @@
 
+[Motorola 68000 Doc](http://www.easy68k.com/files/EASy68KQuickRef.pdf)
+[Debug.pro/assembly](http://www.debug-pro.com/epita/archi/s3/en/)
 
 ### Geany Shortcuts
 

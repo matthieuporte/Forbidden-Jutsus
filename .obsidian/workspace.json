@@ -6,7 +6,7 @@
       {
         "id": "0a950baf31956794",
         "type": "tabs",
-        "dimension": 59.00123304562269,
+        "dimension": 51.447935921133706,
         "children": [
           {
             "id": "ae9f883fd4349016",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Linear Algebra/3 - Matrices.md",
+                "file": "Programming/Assembly.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
       {
         "id": "fbe1a66847ab206c",
         "type": "tabs",
-        "dimension": 40.99876695437732,
+        "dimension": 48.552064078866294,
         "children": [
           {
             "id": "92103c659d5778a4",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Linear Algebra/3 - Matrices.md",
+                "file": "Programming/Assembly.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Linear Algebra/3 - Matrices.md",
+                "file": "Programming/Assembly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Linear Algebra/3 - Matrices.md",
+                "file": "Programming/Assembly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Linear Algebra/3 - Matrices.md"
+                "file": "Programming/Assembly.md"
               }
             }
           }
@@ -168,10 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92103c659d5778a4",
+  "active": "ae9f883fd4349016",
   "lastOpenFiles": [
-    "Maths/ABA of maths.md",
+    "README.md",
+    "Programming/Network.md",
     "Maths/Linear Algebra/3 - Matrices.md",
+    "Maths/ABA of maths.md",
     "Maths/Linear Algebra/1 - Vector Spaces.md",
     "Maths/Linear Algebra/2 - Linear maps.md",
     "Maths/Calculus/Integration.md",
@@ -193,11 +195,9 @@
     "Sandbox/Callouts.md",
     "Images/2023-11-08-094429_583x68_scrot.png",
     "Images/2023-11-08-094452_917x359_scrot.png",
-    "README.md",
     "Physique/Further content.md",
     "Linux/Git.md",
     "Cyber/OverTheWire/flags/Bandit-flags.md",
-    "Physique/Foundational Quantum Mechanics.md",
     "Images/200px-Matrix_transpose.gif",
     "Images/200px-Matrix_transpose.gif.crdownload",
     "Images/graphes1.jpg",
