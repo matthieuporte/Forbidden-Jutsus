@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Programming/C/Strings.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Programming/C/Strings.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Programming/C/Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Programming/C/Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Programming/C/Strings.md"
               }
             }
           }
@@ -170,23 +170,25 @@
   },
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
-    "Maths/Linear Algebra/3 - Matrices.md",
-    "().md",
-    "README.md",
-    "Programming/Assembly.md",
-    "Programming/Projects/Network.md",
+    "Programming/C/General stuff.md",
+    "Programming/C/Strings.md",
+    "Programming/C/Network.md",
+    "Programming/C/Code golfing.md",
     "Programming/Projects/Mandelbrot.md",
-    "Programming/Projects",
-    "Programming/Low level/Sequential Logic.md",
+    "Programming/C/GTK.md",
     "Programming/Low level/Assembly.md",
     "Programming/Low level/Arduino.md",
+    "Maths/ABA of maths.md",
+    "Cyber/root.md",
+    "README.md",
+    "Maths/Linear Algebra/3 - Matrices.md",
+    "().md",
+    "Programming/Assembly.md",
+    "Programming/Projects",
+    "Programming/Low level/Sequential Logic.md",
     "Programming/Low level",
-    "Programming/C/General stuff.md",
-    "Programming/C/GTK.md",
-    "Programming/C/Code golfing.md",
     "Programming/C",
     "Programming/Network.md",
-    "Maths/ABA of maths.md",
     "Maths/Linear Algebra/1 - Vector Spaces.md",
     "Maths/Linear Algebra/2 - Linear maps.md",
     "Maths/Calculus/Integration.md",
@@ -197,8 +199,6 @@
     "Linux/Dictionary.md",
     "Maths/Calculus/Series.md",
     "Maths/Calculus/Taylor Expansions.md",
-    "Maths/Trigonometry.md",
-    "Maths/Probabilities.md",
     "Images/2023-11-08-094429_583x68_scrot.png",
     "Images/2023-11-08-094452_917x359_scrot.png",
     "Images/200px-Matrix_transpose.gif",

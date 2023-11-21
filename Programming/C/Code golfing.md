@@ -1,5 +1,6 @@
+The objective of code golf is to achieve the shortest possible source code length (in terms of characters) while still producing correct and functional solutions.
 
-### Techniques to code golf in C
+Below are the tips I found for golfing in C
 
 ---
 
