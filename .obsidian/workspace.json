@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Regex.md",
+                "file": "Programming/web/web3.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Regex.md",
+                "file": "Programming/web/web3.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Regex.md",
+                "file": "Programming/web/web3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Regex.md",
+                "file": "Programming/web/web3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Regex.md"
+                "file": "Programming/web/web3.md"
               }
             }
           }
@@ -170,7 +170,12 @@
   },
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
+    "Programming/web/nodeApp.md",
+    "Programming/web/web3.md",
     "Linux/Git.md",
+    "Programming/web/web 3.md",
+    "Programming/web",
+    "Programming/Regex.md",
     "Programming/C/Strings.md",
     "Programming/C/Network.md",
     "Sandbox/Callouts.md",
@@ -195,10 +200,6 @@
     "Maths/Linear Algebra/1 - Vector Spaces.md",
     "Maths/Linear Algebra/2 - Linear maps.md",
     "Maths/Calculus/Integration.md",
-    "Maths/Calculus/Differential Equations.md",
-    "Algo/Graphs.md",
-    "Cyber/OverTheWire/1 - Bandit.md",
-    "Cyber/OverTheWire/0 - General stuff.md",
     "Images/2023-11-08-094429_583x68_scrot.png",
     "Images/2023-11-08-094452_917x359_scrot.png",
     "Images/200px-Matrix_transpose.gif",
@@ -209,7 +210,6 @@
     "Programming/Code Golfing",
     "Linux/etc",
     "Sandbox",
-    "Linux/Low level",
     "Images/ElectromagSpectrum.jpeg",
     "Images/2023-02-07-131428_1048x587_scrot.png",
     "Images/2023-02-07-131323_1350x423_scrot.png",
