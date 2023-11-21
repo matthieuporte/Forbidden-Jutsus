@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Assembly.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Assembly.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Assembly.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Assembly.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Assembly.md"
+                "file": "README.md"
               }
             }
           }
@@ -170,9 +170,22 @@
   },
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
-    "README.md",
-    "Programming/Network.md",
     "Maths/Linear Algebra/3 - Matrices.md",
+    "().md",
+    "README.md",
+    "Programming/Assembly.md",
+    "Programming/Projects/Network.md",
+    "Programming/Projects/Mandelbrot.md",
+    "Programming/Projects",
+    "Programming/Low level/Sequential Logic.md",
+    "Programming/Low level/Assembly.md",
+    "Programming/Low level/Arduino.md",
+    "Programming/Low level",
+    "Programming/C/General stuff.md",
+    "Programming/C/GTK.md",
+    "Programming/C/Code golfing.md",
+    "Programming/C",
+    "Programming/Network.md",
     "Maths/ABA of maths.md",
     "Maths/Linear Algebra/1 - Vector Spaces.md",
     "Maths/Linear Algebra/2 - Linear maps.md",
@@ -186,18 +199,8 @@
     "Maths/Calculus/Taylor Expansions.md",
     "Maths/Trigonometry.md",
     "Maths/Probabilities.md",
-    "Maths/Arithmetic.md",
-    "Maths/Complex numbers.md",
-    "Sandbox/Latex.md",
-    "Sandbox/Highlights.md",
-    "Sandbox/test code.md",
-    "Sandbox/Mermaid graphs.md",
-    "Sandbox/Callouts.md",
     "Images/2023-11-08-094429_583x68_scrot.png",
     "Images/2023-11-08-094452_917x359_scrot.png",
-    "Physique/Further content.md",
-    "Linux/Git.md",
-    "Cyber/OverTheWire/flags/Bandit-flags.md",
     "Images/200px-Matrix_transpose.gif",
     "Images/200px-Matrix_transpose.gif.crdownload",
     "Images/graphes1.jpg",
@@ -213,9 +216,6 @@
     "Images/2023-02-07-131234_1360x404_scrot.png",
     "Images/2023-02-07-131140_1330x401_scrot.png",
     "Images/2023-02-07-131058_875x509_scrot.png",
-    "Images",
-    "Cyber/Untitled",
-    "Cyber/OverTheWire",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

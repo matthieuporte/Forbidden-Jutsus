@@ -13,12 +13,12 @@ It is made to be read in Obsidian. Feel free to clone and to use it !
 
 This is enough if you only want to read the content. Then use the obsidian git plugin to pull
 
-#### push through http
+#### Push through http
 1) ```pkg install gh```
 2) ```gh auth login```
 3) setup github token (not recommended)
 
-#### push through ssh
+#### Push through ssh
 1) ssh
 
 
