@@ -5,13 +5,21 @@ It is made to be read in Obsidian. Feel free to clone and to use it !
 
 ### Sync on Mobile
 
-1) Download [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=fr&gl=US)
+1) Download Termux on [Play Store](https://play.google.com/store/apps/details?id=com.termux&hl=fr&gl=US)  or [Softonic](https://termux.fr.softonic.com/android)
 2) ```pkg update && pkg upgrade```
-3) ```pkg install git```
-4) ```pkg install gh```
-5) ```termux-setup-storage```
-6) ```gh auth login```
-7) git clone and have fun
+3) ```termux-setup-storage```
+4) ```pkg install git```
+5) `git clone`
+
+This is enough if you only want to read the content. Then use the obsidian git plugin to pull
+
+#### push through http
+1) ```pkg install gh```
+2) ```gh auth login```
+3) setup github token (not recommended)
+
+#### push through ssh
+1) ssh
 
 
 ### Obsidian tricks

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber/OverTheWire/flags/Bandit-flags.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cyber/OverTheWire/flags/Bandit-flags.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Cyber/OverTheWire/flags/Bandit-flags.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Cyber/OverTheWire/flags/Bandit-flags.md"
+            "file": "README.md"
           }
         }
       }
@@ -158,17 +158,22 @@
   },
   "active": "e49c7cc8a7cc66a6",
   "lastOpenFiles": [
+    "().md",
+    "README.md",
+    "Programming/Projects/Network.md",
+    "Cyber/OverTheWire/1 - Bandit.md",
+    "Sandbox/Latex.md",
+    "Sandbox/Highlights.md",
+    "Cyber/OverTheWire/flags/Bandit-flags.md",
     "Programming/C/General stuff.md",
     "Programming/C/GTK.md",
     "Programming/C/Code golfing.md",
-    "README.md",
     "Programming/Projects/Mandelbrot.md",
     "Programming/C",
     "Programming/Projects",
     "Maths/Linear Algebra/3 - Matrices.md",
     "Maths/Calculus/Series.md",
     "Maths/Linear Algebra/1 - Vector Spaces.md",
-    "Programming/Projects/Network.md",
     "Maths/Arithmetic.md",
     "Maths/Trigonometry.md",
     "Maths/Probabilities.md",
@@ -181,11 +186,6 @@
     "Maths/Linear Algebra/Vector Spaces.md",
     "/Maths/Linear Algebra/2 - Linear maps.md",
     "/Maths/Linear Algebra/3 - Matrices.md",
-    "/Maths/Linear Algebra/1 - Vector Spaces.md",
-    "/Maths/ABA of maths.md",
-    "Maths/Linear Algebra/Linear maps.md",
-    "Cyber/OverTheWire/1 - Bandit.md",
-    "Sandbox/Highlights.md",
     "Images/2023-11-08-094452_917x359_scrot.png",
     "Images/2023-11-08-094429_583x68_scrot.png",
     "/Images/2023-11-08-094452_917x359_scrot.png",
