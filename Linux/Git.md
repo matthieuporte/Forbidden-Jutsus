@@ -51,8 +51,8 @@ git revert <commit>
 >   This command creates a new commit with changes that are the opposite of those introduced in the specified commit. The original commit is not removed or altered in any way.
 >   <br>
 >
->3. **Resolve Conflicts (if any):**
->   If there are conflicts between the changes introduced by the commit you're reverting and changes in your current branch, Git will pause and ask you to resolve the conflicts before it can continue with the revert. You'll need to manually resolve these conflicts, add the resolved files, and continue the revert.
+>3. **Resolve Conflicts (if any)**
+>Some explanations are in the `git merge` section.
 >   <br>
 >
 >4. **Commit the Revert:**
@@ -271,6 +271,63 @@ git merge <branch-to-merge>
 >    This commit message is automatically generated with a default message describing the merge.
 > 
 > After completing these steps, your conflicts should be resolved, and the merge or pull should be successfully completed. 
+
+#### Merge Strategies
+
+
+>[!example]- **Fast-Forward Merge**
+>    - This is the simplest form of merging.
+>    - It occurs when the branch being merged has no new commits since the branch it is to be merged into was created.
+>    - The branch pointer is simply moved forward to the tip of the other branch.
+>
+>    ```bash
+>    git checkout main
+>    git merge feature_branch
+>    ```
+
+>[!example]- **Recursive Merge**
+>    - This is the default merge strategy in Git.
+>    - It is used when two branches have diverged and need to be reconciled.
+>    - Git automatically identifies common ancestors and creates a new commit that combines changes from both branches.
+>
+>    ```bash
+>    git checkout main
+>    git merge feature_branch
+>    ```
+
+>[!example]- **Squash Merge**
+>    - In a squash merge, all the changes from the feature branch are combined into a single new commit on the destination branch.
+>    - This can be useful to maintain a clean, linear history.
+>    - It's often used when the development history of the feature branch is not critical.
+>
+>    ```bash
+>    git checkout main
+>    git merge --squash feature_branch
+>    git commit -m "Merged feature_branch with squash"
+>    ```
+
+>[!example]- **Octopus Merge**
+>    - An octopus merge is used when merging more than two branches simultaneously.
+>    - It creates a merge commit with more than two parents.
+>    - This is less common and is usually used in scenarios where multiple feature branches need to be merged into a single branch.
+>
+>    ```bash
+>    git checkout main
+>    git merge feature_branch1 feature_branch2
+>    ```
+
+>[!example]- **Rebase**
+>    - Rebase is not exactly a merge, but it's a way to integrate changes from one branch into another.
+>    - It involves moving or combining a sequence of commits to a new base commit.
+>    - It can create a cleaner, linear history but should be used with caution, especially on shared branches.
+>
+>    ```bash
+>    git checkout feature_branch
+>    git rebase main
+>    ```
+>
+>    Note: Rebasing rewrites commit history, so it should not be used on branches that others are working on or have already pulled.
+
 
 
 ---
