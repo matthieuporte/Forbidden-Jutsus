@@ -9,7 +9,7 @@ It is made to be read in Obsidian. Feel free to clone and to use it !
 2) ```pkg update && pkg upgrade```
 3) ```pkg install git```
 4) ```pkg install gh```
-5) ```termux setup storage```
+5) ```termux-setup-storage```
 6) ```gh auth login```
 7) git clone and have fun
 

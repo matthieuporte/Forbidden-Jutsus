@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber/OverTheWire/1 - Bandit.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cyber/OverTheWire/1 - Bandit.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Cyber/OverTheWire/1 - Bandit.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Cyber/OverTheWire/1 - Bandit.md"
+            "file": "README.md"
           }
         }
       }
@@ -133,15 +133,35 @@
   },
   "active": "29b1f17a79d0a392",
   "lastOpenFiles": [
-    "Algo/Graphs.md",
-    "/Sandbox/Markdown Examples.md",
-    "/Algo/Graphs.md",
-    "Sandbox/Latex.md",
+    "Programming/Network.md",
+    "/README.md",
+    "/Programming/Network.md",
+    "/Programming/Assembly.md",
+    "Maths/Linear Algebra/3 - Matrices.md",
+    "Maths/Linear Algebra/1 - Vector Spaces.md",
+    "Maths/Linear Algebra/2 - Linear maps.md",
+    "Maths/ABA of maths.md",
     "Maths/Linear Algebra/Vector Spaces.md",
-    "To do list.md",
-    "/Sandbox/Latex.md",
+    "/Maths/Linear Algebra/2 - Linear maps.md",
+    "/Maths/Linear Algebra/3 - Matrices.md",
+    "/Maths/Linear Algebra/1 - Vector Spaces.md",
+    "/Maths/ABA of maths.md",
+    "Maths/Linear Algebra/Linear maps.md",
+    "Maths/Calculus/Series.md",
+    "Cyber/OverTheWire/1 - Bandit.md",
+    "Sandbox/Highlights.md",
+    "Sandbox/Callouts.md",
+    "Physique/Further content.md",
+    "Images/2023-11-08-094452_917x359_scrot.png",
+    "Images/2023-11-08-094429_583x68_scrot.png",
+    "/Sandbox/Highlights.md",
+    "/Sandbox/Callouts.md",
+    "/Physique/Further content.md",
+    "/Maths/Trigonometry.md",
     "/Maths/Linear Algebra/Vector Spaces.md",
-    "/Linux/Git.md",
-    "/Cyber/OverTheWire/1 - Bandit.md"
+    "/Maths/Calculus/Series.md",
+    "/Maths/Calculus/Integration.md",
+    "/Images/2023-11-08-094452_917x359_scrot.png",
+    "/Images/2023-11-08-094429_583x68_scrot.png"
   ]
 }
