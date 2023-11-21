@@ -138,3 +138,51 @@ $$A = \begin{pmatrix} 2 & 4 & 2 \\ 0 & 2 & 3 \\ 0 & 0 & 3  \end{pmatrix}, det(A)
 
 
 ---
+
+## Diagonalization of a square matrix
+
+As we've just seen, life is easy with triangular of diagonal matrices. Our goal in this section is gonna be to reduce a matrix aka make it triangular or diagonal.
+
+### Introduction
+
+#### Eigen values and eigen vectors
+
+>[!abstract] Definition
+> Let $A \in \mathcal{M}_n(\mathbb{K})$ and $\lambda \in \mathbb{K}$.
+> 1. We denote $\lambda$ as an <u>**eigen value**</u> of $A$ if there exists a vector $v \in \mathbb{K}^n$ not null such that $Av = \lambda v$ 
+> 2. The vector $v$ is called <u>**eigen vector**</u> associated with $A$.
+> 3. The set of eigen values of $A$ in $\mathbb{K}$ is called <u>**spectrum**</u> of $A$ in $\mathbb{K}$, denoted $Sp_{\mathbb{K}}(A)$.
+
+⚠ The vector $v$ (eigen vector) is non-null by definition, but the eigen value can be null !
+
+#### Eigen sub-spaces
+
+Let $\lambda$ an eigen value of a square matrix $A$. Then :
+
+$$
+E_{\lambda} = \{v \in \mathbb{K}^n | Av = \lambda v\} = Ker(A -\lambda I_n)
+$$
+
+$E_{\lambda}$ is a vector sub-space of $\mathbb{K}^n$, called <u>**eigen sub-space**</u> of $A$ associated with the eigen value $\lambda$.
+
+>[!abstract] Definition
+> A vector sub space $F$ of $\mathbb{K}^n$ is $A$-stable if $\forall v \in F, Av \in F$. We say $AF \subset F$.
+> >[!info] Proposition
+> >An eigen space of a matrix $A$ is $A$-stable 
+
+#### Direct sum of eigen sub-spaces
+
+#### Cancellation polynomials
+
+### Characteristic polynomial 
+
+### Diagonalizable matrices
+
+### Applications
+
+#### Computation of the power of a square matrix
+
+#### Solving a system of recurrent sequences
+
+#### Solving a linear differential system with constant coefficients.
+

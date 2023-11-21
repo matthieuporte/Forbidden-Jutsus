@@ -6,7 +6,7 @@
       {
         "id": "0a950baf31956794",
         "type": "tabs",
-        "dimension": 60.23427866831072,
+        "dimension": 70.83847102342786,
         "children": [
           {
             "id": "ae9f883fd4349016",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Calculus/Integration.md",
+                "file": "Maths/Linear Algebra/Matrices.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
       {
         "id": "fbe1a66847ab206c",
         "type": "tabs",
-        "dimension": 39.76572133168928,
+        "dimension": 29.161528976572132,
         "children": [
           {
             "id": "92103c659d5778a4",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Calculus/Integration.md",
+                "file": "Maths/Linear Algebra/Matrices.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Calculus/Integration.md",
+                "file": "Maths/Linear Algebra/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Calculus/Integration.md",
+                "file": "Maths/Linear Algebra/Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Calculus/Integration.md"
+                "file": "Maths/Linear Algebra/Matrices.md"
               }
             }
           }
@@ -170,6 +170,8 @@
   },
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
+    "Maths/Linear Algebra/Linear maps.md",
+    "Maths/Calculus/Integration.md",
     "Maths/Calculus/Differential Equations.md",
     "Algo/Graphs.md",
     "Cyber/OverTheWire/1 - Bandit.md",
@@ -181,7 +183,6 @@
     "Maths/Probabilities.md",
     "Maths/Arithmetic.md",
     "Maths/Complex numbers.md",
-    "Maths/Linear Algebra/Linear maps.md",
     "Maths/Linear Algebra/Vector Spaces.md",
     "Sandbox/Latex.md",
     "Sandbox/Highlights.md",
@@ -197,7 +198,6 @@
     "Physique/Foundational Quantum Mechanics.md",
     "Programming/C.md",
     "Maths/Linear Algebra/Matrices.md",
-    "Maths/Calculus/Basic relations.md",
     "Images/200px-Matrix_transpose.gif",
     "Images/200px-Matrix_transpose.gif.crdownload",
     "Images/graphes1.jpg",
