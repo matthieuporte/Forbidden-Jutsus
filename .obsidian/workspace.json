@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Linear Algebra/3 - Matrices.md",
+                "file": "Linux/Arch/Install.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Linear Algebra/3 - Matrices.md",
+                "file": "Linux/Arch/Install.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Linear Algebra/3 - Matrices.md",
+                "file": "Linux/Arch/Install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Linear Algebra/3 - Matrices.md",
+                "file": "Linux/Arch/Install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Linear Algebra/3 - Matrices.md"
+                "file": "Linux/Arch/Install.md"
               }
             }
           }
@@ -170,12 +170,14 @@
   },
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
-    "Sandbox/Latex.md",
-    "Maths/Linear Algebra/3 - Matrices.md",
-    "Linux/Arch/System.md",
+    "Linux/LFS/Install.md",
+    "Linux/Arch/Install.md",
     "Linux/Git.md",
-    "README.md",
     "Programming/Makefile.md",
+    "Maths/Linear Algebra/3 - Matrices.md",
+    "Sandbox/Latex.md",
+    "Linux/Arch/System.md",
+    "README.md",
     "Linux/Everyday commands.md",
     "Programming/web/web3.md",
     "Programming/web/nodeApp.md",
@@ -195,9 +197,7 @@
     "Maths/ABA of maths.md",
     "Cyber/root.md",
     "().md",
-    "Programming/Assembly.md",
     "Programming/Projects",
-    "Programming/Low level/Sequential Logic.md",
     "Programming/Low level",
     "Programming/C",
     "Images/2023-11-08-094429_583x68_scrot.png",
