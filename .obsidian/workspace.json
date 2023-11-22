@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "README",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,8 +151,9 @@
   "active": "92103c659d5778a4",
   "lastOpenFiles": [
     "Linux/Vim.md",
-    "Programming/C/GTK.md",
     "Maths/Linear Algebra/3 - Matrices.md",
+    "README.md",
+    "Programming/C/GTK.md",
     "Linux/Everyday commands.md",
     "Cyber/OverTheWire/1 - Bandit.md",
     "Images/220px-Area_parallellogram_as_determinant.svg.jpg",
@@ -163,7 +165,6 @@
     "Sandbox/Latex.md",
     "Linux/Arch/System.md",
     "Linux/Git.md",
-    "README.md",
     "Programming/Makefile.md",
     "Programming/web/web3.md",
     "Programming/web/nodeApp.md",

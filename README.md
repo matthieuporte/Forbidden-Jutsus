@@ -30,8 +30,9 @@ Split view open : ctrl+click on the read/write btn
 
 ### Obsidian shortcuts
 
-```
-<Ctrl+E> toggle editing mode
+```c
+<Ctrl+e> toggle editing mode
 <Ctrl+Maj+F> Find file
-<Ctrl+H> Replace in file
+<Ctrl+f> Find in file
+<Ctrl+h> Replace in file
 ```
