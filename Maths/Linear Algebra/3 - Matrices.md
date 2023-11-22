@@ -99,7 +99,7 @@ $$
 P = \begin{bmatrix} [v_1]_{\mathcal{B}_2} & ... & [v_n]_{\mathcal{B}_2} \end{bmatrix}
 $$
 
->[!example]
+>[!example]-
 >
 >Let $V = \mathbb{R}^2$, $\mathcal{B}_1$ be the standard basis and $\mathcal{B}_2 = \{[ 1 \space 1 ],[0 \space 1]\}$ . Then:
 >
@@ -112,6 +112,8 @@ $$
 ### Change of basis
 
 #WIP 
+
+$Q^{-1}AP = A'$
 
 >[!example] Exercise
 >Let  $\mathcal{B}_1$ and $\mathcal{B}_2$ be the standard input and output basis of $f$
@@ -130,12 +132,16 @@ $$
 > >
 > >Deduce the matrix of $f$ from $\mathcal{B}_1$ to $\mathcal{B}_2$
 > >
-> >$
-> >A = \begin{pmatrix} 1 & 2 & 4 \\ 0 & 1 & 4   \end{pmatrix}
-> >$
-> 1) #### Find both transition matrices
-> 
+> >$A = \begin{pmatrix} 1 & 2 & 4 \\ 0 & 1 & 4   \end{pmatrix}$
+> 2) #### Find both transition matrices
+> >Let $P$ be the transition matrix from $\mathcal{B}_1$ to $\mathcal{B}_1'$.
+> >Let $Q$ be the transition matrix from $\mathcal{B}_2$ to $\mathcal{B}_2'$.
+> >
+> >$P = \begin{pmatrix} 1 & 0 & 0 \\ -2 & 1 & 0 \\ 1 & -1 & 1   \end{pmatrix}$
+> >
+> >$Q = \begin{pmatrix} -3 & 2 \\ 2 & -1 \end{pmatrix}$
 > 3) #### Deduce the matrix of f $\mathcal{B}_1'$ to $\mathcal{B}_2'$
+> > #WIP  
 
 
 ---
