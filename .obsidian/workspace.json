@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Everyday commands.md",
+                "file": "Programming/Makefile.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Everyday commands.md",
+                "file": "Programming/Makefile.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Everyday commands.md",
+                "file": "Programming/Makefile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Everyday commands.md",
+                "file": "Programming/Makefile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Everyday commands.md"
+                "file": "Programming/Makefile.md"
               }
             }
           }
@@ -170,8 +170,9 @@
   },
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
-    "Programming/web/web3.md",
     "Linux/Everyday commands.md",
+    "Programming/Makefile.md",
+    "Programming/web/web3.md",
     "Programming/web/nodeApp.md",
     "Linux/Git.md",
     "Programming/web/web 3.md",
@@ -199,7 +200,6 @@
     "Programming/C",
     "Programming/Network.md",
     "Maths/Linear Algebra/1 - Vector Spaces.md",
-    "Maths/Linear Algebra/2 - Linear maps.md",
     "Images/2023-11-08-094429_583x68_scrot.png",
     "Images/2023-11-08-094452_917x359_scrot.png",
     "Images/200px-Matrix_transpose.gif",
