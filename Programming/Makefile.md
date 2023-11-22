@@ -12,7 +12,6 @@ LDLIBS =
 SRC = main.c print_page.c
 OBJ = $(SRC:.c=.o)  
 DEP = ${SRC:.c=.d}
-HDR = print_page.h
 
 # Output binary
 OUT = print_page
@@ -25,7 +24,7 @@ $(OUT): $(OBJ)
 	$(CC) $(CFLAGS) -o $@ $^
 
 # Rule for compiling source files to object files
-%.o: %.c $(HDR)
+%.o: %.c
 	$(CC) $(CFLAGS) -c -o $@ $<
   
 -include ${DEP}
@@ -54,7 +53,7 @@ LDLIBS =
 
 Here, we define the compiler (`CC`) as `gcc` and set some compiler and linker flags. 
 
-- `CPPFLAGS` includes options for the preprocessor, specifically `-MMD` which generates dependency information during compilation.
+- `CPPFLAGS` includes options for the preprocessor, specifically `-MMD` . This flag instructs the compiler to generate dependency information in a separate file with a `.d` extension for each source file.
 
 - `CFLAGS` includes compiler flags, such as `-Wall` (enable most warning messages), `-Werror` (treat warnings as errors), and `-Wextra` (enable some extra warning messages).
 
@@ -101,11 +100,11 @@ This rule describes how to link the object files (`$(OBJ)`) into the final binar
 
 ```makefile
 # Rule for compiling source files to object files
-%.o: %.c $(HDR)
+%.o: %.c
 	$(CC) $(CFLAGS) -c -o $@ $<
 ```
 
-This rule describes how to compile individual source files (`%.c`) into object files (`%.o`). It depends on the corresponding header file (`$(HDR)`). The `-c` flag tells the compiler to generate object files, and `-o $@` specifies the output file name.
+This rule describes how to compile individual source files (`%.c`) into object files (`%.o`). The `-c` flag tells the compiler to generate object files, and `-o $@` specifies the output file name.
 
 ```makefile
 -include ${DEP}
