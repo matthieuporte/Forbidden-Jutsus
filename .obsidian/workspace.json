@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Linux/Vim.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -151,10 +151,10 @@
   "active": "92103c659d5778a4",
   "lastOpenFiles": [
     "Programming/C/GTK.md",
+    "Linux/Vim.md",
     "Maths/Linear Algebra/3 - Matrices.md",
     "Maths/Linear Algebra/1 - Vector Spaces.md",
     "Linux/Everyday commands.md",
-    "Linux/Vim.md",
     "README.md",
     "Cyber/OverTheWire/1 - Bandit.md",
     "Images/220px-Area_parallellogram_as_determinant.svg.jpg",
