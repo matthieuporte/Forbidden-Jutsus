@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C/GTK.md",
+                "file": "Linux/Vim.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gtk",
+                "query": "vim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C/GTK.md",
+                "file": "Linux/Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/C/GTK.md",
+                "file": "Linux/Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/C/GTK.md"
+                "file": "Linux/Vim.md"
               }
             }
           }
@@ -150,9 +150,9 @@
   },
   "active": "92103c659d5778a4",
   "lastOpenFiles": [
+    "Programming/C/GTK.md",
     "Maths/Linear Algebra/3 - Matrices.md",
     "Maths/Linear Algebra/1 - Vector Spaces.md",
-    "Programming/C/GTK.md",
     "Linux/Everyday commands.md",
     "Linux/Vim.md",
     "README.md",
