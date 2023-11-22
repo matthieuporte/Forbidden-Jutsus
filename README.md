@@ -35,4 +35,10 @@ Split view open : ctrl+click on the read/write btn
 <Ctrl+Maj+F> Find file
 <Ctrl+f> Find in file
 <Ctrl+h> Replace in file
+# Personal custom shortcuts
+<Ctrl+Maj+E> Open file explorer
+<Ctrl+t> toggle left sidebar
+<Alt+c> commit
+<Alt+p> push
+<Alt+l> pull
 ```
