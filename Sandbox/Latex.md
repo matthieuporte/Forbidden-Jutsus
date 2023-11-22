@@ -52,3 +52,15 @@ $$
 $$
 \begin{array}{l|rcl} f : & \mathbb{R} & \longrightarrow & \mathbb{R} \\ & x & \longmapsto & x^3 \end{array}
 $$
+
+---
+
+#### Matrices
+
+$$
+\begin{bmatrix} a_{11} & a_{12} & \dots & a_{1n} \\ a_{21} & a_{22} & \dots & a_{2n} \\ \vdots & \vdots & \ddots & \vdots \\ a_{m1} & a_{m2} & \dots & a_{mn} \\ \end{bmatrix}
+$$
+
+$$
+A = \begin{pmatrix} 1 & 2 & 4 \\ 0 & 1 & 4   \end{pmatrix}
+$$

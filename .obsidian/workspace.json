@@ -6,7 +6,7 @@
       {
         "id": "0a950baf31956794",
         "type": "tabs",
-        "dimension": 53.542821934688845,
+        "dimension": 67.15958102279728,
         "children": [
           {
             "id": "ae9f883fd4349016",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Makefile.md",
+                "file": "Maths/Linear Algebra/3 - Matrices.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
       {
         "id": "fbe1a66847ab206c",
         "type": "tabs",
-        "dimension": 46.45717806531115,
+        "dimension": 32.84041897720271,
         "children": [
           {
             "id": "92103c659d5778a4",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Makefile.md",
+                "file": "Maths/Linear Algebra/3 - Matrices.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Makefile.md",
+                "file": "Maths/Linear Algebra/3 - Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Makefile.md",
+                "file": "Maths/Linear Algebra/3 - Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Makefile.md"
+                "file": "Maths/Linear Algebra/3 - Matrices.md"
               }
             }
           }
@@ -170,11 +170,15 @@
   },
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
-    "Linux/Everyday commands.md",
+    "Sandbox/Latex.md",
+    "Maths/Linear Algebra/3 - Matrices.md",
+    "Linux/Arch/System.md",
+    "Linux/Git.md",
+    "README.md",
     "Programming/Makefile.md",
+    "Linux/Everyday commands.md",
     "Programming/web/web3.md",
     "Programming/web/nodeApp.md",
-    "Linux/Git.md",
     "Programming/web/web 3.md",
     "Programming/web",
     "Programming/Regex.md",
@@ -182,7 +186,6 @@
     "Programming/C/Network.md",
     "Sandbox/Callouts.md",
     "Linux/Vim.md",
-    "Maths/Linear Algebra/3 - Matrices.md",
     "Programming/C/General stuff.md",
     "Programming/C/Code golfing.md",
     "Programming/Projects/Mandelbrot.md",
@@ -191,15 +194,12 @@
     "Programming/Low level/Arduino.md",
     "Maths/ABA of maths.md",
     "Cyber/root.md",
-    "README.md",
     "().md",
     "Programming/Assembly.md",
     "Programming/Projects",
     "Programming/Low level/Sequential Logic.md",
     "Programming/Low level",
     "Programming/C",
-    "Programming/Network.md",
-    "Maths/Linear Algebra/1 - Vector Spaces.md",
     "Images/2023-11-08-094429_583x68_scrot.png",
     "Images/2023-11-08-094452_917x359_scrot.png",
     "Images/200px-Matrix_transpose.gif",

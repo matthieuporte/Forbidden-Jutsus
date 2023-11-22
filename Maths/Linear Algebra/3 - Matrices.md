@@ -80,16 +80,62 @@ The transition matrix allows us to change the basis.
 
 #### Rank of a Matrix
 
-$$\text{Rank a} = \text{rank f} = dim(Im f)$$
+$$
+\text{Rank a} = \text{rank f} = dim(Im f)$$
 
->[!warning] Transition Matrix vs Matrix of a linear map
-> #wip
+>[!warning]- Transition Matrix vs Matrix of a linear map
+> - A transition matrix changes the basis of a vector space. It must be invertible since it is a bijective function.
+>  - A matrix of a linear map chages the vector space itself. If the dimension vary then it will not be invertible.
+>
+>In summary a transition matrix if a matrix of a linear map that is an endomorphism too $\mathcal{L}(E)$
+
+#### Find a transition matrix
+
+Let $E$ be a n-dimentional vector-space and $\mathcal{B}_1 = \{v_1,...,v_n\}$, $\mathcal{B}_2 = \{w_1,...,w_n\}$ two of its basis.
+
+The _transition matrix_ $P$ from $\mathcal{B}_1$ to $\mathcal{B}_2$ is the $n \times n$ matrix whose columns are coordinates of $v_j$ in basis $\mathcal{B}_2$ :
+
+$$
+P = \begin{bmatrix} [v_1]_{\mathcal{B}_2} & ... & [v_n]_{\mathcal{B}_2} \end{bmatrix}
+$$
+
+>[!example]
+>
+>Let $V = \mathbb{R}^2$, $\mathcal{B}_1$ be the standard basis and $\mathcal{B}_2 = \{[ 1 \space 1 ],[0 \space 1]\}$ . Then:
+>
+>$$
+>P = \begin{bmatrix} 1 & 0 \\ 1 & 1   \end{bmatrix}
 
 ---
 
 ### Change of basis
 
-#wip
+#WIP 
+
+>[!example] Exercise
+>Let  $\mathcal{B}_1$ and $\mathcal{B}_2$ be the standard input and output basis of $f$
+>$$
+>\begin{array}{l|rcl}\text{Let } f : & \mathbb{R_2[X]} & \longrightarrow & \mathbb{R^2} \\ & P & \longmapsto & (P(2),P'(2))) \end{array}
+>$$
+>
+>Find the matrix of $f$  in bases $\mathcal{B}_1' = (1,(1+X),(1+X)^2)$ as input basis and $\mathcal{B}_2' = ((1,2),(2,3))$ as output basis
+>
+> 1) #### Find the matrix of f form $\mathcal{B}_1$ to $\mathcal{B}_2$
+> >Compute the values of each vector in the input basis through $f$.
+>>
+> $f(1) = (1,0)$
+> $f(X) = (2,1)$
+> $f(X^2) = (4,4)$
+> >
+> >Deduce the matrix of $f$ from $\mathcal{B}_1$ to $\mathcal{B}_2$
+> >
+> >$
+> >A = \begin{pmatrix} 1 & 2 & 4 \\ 0 & 1 & 4   \end{pmatrix}
+> >$
+> 1) #### Find both transition matrices
+> 
+> 3) #### Deduce the matrix of f $\mathcal{B}_1'$ to $\mathcal{B}_2'$
+
 
 ---
 
