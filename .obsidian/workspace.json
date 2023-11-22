@@ -4,8 +4,29 @@
     "type": "split",
     "children": [
       {
+        "id": "0a950baf31956794",
+        "type": "tabs",
+        "dimension": 66.21417797888385,
+        "children": [
+          {
+            "id": "ae9f883fd4349016",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Linear Algebra/3 - Matrices.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "8d6c1d7d5a60fbb3"
+          }
+        ]
+      },
+      {
         "id": "fbe1a66847ab206c",
         "type": "tabs",
+        "dimension": 33.78582202111614,
         "children": [
           {
             "id": "92103c659d5778a4",
@@ -13,31 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C/GTK.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "0b434829facb8307"
-          }
-        ]
-      },
-      {
-        "id": "b21090cff7a3990b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "29a7452074b27bc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/C/GTK.md",
+                "file": "Maths/Linear Algebra/3 - Matrices.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "0b434829facb8307"
+            "group": "8d6c1d7d5a60fbb3"
           }
         ]
       }
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C/GTK.md",
+                "file": "Maths/Linear Algebra/3 - Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/C/GTK.md",
+                "file": "Maths/Linear Algebra/3 - Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/C/GTK.md"
+                "file": "Maths/Linear Algebra/3 - Matrices.md"
               }
             }
           }
@@ -166,17 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92103c659d5778a4",
+  "active": "ae9f883fd4349016",
   "lastOpenFiles": [
-    "Programming/Low level/Assembly.md",
-    "README.md",
-    "Maths/Linear Algebra/3 - Matrices.md",
-    "Linux/Arch/Install.md",
-    "Linux/LFS/Install.md",
-    "Linux/Git.md",
-    "Programming/Makefile.md",
+    "Images/220px-Area_parallellogram_as_determinant.svg.jpg",
+    "Images/Determinant_parallelepiped.svg.jpg",
+    "Images/Determinant_parallelepiped.svg.png",
+    "Images/Determinant_parallelepiped.svg.png.crdownload",
+    "Images/220px-Area_parallellogram_as_determinant.svg.png",
+    "Images/220px-Area_parallellogram_as_determinant.svg.png.crdownload",
     "Sandbox/Latex.md",
+    "Maths/Linear Algebra/3 - Matrices.md",
     "Linux/Arch/System.md",
+    "Linux/Git.md",
+    "README.md",
+    "Programming/Makefile.md",
     "Linux/Everyday commands.md",
     "Programming/web/web3.md",
     "Programming/web/nodeApp.md",
@@ -191,10 +196,12 @@
     "Programming/C/Code golfing.md",
     "Programming/Projects/Mandelbrot.md",
     "Programming/C/GTK.md",
+    "Programming/Low level/Assembly.md",
     "Programming/Low level/Arduino.md",
     "Maths/ABA of maths.md",
     "Cyber/root.md",
     "().md",
+    "Programming/Assembly.md",
     "Programming/Projects",
     "Programming/Low level",
     "Programming/C",
@@ -206,14 +213,9 @@
     "Maths/0 - side quests",
     "Cyber/OverTheWire/flags",
     "Programming/Code Golfing",
-    "Linux/etc",
-    "Sandbox",
     "Images/ElectromagSpectrum.jpeg",
     "Images/2023-02-07-131428_1048x587_scrot.png",
     "Images/2023-02-07-131323_1350x423_scrot.png",
-    "Images/2023-02-07-131234_1360x404_scrot.png",
-    "Images/2023-02-07-131140_1330x401_scrot.png",
-    "Images/2023-02-07-131058_875x509_scrot.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

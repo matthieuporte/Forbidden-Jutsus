@@ -81,13 +81,16 @@ The transition matrix allows us to change the basis.
 #### Rank of a Matrix
 
 $$
-\text{Rank a} = \text{rank f} = dim(Im f)$$
+\text{Rank a} = \text{rank f} = \text{dim}(\text{Im} (f))$$
 
 >[!warning]- Transition Matrix vs Matrix of a linear map
 > - A transition matrix changes the basis of a vector space. It must be invertible since it is a bijective function.
 >  - A matrix of a linear map chages the vector space itself. If the dimension vary then it will not be invertible.
 >
 >In summary a transition matrix if a matrix of a linear map that is an endomorphism too $\mathcal{L}(E)$
+
+>[!example]- Compute the rank of a matrix
+>Find the number of linearly independent column vector that makes a matrix to find $\text{dim}(\text{Im} (f))$
 
 #### Find a transition matrix
 
@@ -111,9 +114,21 @@ $$
 
 ### Change of basis
 
-#WIP 
+Let $E$ and $F$ two vector spaces.
+Let $\mathcal{B}_1$ and $\mathcal{B}_1'$ two basis of $E$ with $P$ the transition matrix.
+Let $\mathcal{B}_2$ and $\mathcal{B}_2'$ two basis of $F$ with $Q$ the transition matrix.
+For $f \in \mathcal{L}(E,F)$, $A = \text{Mat}_{ \mathcal{B}_1, \mathcal{B}_1'}(f)$ and $A' = \text{Mat}_{ \mathcal{B}_2, \mathcal{B}_2'}(f)$
 
-$Q^{-1}AP = A'$
+$$
+\begin{flalign}
+& \space\space\qquad PX = X´ \\ &
+\space\space\qquad PX = X´ \\ &
+\implies A(-\frac{1}{4}A + \frac{5}{4}I_3) = I_3 \\ &
+\implies A^{-1} = -\frac{1}{4}A + \frac{5}{4}I_3 &
+\end{flalign}
+$$
+
+$QAP^{-1} = A'$
 
 >[!example] Exercise
 >Let  $\mathcal{B}_1$ and $\mathcal{B}_2$ be the standard input and output basis of $f$
@@ -140,10 +155,9 @@ $Q^{-1}AP = A'$
 > >$P = \begin{pmatrix} 1 & 0 & 0 \\ -2 & 1 & 0 \\ 1 & -1 & 1   \end{pmatrix}$
 > >
 > >$Q = \begin{pmatrix} -3 & 2 \\ 2 & -1 \end{pmatrix}$
-> 
-> 
-> >(see last section)
-> 3) #### Deduce the matrix of f $\mathcal{B}_1'$ to $\mathcal{B}_2'$
+> >
+> >(see previous section)
+> 3) #### Deduce the matrix of f from $\mathcal{B}_1'$ to $\mathcal{B}_2'$
 > > #WIP  
 
 
@@ -181,6 +195,13 @@ a_{22} & a_{23} \\ a_{32} & a_{33} \\ \end{vmatrix}
 > >$det(A) = det(A^T)$
 >
 > $A^T$  is the transpose of the matrix $A$
+
+>[!info]- Graphical interpretation
+>![[220px-Area_parallellogram_as_determinant.svg.jpg]]
+>The area of the parallelogram is the absolute value of the determinant of the matrix formed by the vectors representing the parallelogram's sides.
+>
+>![[Determinant_parallelepiped.svg.jpg]]
+>The volume of this parallelepiped is the absolute value of the determinant of the matrix formed by the columns constructed from the vectors r1, r2, and r3.
 
 #### Tips
 The determinant of a diagonal matrix is the <u>product</u> of the terms of the diagonal.
