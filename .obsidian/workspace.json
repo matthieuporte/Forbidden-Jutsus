@@ -4,8 +4,29 @@
     "type": "split",
     "children": [
       {
+        "id": "0a950baf31956794",
+        "type": "tabs",
+        "dimension": 53.637484586929716,
+        "children": [
+          {
+            "id": "ae9f883fd4349016",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber/HDFR/Challenge 1.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "8d6c1d7d5a60fbb3"
+          }
+        ]
+      },
+      {
         "id": "fbe1a66847ab206c",
         "type": "tabs",
+        "dimension": 46.362515413070284,
         "children": [
           {
             "id": "92103c659d5778a4",
@@ -13,11 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Vim.md",
-                "mode": "source",
+                "file": "Cyber/HDFR/Challenge 1.md",
+                "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "8d6c1d7d5a60fbb3"
           }
         ]
       }
@@ -48,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vim",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,13 +87,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "48f57293899c9200",
@@ -87,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Vim.md",
+                "file": "Cyber/HDFR/Challenge 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Vim.md",
+                "file": "Cyber/HDFR/Challenge 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Vim.md"
+                "file": "Cyber/HDFR/Challenge 1.md"
               }
             }
           }
@@ -148,14 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92103c659d5778a4",
+  "active": "ae9f883fd4349016",
   "lastOpenFiles": [
-    "Programming/C/GTK.md",
-    "Linux/Vim.md",
+    "Cyber/tools/Pwndbg.md",
+    "Cyber/HDFR/Challenge 1.md",
+    "Cyber/tools",
     "Maths/Linear Algebra/3 - Matrices.md",
-    "Maths/Linear Algebra/1 - Vector Spaces.md",
+    "Cyber/HDFR",
     "Linux/Everyday commands.md",
-    "README.md",
     "Cyber/OverTheWire/1 - Bandit.md",
     "Images/220px-Area_parallellogram_as_determinant.svg.jpg",
     "Images/Determinant_parallelepiped.svg.jpg",
@@ -166,6 +186,7 @@
     "Sandbox/Latex.md",
     "Linux/Arch/System.md",
     "Linux/Git.md",
+    "README.md",
     "Programming/Makefile.md",
     "Programming/web/web3.md",
     "Programming/web/nodeApp.md",
@@ -175,14 +196,15 @@
     "Programming/C/Strings.md",
     "Programming/C/Network.md",
     "Sandbox/Callouts.md",
+    "Linux/Vim.md",
     "Programming/C/General stuff.md",
     "Programming/C/Code golfing.md",
     "Programming/Projects/Mandelbrot.md",
+    "Programming/C/GTK.md",
     "Programming/Low level/Assembly.md",
     "Programming/Low level/Arduino.md",
     "Maths/ABA of maths.md",
     "Cyber/root.md",
-    "().md",
     "Programming/Projects",
     "Programming/Low level",
     "Programming/C",
@@ -192,8 +214,6 @@
     "Images/200px-Matrix_transpose.gif.crdownload",
     "Images/graphes1.jpg",
     "Maths/0 - side quests",
-    "Cyber/OverTheWire/flags",
-    "Programming/Code Golfing",
     "Images/ElectromagSpectrum.jpeg",
     "Images/2023-02-07-131428_1048x587_scrot.png",
     "Untitled.canvas",
