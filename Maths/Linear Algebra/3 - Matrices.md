@@ -117,18 +117,28 @@ $$
 Let $E$ and $F$ two vector spaces.
 Let $\mathcal{B}_1$ and $\mathcal{B}_1'$ two basis of $E$ with $P$ the transition matrix.
 Let $\mathcal{B}_2$ and $\mathcal{B}_2'$ two basis of $F$ with $Q$ the transition matrix.
-For $f \in \mathcal{L}(E,F)$, $A = \text{Mat}_{ \mathcal{B}_1, \mathcal{B}_1'}(f)$ and $A' = \text{Mat}_{ \mathcal{B}_2, \mathcal{B}_2'}(f)$
+For $f \in \mathcal{L}(E,F)$, $A = \text{Mat}_{ \mathcal{B}_1, \mathcal{B}_1'}(f)$ and $A' = \text{Mat}_{ \mathcal{B}_2, \mathcal{B}_2'}(f)$. Then: 
+
+>[!info]- Demonstration
+> $$
+> \begin{flalign}
+> & \space\space\qquad PX = X' \\ &
+> \space\space\qquad QY = Y' \\ &
+> \space\space\qquad AX = Y \\ &
+> \space\space\qquad A'X' = Y' \\ &
+> \implies Y = Q^{-1}Y' \\ &
+> \implies AX = Q^{-1}Y' \\ &
+> \implies QAX = Y' \\ &
+> \implies QAX = A'X' \\ &
+> \implies QAP^{-1}X' = A'X' \\ &
+> \implies QAP^{-1} = A' &
+> \end{flalign}
+> $$
 
 $$
-\begin{flalign}
-& \space\space\qquad PX = X´ \\ &
-\space\space\qquad PX = X´ \\ &
-\implies A(-\frac{1}{4}A + \frac{5}{4}I_3) = I_3 \\ &
-\implies A^{-1} = -\frac{1}{4}A + \frac{5}{4}I_3 &
-\end{flalign}
-$$
+A' = QAP^{-1}$$
 
-$QAP^{-1} = A'$
+<br>
 
 >[!example] Exercise
 >Let  $\mathcal{B}_1$ and $\mathcal{B}_2$ be the standard input and output basis of $f$
@@ -158,7 +168,7 @@ $QAP^{-1} = A'$
 > >
 > >(see previous section)
 > 3) #### Deduce the matrix of f from $\mathcal{B}_1'$ to $\mathcal{B}_2'$
-> > #WIP  
+> > Compute the inverse of P with kramer's method 
 
 
 ---

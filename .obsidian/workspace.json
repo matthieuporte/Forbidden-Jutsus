@@ -6,7 +6,7 @@
       {
         "id": "0a950baf31956794",
         "type": "tabs",
-        "dimension": 66.21417797888385,
+        "dimension": 53.637484586929716,
         "children": [
           {
             "id": "ae9f883fd4349016",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Linear Algebra/3 - Matrices.md",
+                "file": "Linux/Everyday commands.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
       {
         "id": "fbe1a66847ab206c",
         "type": "tabs",
-        "dimension": 33.78582202111614,
+        "dimension": 46.362515413070284,
         "children": [
           {
             "id": "92103c659d5778a4",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Linear Algebra/3 - Matrices.md",
+                "file": "Linux/Everyday commands.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Linear Algebra/3 - Matrices.md",
+                "file": "Linux/Everyday commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Linear Algebra/3 - Matrices.md",
+                "file": "Linux/Everyday commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Linear Algebra/3 - Matrices.md"
+                "file": "Linux/Everyday commands.md"
               }
             }
           }
@@ -170,6 +170,8 @@
   },
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
+    "Cyber/OverTheWire/1 - Bandit.md",
+    "Maths/Linear Algebra/3 - Matrices.md",
     "Images/220px-Area_parallellogram_as_determinant.svg.jpg",
     "Images/Determinant_parallelepiped.svg.jpg",
     "Images/Determinant_parallelepiped.svg.png",
@@ -177,7 +179,6 @@
     "Images/220px-Area_parallellogram_as_determinant.svg.png",
     "Images/220px-Area_parallellogram_as_determinant.svg.png.crdownload",
     "Sandbox/Latex.md",
-    "Maths/Linear Algebra/3 - Matrices.md",
     "Linux/Arch/System.md",
     "Linux/Git.md",
     "README.md",
@@ -215,7 +216,6 @@
     "Programming/Code Golfing",
     "Images/ElectromagSpectrum.jpeg",
     "Images/2023-02-07-131428_1048x587_scrot.png",
-    "Images/2023-02-07-131323_1350x423_scrot.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
