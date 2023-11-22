@@ -6,6 +6,12 @@ format string
 printf("%5$i")
 ```
 
+%n in c
+
+```shell
+python -c 'print("%x."*10)' | ./challenge
+```
+
 GOT : global offset table
 
 ### Challenge
