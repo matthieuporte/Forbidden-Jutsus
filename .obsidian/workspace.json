@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber/HDFR/Challenge 1.md",
+                "file": "Cyber/root.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber/HDFR/Challenge 1.md",
+                "file": "Cyber/root.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber/HDFR/Challenge 1.md",
+                "file": "Cyber/root.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber/HDFR/Challenge 1.md",
+                "file": "Cyber/root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber/HDFR/Challenge 1.md"
+                "file": "Cyber/root.md"
               }
             }
           }
@@ -170,11 +170,12 @@
   },
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
+    "Cyber/tools/Pwndbg.md",
+    "Programming/Makefile.md",
+    "Cyber/HDFR/Challenge 1.md",
     "Programming/Regex.md",
     "Programming/web/web3.md",
     "Programming/Low level/Assembly.md",
-    "Cyber/tools/Pwndbg.md",
-    "Cyber/HDFR/Challenge 1.md",
     "Cyber/tools",
     "Maths/Linear Algebra/3 - Matrices.md",
     "Cyber/HDFR",
@@ -190,7 +191,6 @@
     "Linux/Arch/System.md",
     "Linux/Git.md",
     "README.md",
-    "Programming/Makefile.md",
     "Programming/web/nodeApp.md",
     "Programming/web/web 3.md",
     "Programming/web",
