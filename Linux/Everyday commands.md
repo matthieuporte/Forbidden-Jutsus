@@ -10,7 +10,7 @@ du -sh Forbidden-Jutsus/
 ```shell
 #! /bin/bash
 
-for i in {1..10}
+for i in {1..40}
 do
 	$(printf "wget https://pi.math.cornell.edu/~andreim/Lec%d.pdf\n" $i)
 done

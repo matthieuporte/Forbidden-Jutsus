@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Everyday commands.md",
+                "file": "Maths/Linear Algebra/3 - Matrices.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Everyday commands.md",
+                "file": "Maths/Linear Algebra/3 - Matrices.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Everyday commands.md",
+                "file": "Maths/Linear Algebra/3 - Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Everyday commands.md",
+                "file": "Maths/Linear Algebra/3 - Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Everyday commands.md"
+                "file": "Maths/Linear Algebra/3 - Matrices.md"
               }
             }
           }
@@ -170,8 +170,9 @@
   },
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
-    "Cyber/OverTheWire/1 - Bandit.md",
+    "Linux/Everyday commands.md",
     "Maths/Linear Algebra/3 - Matrices.md",
+    "Cyber/OverTheWire/1 - Bandit.md",
     "Images/220px-Area_parallellogram_as_determinant.svg.jpg",
     "Images/Determinant_parallelepiped.svg.jpg",
     "Images/Determinant_parallelepiped.svg.png",
@@ -183,7 +184,6 @@
     "Linux/Git.md",
     "README.md",
     "Programming/Makefile.md",
-    "Linux/Everyday commands.md",
     "Programming/web/web3.md",
     "Programming/web/nodeApp.md",
     "Programming/web/web 3.md",

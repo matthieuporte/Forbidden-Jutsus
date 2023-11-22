@@ -140,7 +140,7 @@ A' = QAP^{-1}$$
 
 <br>
 
->[!example] Exercise
+>[!example]- Exercise
 >Let  $\mathcal{B}_1$ and $\mathcal{B}_2$ be the standard input and output basis of $f$
 >$$
 >\begin{array}{l|rcl}\text{Let } f : & \mathbb{R_2[X]} & \longrightarrow & \mathbb{R^2} \\ & P & \longmapsto & (P(2),P'(2))) \end{array}
@@ -168,7 +168,13 @@ A' = QAP^{-1}$$
 > >
 > >(see previous section)
 > 3) #### Deduce the matrix of f from $\mathcal{B}_1'$ to $\mathcal{B}_2'$
-> > Compute the inverse of P with kramer's method 
+> > Compute the inverse of P with kramer's method which gives:
+> > 
+> >$P = \begin{pmatrix} 1 & 0 & 0 \\ 2 & 1 & 0 \\ 1 & 1 & 1   \end{pmatrix}$
+> >
+> >Compute the formula $A' = QAP^{-1}$ which gives :
+> >
+> >$A' = \begin{pmatrix} -15 & -8 & -4 \\ 12 & 7 & 4 \end{pmatrix}$
 
 
 ---
