@@ -16,3 +16,9 @@ do
 done
 
 ```
+
+### Untar
+
+```shell
+tar -xvf given-files.tar
+```

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Linux/Everyday commands.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "README",
+                "query": "everyday",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Everyday commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Everyday commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Linux/Everyday commands.md"
               }
             }
           }
@@ -148,12 +148,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91a5a4d1c061cbf6",
+  "active": "92103c659d5778a4",
   "lastOpenFiles": [
     "Linux/Vim.md",
-    "Maths/Linear Algebra/3 - Matrices.md",
-    "README.md",
     "Programming/C/GTK.md",
+    "README.md",
+    "Maths/Linear Algebra/3 - Matrices.md",
     "Linux/Everyday commands.md",
     "Cyber/OverTheWire/1 - Bandit.md",
     "Images/220px-Area_parallellogram_as_determinant.svg.jpg",
