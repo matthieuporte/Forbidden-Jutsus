@@ -25,3 +25,5 @@ This is enough if you only want to read the content. Then use the obsidian git p
 ### Obsidian tricks
 
 Split view open : ctrl+click on the read/write btn
+
+[supported code color](https://prismjs.com/#supported-languages)

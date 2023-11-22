@@ -4,29 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "0a950baf31956794",
-        "type": "tabs",
-        "dimension": 40.29574861367837,
-        "children": [
-          {
-            "id": "ae9f883fd4349016",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Linear Algebra/3 - Matrices.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "8d6c1d7d5a60fbb3"
-          }
-        ]
-      },
-      {
         "id": "fbe1a66847ab206c",
         "type": "tabs",
-        "dimension": 59.70425138632163,
         "children": [
           {
             "id": "92103c659d5778a4",
@@ -34,12 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Linear Algebra/3 - Matrices.md",
+                "file": "Programming/C/GTK.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "0b434829facb8307"
+          }
+        ]
+      },
+      {
+        "id": "b21090cff7a3990b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29a7452074b27bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/C/GTK.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "8d6c1d7d5a60fbb3"
+            "group": "0b434829facb8307"
           }
         ]
       }
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Linear Algebra/3 - Matrices.md",
+                "file": "Programming/C/GTK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Linear Algebra/3 - Matrices.md",
+                "file": "Programming/C/GTK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Linear Algebra/3 - Matrices.md"
+                "file": "Programming/C/GTK.md"
               }
             }
           }
@@ -168,14 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae9f883fd4349016",
+  "active": "92103c659d5778a4",
   "lastOpenFiles": [
-    "Sandbox/Latex.md",
-    "Maths/Linear Algebra/3 - Matrices.md",
-    "Linux/Arch/System.md",
-    "Linux/Git.md",
+    "Programming/Low level/Assembly.md",
     "README.md",
+    "Maths/Linear Algebra/3 - Matrices.md",
+    "Linux/Arch/Install.md",
+    "Linux/LFS/Install.md",
+    "Linux/Git.md",
     "Programming/Makefile.md",
+    "Sandbox/Latex.md",
+    "Linux/Arch/System.md",
     "Linux/Everyday commands.md",
     "Programming/web/web3.md",
     "Programming/web/nodeApp.md",
@@ -190,14 +191,11 @@
     "Programming/C/Code golfing.md",
     "Programming/Projects/Mandelbrot.md",
     "Programming/C/GTK.md",
-    "Programming/Low level/Assembly.md",
     "Programming/Low level/Arduino.md",
     "Maths/ABA of maths.md",
     "Cyber/root.md",
     "().md",
-    "Programming/Assembly.md",
     "Programming/Projects",
-    "Programming/Low level/Sequential Logic.md",
     "Programming/Low level",
     "Programming/C",
     "Images/2023-11-08-094429_583x68_scrot.png",

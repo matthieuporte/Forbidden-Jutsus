@@ -19,4 +19,4 @@
 - [ ] easy way to update system
 - [ ] meteo
 - [ ] day and night theme
-- [ ] theme depending on seasons
+- [ ] obsidian
