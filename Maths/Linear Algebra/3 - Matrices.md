@@ -140,7 +140,8 @@ $Q^{-1}AP = A'$
 > >$P = \begin{pmatrix} 1 & 0 & 0 \\ -2 & 1 & 0 \\ 1 & -1 & 1   \end{pmatrix}$
 > >
 > >$Q = \begin{pmatrix} -3 & 2 \\ 2 & -1 \end{pmatrix}$
-> >
+> 
+> 
 > >(see last section)
 > 3) #### Deduce the matrix of f $\mathcal{B}_1'$ to $\mathcal{B}_2'$
 > > #WIP  
