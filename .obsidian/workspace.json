@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Everyday commands.md",
+                "file": "Programming/C/GTK.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "everyday",
+                "query": "gtk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Everyday commands.md",
+                "file": "Programming/C/GTK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Everyday commands.md",
+                "file": "Programming/C/GTK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Everyday commands.md"
+                "file": "Programming/C/GTK.md"
               }
             }
           }
@@ -150,11 +150,12 @@
   },
   "active": "92103c659d5778a4",
   "lastOpenFiles": [
-    "Linux/Vim.md",
-    "Programming/C/GTK.md",
-    "README.md",
     "Maths/Linear Algebra/3 - Matrices.md",
+    "Maths/Linear Algebra/1 - Vector Spaces.md",
+    "Programming/C/GTK.md",
     "Linux/Everyday commands.md",
+    "Linux/Vim.md",
+    "README.md",
     "Cyber/OverTheWire/1 - Bandit.md",
     "Images/220px-Area_parallellogram_as_determinant.svg.jpg",
     "Images/Determinant_parallelepiped.svg.jpg",
@@ -182,7 +183,6 @@
     "Maths/ABA of maths.md",
     "Cyber/root.md",
     "().md",
-    "Programming/Assembly.md",
     "Programming/Projects",
     "Programming/Low level",
     "Programming/C",
