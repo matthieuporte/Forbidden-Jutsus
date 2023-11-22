@@ -16,11 +16,14 @@ GOT : global offset table
 
 ### Challenge
 
+compile with
+```shell
+gcc -m32 -no-pie -Wl,-z,norelro challenge.c -o challenge
+```
+
 ```c
 #include <stdio.h>
 #include <stdlib.h>
-
-// gcc -m32 -no-pie -Wl,-z,norelro challenge.c -o challenge
 
 void flag(){
     system("/bin/bash -p");
