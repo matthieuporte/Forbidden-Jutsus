@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C/General stuff.md",
+                "file": "Algo/Minimax.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Programming/C/General stuff.md",
+            "file": "Algo/Minimax.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Programming/C/General stuff.md",
+            "file": "Algo/Minimax.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Programming/C/General stuff.md"
+            "file": "Algo/Minimax.md"
           }
         }
       }
@@ -158,6 +158,19 @@
   },
   "active": "e49c7cc8a7cc66a6",
   "lastOpenFiles": [
+    "/Programming/C/GTK.md",
+    "Linux/What is this?",
+    "/Linux/What is this?",
+    "Programming/C/Network.md",
+    "Algo/Minimax.md",
+    "Programming/Makefile.md",
+    "Linux/Reading/Books.md",
+    "/Programming/C/Network.md",
+    "/Linux/Reading/Books.md",
+    "Linux/Reading",
+    "/Linux/Reading",
+    "Algo/Graphs.md",
+    "Programming/C/General stuff.md",
     "/Programming/C/General stuff.md",
     "Programming/C/Code golfing.md",
     "Maths/Linear Algebra/3 - Matrices.md",
@@ -181,23 +194,10 @@
     "Cyber/tools/Pwndbg.md",
     "Cyber/tools",
     "Cyber/HDFR",
-    "/Cyber/tools",
-    "/Cyber/HDFR",
-    "Linux/Git.md",
     "Images/Determinant_parallelepiped.svg.jpg",
     "Images/220px-Area_parallellogram_as_determinant.svg.jpg",
-    "/README.md",
-    "/Programming/C/GTK.md",
-    "/Linux/LFS/Install.md",
-    "/Linux/Arch/Install.md",
     "/Images/Determinant_parallelepiped.svg.jpg",
     "/Images/220px-Area_parallellogram_as_determinant.svg.jpg",
-    "/Sandbox/Latex.md",
-    "/Maths/Linear Algebra/3 - Matrices.md",
-    "Programming/Makefile.md",
-    "Programming/web/web3.md",
-    "Programming/web",
-    "/Programming/web",
     "Images/2023-11-08-094452_917x359_scrot.png",
     "Images/2023-11-08-094429_583x68_scrot.png",
     "/Images/2023-11-08-094452_917x359_scrot.png",
