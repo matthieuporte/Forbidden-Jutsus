@@ -1,23 +1,11 @@
 
-### Transport Layer
+## Internet protocol stack
 
-Protocols (TCP, UDP, etc.) that provide services: 
-- delivery to applications
--  connected or not
-- same or different order delivery
-- reliability or unreliability
-- flow control
+### Protocols
 
+Two computers are connected over a [communication protocol](https://en.wikipedia.org/wiki/Communication_protocol) (see the [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite) for a list)
 
-
-| TCP| UDP |
-|--- |--- |
-| **Stream** oriented | **Datagram** oriented|
-|Connected|Not connected|
-|Acknowledgement|No reception check|
-|Retransmissions|Fire and forget|
-|Packets ordering|No ordering|
-|Timeouts| 
+Two
 
 ---
 
