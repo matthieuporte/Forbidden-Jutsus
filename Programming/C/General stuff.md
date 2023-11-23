@@ -150,9 +150,8 @@ the `->` dereferences while the `.` only access the value
 
 ---
 
-### Are malloc checks worth it ?
+### Malloc checks
 
-In real code yes, but it's very rarely useful. anyway here's how to do it :
 ```c
 int *arr = malloc(10 * sizeof(int)); 
 
@@ -170,6 +169,10 @@ if (arr == NULL) {
 STDIN
 STDOUT
 STDERR
+
+file descriptors
+
+write up tp network
 
 read
 write

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber/root.md",
+                "file": "Programming/C/General stuff.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber/root.md",
+                "file": "Programming/C/General stuff.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber/root.md",
+                "file": "Programming/C/General stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber/root.md",
+                "file": "Programming/C/General stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber/root.md"
+                "file": "Programming/C/General stuff.md"
               }
             }
           }
@@ -170,12 +170,12 @@
   },
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
+    "Cyber/root.md",
     "Linux/Reading/Books.md",
     "Linux/Reading",
     "Cyber/CryptoHack/Intro.md",
     "Cyber/TryHackMe/Intro.md",
     "Cyber/CryptoHack",
-    "Cyber/root.md",
     "Cyber/TryHackMe",
     "Cyber/tools/Pwndbg.md",
     "Programming/Makefile.md",
