@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber/root.md",
+                "file": "Cyber/CryptoHack/Intro.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber/root.md",
+                "file": "Cyber/CryptoHack/Intro.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber/root.md",
+                "file": "Cyber/CryptoHack/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber/root.md",
+                "file": "Cyber/CryptoHack/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber/root.md"
+                "file": "Cyber/CryptoHack/Intro.md"
               }
             }
           }
@@ -170,6 +170,11 @@
   },
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
+    "Cyber/TryHackMe/Intro.md",
+    "Cyber/CryptoHack/Intro.md",
+    "Cyber/CryptoHack",
+    "Cyber/root.md",
+    "Cyber/TryHackMe",
     "Cyber/tools/Pwndbg.md",
     "Programming/Makefile.md",
     "Cyber/HDFR/Challenge 1.md",
@@ -202,18 +207,13 @@
     "Programming/C/Code golfing.md",
     "Programming/Projects/Mandelbrot.md",
     "Programming/C/GTK.md",
-    "Programming/Low level/Arduino.md",
-    "Maths/ABA of maths.md",
-    "Cyber/root.md",
     "Programming/Projects",
     "Programming/Low level",
     "Programming/C",
     "Images/2023-11-08-094429_583x68_scrot.png",
     "Images/2023-11-08-094452_917x359_scrot.png",
     "Images/200px-Matrix_transpose.gif",
-    "Images/200px-Matrix_transpose.gif.crdownload",
     "Images/graphes1.jpg",
-    "Maths/0 - side quests",
     "Images/ElectromagSpectrum.jpeg",
     "Images/2023-02-07-131428_1048x587_scrot.png",
     "Untitled.canvas",
