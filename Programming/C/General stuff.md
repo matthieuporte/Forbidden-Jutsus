@@ -59,6 +59,12 @@ LDFLAGS = -fsanitize=address
 
 ---
 
+### Code template
+
+
+
+---
+
 ### Change struct not in place and update pointer
 
 sometimes I want to change some struct so much that I'd rather create a new one, free the old one and change the pointer. The problem is that if you free the old pointer you can't update it anymore. The solution is to use **double pointers** like this :

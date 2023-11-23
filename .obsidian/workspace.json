@@ -1,45 +1,43 @@
 {
   "main": {
-    "id": "5cd0bb213171c07b",
+    "id": "b9ad2d7ec8cf0c0e",
     "type": "split",
     "children": [
       {
-        "id": "0a950baf31956794",
+        "id": "6e621575f5671d4c",
         "type": "tabs",
-        "dimension": 53.637484586929716,
         "children": [
           {
-            "id": "ae9f883fd4349016",
+            "id": "b8ee719567686bc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber/CryptoHack/Intro.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "8d6c1d7d5a60fbb3"
-          }
-        ]
-      },
-      {
-        "id": "fbe1a66847ab206c",
-        "type": "tabs",
-        "dimension": 46.362515413070284,
-        "children": [
-          {
-            "id": "92103c659d5778a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber/CryptoHack/Intro.md",
+                "file": "Programming/C/General stuff.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "8d6c1d7d5a60fbb3"
+            "group": "28c328052a4a7d3b"
+          }
+        ]
+      },
+      {
+        "id": "17af3262d7b2b1a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c62a60ad9fc94732",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/C/General stuff.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "28c328052a4a7d3b"
           }
         ]
       }
@@ -47,15 +45,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5dba76101d9850d2",
+    "id": "3b19a42b4b459f8b",
     "type": "split",
     "children": [
       {
-        "id": "4b34d9982569c931",
+        "id": "50f673809ecc68e2",
         "type": "tabs",
         "children": [
           {
-            "id": "07706f0ecaa786b8",
+            "id": "bca2a52c2c73a45d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,7 +63,7 @@
             }
           },
           {
-            "id": "91a5a4d1c061cbf6",
+            "id": "0b6998b9bbd445eb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +78,7 @@
             }
           },
           {
-            "id": "ddce4a60915f78a3",
+            "id": "bbfcf2acc4c09e4f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,23 +89,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 300
   },
   "right": {
-    "id": "48f57293899c9200",
+    "id": "5d8682cfab2edfd7",
     "type": "split",
     "children": [
       {
-        "id": "4defaa59a3ae1f97",
+        "id": "26ca6bd6edec7134",
         "type": "tabs",
         "children": [
           {
-            "id": "439f132e759fd1ce",
+            "id": "5b02bccbc78c9288",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber/CryptoHack/Intro.md",
+                "file": "Programming/C/General stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,19 +117,19 @@
             }
           },
           {
-            "id": "fda3262515e157ef",
+            "id": "c64a751596b5fd09",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber/CryptoHack/Intro.md",
+                "file": "Programming/C/General stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3ae4791b8bf28238",
+            "id": "c9cb0090c5b426c3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,12 +140,12 @@
             }
           },
           {
-            "id": "a6717a89ae1fc62a",
+            "id": "50480bf32bcd3ef7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber/CryptoHack/Intro.md"
+                "file": "Programming/C/General stuff.md"
               }
             }
           }
@@ -168,55 +166,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae9f883fd4349016",
+  "active": "c62a60ad9fc94732",
   "lastOpenFiles": [
-    "Cyber/TryHackMe/Intro.md",
-    "Cyber/CryptoHack/Intro.md",
-    "Cyber/CryptoHack",
-    "Cyber/root.md",
-    "Cyber/TryHackMe",
-    "Cyber/tools/Pwndbg.md",
-    "Programming/Makefile.md",
-    "Cyber/HDFR/Challenge 1.md",
-    "Programming/Regex.md",
-    "Programming/web/web3.md",
-    "Programming/Low level/Assembly.md",
-    "Cyber/tools",
-    "Maths/Linear Algebra/3 - Matrices.md",
-    "Cyber/HDFR",
-    "Linux/Everyday commands.md",
-    "Cyber/OverTheWire/1 - Bandit.md",
-    "Images/220px-Area_parallellogram_as_determinant.svg.jpg",
-    "Images/Determinant_parallelepiped.svg.jpg",
-    "Images/Determinant_parallelepiped.svg.png",
-    "Images/Determinant_parallelepiped.svg.png.crdownload",
-    "Images/220px-Area_parallellogram_as_determinant.svg.png",
-    "Images/220px-Area_parallellogram_as_determinant.svg.png.crdownload",
-    "Sandbox/Latex.md",
-    "Linux/Arch/System.md",
-    "Linux/Git.md",
-    "README.md",
-    "Programming/web/nodeApp.md",
-    "Programming/web/web 3.md",
-    "Programming/web",
-    "Programming/C/Strings.md",
-    "Programming/C/Network.md",
-    "Sandbox/Callouts.md",
-    "Linux/Vim.md",
-    "Programming/C/General stuff.md",
-    "Programming/C/Code golfing.md",
-    "Programming/Projects/Mandelbrot.md",
-    "Programming/C/GTK.md",
-    "Programming/Projects",
-    "Programming/Low level",
-    "Programming/C",
-    "Images/2023-11-08-094429_583x68_scrot.png",
-    "Images/2023-11-08-094452_917x359_scrot.png",
-    "Images/200px-Matrix_transpose.gif",
-    "Images/graphes1.jpg",
-    "Images/ElectromagSpectrum.jpeg",
-    "Images/2023-02-07-131428_1048x587_scrot.png",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Programming/C/Network.md"
   ]
 }
