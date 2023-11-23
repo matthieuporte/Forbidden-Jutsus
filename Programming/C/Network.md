@@ -66,11 +66,27 @@ Our function will take a `char* url` as a parameter.
 
 First we need to set up hints to filter results :
 ```c
+// Create the 'hints' structure.
 struct addrinfo hints;
+
+// Initialize all the fields to zero.
 memset(&hints, 0, sizeof(hints));
-hints.ai_family = AF_INET;
-hints.ai_socktype = SOCK_STREAM; 
+
+// Specify the criteria
+hints.ai_family = AF_INET;       // IPv4
+hints.ai_socktype = SOCK_STREAM; // TCP
 ```
+
+>[!info]- Differents criterias
+>Here are some examples of other possible criterias
+> 1) **ai_family**
+>AF_INET: IPv4 only 
+>AF_INET6: IPv6 only
+>AF_UNSPEC: Either IPv4 or IPv6
+>2) **ai_socktype**
+>SOCK_STREAM: TCP
+>SOCK_DGRAM: UDP
+>0: Either TCP or UDP
 
 We parse the url (separate the host and the path)
 
@@ -150,5 +166,13 @@ close(sock);
 free(path);
 free(host);
 ```
+
+---
+
+### Server side (One Connection at a Time)
+
+---
+
+### Server side (Multiple Connections)
 
 ---
