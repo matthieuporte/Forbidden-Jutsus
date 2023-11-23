@@ -43,6 +43,7 @@ LDFLAGS = -fsanitize=address
 
 ---
 
+
 ### GDB
 
 `gdb ./execfile` : launch gdb
@@ -161,3 +162,21 @@ if (arr == NULL) {
 }
 ```
 
+
+---
+
+### TODO
+
+STDIN
+STDOUT
+STDERR
+
+read
+write
+getaddrinfo
+
+```c
+	while ((r = read(sock,buffer,BUFFER_SIZE)) > 0){
+```
+
+---

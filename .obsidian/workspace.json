@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C/General stuff.md",
-                "mode": "preview",
+                "file": "Linux/Reading/Books.md",
+                "mode": "source",
                 "source": true
               }
             },
@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C/General stuff.md",
-                "mode": "source",
+                "file": "Linux/Reading/Books.md",
+                "mode": "preview",
                 "source": true
               }
             },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C/General stuff.md",
+                "file": "Linux/Reading/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/C/General stuff.md",
+                "file": "Linux/Reading/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/C/General stuff.md"
+                "file": "Linux/Reading/Books.md"
               }
             }
           }
@@ -166,8 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c62a60ad9fc94732",
+  "active": "b8ee719567686bc6",
   "lastOpenFiles": [
+    "Programming/C/General stuff.md",
+    "Linux/Reading/Books.md",
+    "Linux/Reading",
     "Programming/C/Network.md"
   ]
 }
