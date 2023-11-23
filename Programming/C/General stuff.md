@@ -180,8 +180,6 @@ getaddrinfo
 
 valgrind
 
-```c
-	while ((r = read(sock,buffer,BUFFER_SIZE)) > 0){
-```
+
 
 ---

@@ -168,9 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07706f0ecaa786b8",
+  "active": "ae9f883fd4349016",
   "lastOpenFiles": [
     "Programming/C/General stuff.md",
+    "Programming/C/Network.md",
+    "Linux/Git.md",
     "Cyber/root.md",
     "Linux/Reading/Books.md",
     "Linux/Reading",
@@ -197,13 +199,11 @@
     "Images/220px-Area_parallellogram_as_determinant.svg.png.crdownload",
     "Sandbox/Latex.md",
     "Linux/Arch/System.md",
-    "Linux/Git.md",
     "README.md",
     "Programming/web/nodeApp.md",
     "Programming/web/web 3.md",
     "Programming/web",
     "Programming/C/Strings.md",
-    "Programming/C/Network.md",
     "Sandbox/Callouts.md",
     "Linux/Vim.md",
     "Programming/C/Code golfing.md",
