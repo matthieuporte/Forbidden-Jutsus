@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C/Network.md",
+                "file": "Linux/What is this?/File descriptors.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C/Network.md",
+                "file": "Linux/What is this?/File descriptors.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C/Network.md",
+                "file": "Linux/What is this?/File descriptors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/C/Network.md",
+                "file": "Linux/What is this?/File descriptors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/C/Network.md"
+                "file": "Linux/What is this?/File descriptors.md"
               }
             }
           }
@@ -170,8 +170,11 @@
   },
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
-    "Programming/C/General stuff.md",
     "Programming/C/Network.md",
+    "Linux/Everyday commands.md",
+    "Linux/What is this?/File descriptors.md",
+    "Programming/C/General stuff.md",
+    "Linux/What is this?",
     "Linux/Git.md",
     "Cyber/root.md",
     "Linux/Reading/Books.md",
@@ -189,7 +192,6 @@
     "Cyber/tools",
     "Maths/Linear Algebra/3 - Matrices.md",
     "Cyber/HDFR",
-    "Linux/Everyday commands.md",
     "Cyber/OverTheWire/1 - Bandit.md",
     "Images/220px-Area_parallellogram_as_determinant.svg.jpg",
     "Images/Determinant_parallelepiped.svg.jpg",
@@ -207,9 +209,7 @@
     "Sandbox/Callouts.md",
     "Linux/Vim.md",
     "Programming/C/Code golfing.md",
-    "Programming/Projects/Mandelbrot.md",
     "Programming/Projects",
-    "Programming/Low level",
     "Images/2023-11-08-094429_583x68_scrot.png",
     "Images/2023-11-08-094452_917x359_scrot.png",
     "Images/200px-Matrix_transpose.gif",
