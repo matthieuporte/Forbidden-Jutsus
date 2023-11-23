@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/What is this?/File descriptors.md",
+                "file": "Programming/C/GTK.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/What is this?/File descriptors.md",
+                "file": "Programming/C/GTK.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/What is this?/File descriptors.md",
+                "file": "Programming/C/GTK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/What is this?/File descriptors.md",
+                "file": "Programming/C/GTK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/What is this?/File descriptors.md"
+                "file": "Programming/C/GTK.md"
               }
             }
           }
@@ -171,8 +171,11 @@
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
     "Programming/C/Network.md",
-    "Linux/Everyday commands.md",
+    "Linux/etc/Dunnet.md",
+    "Linux/etc/Aide.md",
+    "Linux/LFS/Install.md",
     "Linux/What is this?/File descriptors.md",
+    "Linux/Everyday commands.md",
     "Programming/C/General stuff.md",
     "Linux/What is this?",
     "Linux/Git.md",
@@ -206,9 +209,6 @@
     "Programming/web/web 3.md",
     "Programming/web",
     "Programming/C/Strings.md",
-    "Sandbox/Callouts.md",
-    "Linux/Vim.md",
-    "Programming/C/Code golfing.md",
     "Programming/Projects",
     "Images/2023-11-08-094429_583x68_scrot.png",
     "Images/2023-11-08-094452_917x359_scrot.png",
