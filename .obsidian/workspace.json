@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Reading/Books.md",
+                "file": "Cyber/HDFR/Challenge 1.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Reading/Books.md",
+                "file": "Cyber/HDFR/Challenge 1.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Reading/Books.md",
+                "file": "Cyber/HDFR/Challenge 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Reading/Books.md",
+                "file": "Cyber/HDFR/Challenge 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Reading/Books.md"
+                "file": "Cyber/HDFR/Challenge 1.md"
               }
             }
           }
@@ -168,7 +168,12 @@
   },
   "active": "b8ee719567686bc6",
   "lastOpenFiles": [
+    "Cyber/tools/Pwndbg.md",
     "Programming/C/General stuff.md",
+    "Programming/C/Code golfing.md",
+    "Linux/Everyday commands.md",
+    "Maths/Linear Algebra/3 - Matrices.md",
+    "Programming/C/Strings.md",
     "Linux/Reading/Books.md",
     "Linux/Reading",
     "Programming/C/Network.md"
