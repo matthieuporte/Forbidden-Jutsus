@@ -23,3 +23,9 @@ Start here :
 - osint
 - pwn
 - hardware
+
+### Different careers
+
+- pentester
+- security analyst
+- Incident Responder

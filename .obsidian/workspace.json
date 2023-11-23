@@ -1,43 +1,45 @@
 {
   "main": {
-    "id": "b9ad2d7ec8cf0c0e",
+    "id": "5cd0bb213171c07b",
     "type": "split",
     "children": [
       {
-        "id": "6e621575f5671d4c",
+        "id": "0a950baf31956794",
         "type": "tabs",
+        "dimension": 53.637484586929716,
         "children": [
           {
-            "id": "b8ee719567686bc6",
+            "id": "ae9f883fd4349016",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber/HDFR/Challenge 1.md",
+                "file": "Cyber/root.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "28c328052a4a7d3b"
+            "group": "8d6c1d7d5a60fbb3"
           }
         ]
       },
       {
-        "id": "17af3262d7b2b1a5",
+        "id": "fbe1a66847ab206c",
         "type": "tabs",
+        "dimension": 46.362515413070284,
         "children": [
           {
-            "id": "c62a60ad9fc94732",
+            "id": "92103c659d5778a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber/HDFR/Challenge 1.md",
+                "file": "Cyber/root.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "28c328052a4a7d3b"
+            "group": "8d6c1d7d5a60fbb3"
           }
         ]
       }
@@ -45,15 +47,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3b19a42b4b459f8b",
+    "id": "5dba76101d9850d2",
     "type": "split",
     "children": [
       {
-        "id": "50f673809ecc68e2",
+        "id": "4b34d9982569c931",
         "type": "tabs",
         "children": [
           {
-            "id": "bca2a52c2c73a45d",
+            "id": "07706f0ecaa786b8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +65,7 @@
             }
           },
           {
-            "id": "0b6998b9bbd445eb",
+            "id": "91a5a4d1c061cbf6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +80,7 @@
             }
           },
           {
-            "id": "bbfcf2acc4c09e4f",
+            "id": "ddce4a60915f78a3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,23 +91,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 253.5
   },
   "right": {
-    "id": "5d8682cfab2edfd7",
+    "id": "48f57293899c9200",
     "type": "split",
     "children": [
       {
-        "id": "26ca6bd6edec7134",
+        "id": "4defaa59a3ae1f97",
         "type": "tabs",
         "children": [
           {
-            "id": "5b02bccbc78c9288",
+            "id": "439f132e759fd1ce",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber/HDFR/Challenge 1.md",
+                "file": "Cyber/root.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,19 +119,19 @@
             }
           },
           {
-            "id": "c64a751596b5fd09",
+            "id": "fda3262515e157ef",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber/HDFR/Challenge 1.md",
+                "file": "Cyber/root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c9cb0090c5b426c3",
+            "id": "3ae4791b8bf28238",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,12 +142,12 @@
             }
           },
           {
-            "id": "50480bf32bcd3ef7",
+            "id": "a6717a89ae1fc62a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber/HDFR/Challenge 1.md"
+                "file": "Cyber/root.md"
               }
             }
           }
@@ -166,16 +168,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8ee719567686bc6",
+  "active": "ae9f883fd4349016",
   "lastOpenFiles": [
-    "Cyber/tools/Pwndbg.md",
-    "Programming/C/General stuff.md",
-    "Programming/C/Code golfing.md",
-    "Linux/Everyday commands.md",
-    "Maths/Linear Algebra/3 - Matrices.md",
-    "Programming/C/Strings.md",
     "Linux/Reading/Books.md",
     "Linux/Reading",
-    "Programming/C/Network.md"
+    "Cyber/CryptoHack/Intro.md",
+    "Cyber/TryHackMe/Intro.md",
+    "Cyber/CryptoHack",
+    "Cyber/root.md",
+    "Cyber/TryHackMe",
+    "Cyber/tools/Pwndbg.md",
+    "Programming/Makefile.md",
+    "Cyber/HDFR/Challenge 1.md",
+    "Programming/Regex.md",
+    "Programming/web/web3.md",
+    "Programming/Low level/Assembly.md",
+    "Cyber/tools",
+    "Maths/Linear Algebra/3 - Matrices.md",
+    "Cyber/HDFR",
+    "Linux/Everyday commands.md",
+    "Cyber/OverTheWire/1 - Bandit.md",
+    "Images/220px-Area_parallellogram_as_determinant.svg.jpg",
+    "Images/Determinant_parallelepiped.svg.jpg",
+    "Images/Determinant_parallelepiped.svg.png",
+    "Images/Determinant_parallelepiped.svg.png.crdownload",
+    "Images/220px-Area_parallellogram_as_determinant.svg.png",
+    "Images/220px-Area_parallellogram_as_determinant.svg.png.crdownload",
+    "Sandbox/Latex.md",
+    "Linux/Arch/System.md",
+    "Linux/Git.md",
+    "README.md",
+    "Programming/web/nodeApp.md",
+    "Programming/web/web 3.md",
+    "Programming/web",
+    "Programming/C/Strings.md",
+    "Programming/C/Network.md",
+    "Sandbox/Callouts.md",
+    "Linux/Vim.md",
+    "Programming/C/General stuff.md",
+    "Programming/C/Code golfing.md",
+    "Programming/Projects/Mandelbrot.md",
+    "Programming/Projects",
+    "Programming/Low level",
+    "Images/2023-11-08-094429_583x68_scrot.png",
+    "Images/2023-11-08-094452_917x359_scrot.png",
+    "Images/200px-Matrix_transpose.gif",
+    "Images/graphes1.jpg",
+    "Images/ElectromagSpectrum.jpeg",
+    "Images/2023-02-07-131428_1048x587_scrot.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
   ]
 }
