@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Programming/C/General stuff.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Programming/C/General stuff.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Programming/C/General stuff.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Programming/C/General stuff.md"
           }
         }
       }
@@ -158,34 +158,46 @@
   },
   "active": "e49c7cc8a7cc66a6",
   "lastOpenFiles": [
-    "().md",
-    "README.md",
-    "Programming/Projects/Network.md",
-    "Cyber/OverTheWire/1 - Bandit.md",
-    "Sandbox/Latex.md",
-    "Sandbox/Highlights.md",
-    "Cyber/OverTheWire/flags/Bandit-flags.md",
-    "Programming/C/General stuff.md",
-    "Programming/C/GTK.md",
+    "/Programming/C/General stuff.md",
     "Programming/C/Code golfing.md",
-    "Programming/Projects/Mandelbrot.md",
-    "Programming/C",
-    "Programming/Projects",
     "Maths/Linear Algebra/3 - Matrices.md",
-    "Maths/Calculus/Series.md",
-    "Maths/Linear Algebra/1 - Vector Spaces.md",
-    "Maths/Arithmetic.md",
-    "Maths/Trigonometry.md",
-    "Maths/Probabilities.md",
-    "Maths/Calculus/Taylor Expansions.md",
-    "Maths/Linear Algebra/2 - Linear maps.md",
+    "/Programming/Regex.md",
+    "/Programming/Low level/Assembly.md",
+    "/Cyber/tools/Pwndbg.md",
+    "/Cyber/root.md",
+    "Cyber/TryHackMe/Intro.md",
+    "/Cyber/HDFR/Challenge 1.md",
+    "Cyber/CryptoHack/Intro.md",
+    "/Cyber/TryHackMe/Intro.md",
+    "/Cyber/CryptoHack/Intro.md",
+    "Cyber/TryHackMe",
+    "Cyber/CryptoHack",
+    "/Cyber/TryHackMe",
+    "/Cyber/CryptoHack",
+    "Programming/Low level/Assembly.md",
+    "Cyber/HDFR/Challenge 1.md",
+    "Cyber/OverTheWire/1 - Bandit.md",
+    "/Linux/Vim.md",
+    "Cyber/tools/Pwndbg.md",
+    "Cyber/tools",
+    "Cyber/HDFR",
+    "/Cyber/tools",
+    "/Cyber/HDFR",
+    "Linux/Git.md",
+    "Images/Determinant_parallelepiped.svg.jpg",
+    "Images/220px-Area_parallellogram_as_determinant.svg.jpg",
     "/README.md",
-    "/Programming/Network.md",
-    "/Programming/Assembly.md",
-    "Maths/ABA of maths.md",
-    "Maths/Linear Algebra/Vector Spaces.md",
-    "/Maths/Linear Algebra/2 - Linear maps.md",
+    "/Programming/C/GTK.md",
+    "/Linux/LFS/Install.md",
+    "/Linux/Arch/Install.md",
+    "/Images/Determinant_parallelepiped.svg.jpg",
+    "/Images/220px-Area_parallellogram_as_determinant.svg.jpg",
+    "/Sandbox/Latex.md",
     "/Maths/Linear Algebra/3 - Matrices.md",
+    "Programming/Makefile.md",
+    "Programming/web/web3.md",
+    "Programming/web",
+    "/Programming/web",
     "Images/2023-11-08-094452_917x359_scrot.png",
     "Images/2023-11-08-094429_583x68_scrot.png",
     "/Images/2023-11-08-094452_917x359_scrot.png",

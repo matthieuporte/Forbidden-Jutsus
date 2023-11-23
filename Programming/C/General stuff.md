@@ -61,6 +61,27 @@ LDFLAGS = -fsanitize=address
 
 ### Code template
 
+Simple template for a C program that takes parameters:
+
+```c
+#include <stdio.h>
+
+int main(int argc, char *argv[]) {
+    // Check if there are enough command-line arguments
+    if (argc < 2) {
+        printf("Usage: %s <parameter>\n", argv[0]);
+        return 1; // Exit with an error code
+    }
+
+    // Access the parameter provided
+    char *parameter = argv[1];
+
+    // Your program logic with the parameter
+    printf("Parameter provided: %s\n", parameter);
+
+    return 0; // Exit successfully
+}
+```
 
 
 ---
