@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C/Network.md",
-                "mode": "preview",
+                "file": "Linux/Unix/File descriptors.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C/Network.md",
+                "file": "Linux/Unix/File descriptors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/C/Network.md",
+                "file": "Linux/Unix/File descriptors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/C/Network.md"
+                "file": "Linux/Unix/File descriptors.md"
               }
             }
           }
@@ -148,17 +148,19 @@
   },
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
+    "Linux/Everyday commands.md",
+    "Linux/Unix/File descriptors.md",
+    "Linux/Unix",
     "Algo/Data structs.md",
+    "Programming/C/General stuff.md",
+    "Programming/C/Network.md",
     "Algo/Graphs.md",
     "Programming/C/GTK.md",
     "Linux/What is this?/File descriptors.md",
     "Algo/Minimax.md",
-    "Programming/C/Network.md",
     "Linux/etc/Dunnet.md",
     "Linux/etc/Aide.md",
     "Linux/LFS/Install.md",
-    "Linux/Everyday commands.md",
-    "Programming/C/General stuff.md",
     "Linux/What is this?",
     "Linux/Git.md",
     "Cyber/root.md",
@@ -185,9 +187,7 @@
     "Images/220px-Area_parallellogram_as_determinant.svg.png",
     "Images/220px-Area_parallellogram_as_determinant.svg.png.crdownload",
     "Sandbox/Latex.md",
-    "Linux/Arch/System.md",
     "Programming/web",
-    "Programming/Projects",
     "Images/2023-11-08-094429_583x68_scrot.png",
     "Images/2023-11-08-094452_917x359_scrot.png",
     "Images/200px-Matrix_transpose.gif",
