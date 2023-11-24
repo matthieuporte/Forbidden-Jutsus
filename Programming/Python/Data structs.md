@@ -27,7 +27,7 @@ Read the file line by line
 
 ```python
 f = open("demofile.txt", "r")  
-for x in f:  
+for x in f.readlines:  
   print(x)
 f.close()
 ```
