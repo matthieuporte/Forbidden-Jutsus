@@ -20,5 +20,3 @@ Here are some useful commands :
   pip show package_name
   ```
 
-
-Hello
