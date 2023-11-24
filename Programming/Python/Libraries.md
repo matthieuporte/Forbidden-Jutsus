@@ -20,3 +20,11 @@ Here are some useful commands :
   pip show package_name
   ```
 
+
+### Graphviz
+
+Create an image out of a graphviz graph
+
+```shell
+dot -Tpng graph.dot > output.png
+```
