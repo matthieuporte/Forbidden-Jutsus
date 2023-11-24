@@ -6,7 +6,6 @@
       {
         "id": "0a950baf31956794",
         "type": "tabs",
-        "dimension": 53.637484586929716,
         "children": [
           {
             "id": "ae9f883fd4349016",
@@ -14,32 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C/GTK.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "8d6c1d7d5a60fbb3"
-          }
-        ]
-      },
-      {
-        "id": "fbe1a66847ab206c",
-        "type": "tabs",
-        "dimension": 46.362515413070284,
-        "children": [
-          {
-            "id": "92103c659d5778a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/C/GTK.md",
+                "file": "Programming/C/Network.md",
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "8d6c1d7d5a60fbb3"
+            }
           }
         ]
       }
@@ -107,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C/GTK.md",
+                "file": "Programming/C/Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/C/GTK.md",
+                "file": "Programming/C/Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/C/GTK.md"
+                "file": "Programming/C/Network.md"
               }
             }
           }
@@ -170,9 +148,11 @@
   },
   "active": "ae9f883fd4349016",
   "lastOpenFiles": [
+    "Algo/Data structs.md",
+    "Algo/Graphs.md",
+    "Programming/C/GTK.md",
     "Linux/What is this?/File descriptors.md",
     "Algo/Minimax.md",
-    "Programming/C/GTK.md",
     "Programming/C/Network.md",
     "Linux/etc/Dunnet.md",
     "Linux/etc/Aide.md",
@@ -206,8 +186,6 @@
     "Images/220px-Area_parallellogram_as_determinant.svg.png.crdownload",
     "Sandbox/Latex.md",
     "Linux/Arch/System.md",
-    "README.md",
-    "Programming/web/nodeApp.md",
     "Programming/web",
     "Programming/Projects",
     "Images/2023-11-08-094429_583x68_scrot.png",
