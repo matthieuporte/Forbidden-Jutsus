@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Reading/Books.md",
+                "file": "Programming/Python/Libraries.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Reading/Books.md",
+                "file": "Programming/Python/Libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Reading/Books.md",
+                "file": "Programming/Python/Libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Reading/Books.md"
+                "file": "Programming/Python/Libraries.md"
               }
             }
           }
@@ -146,12 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07706f0ecaa786b8",
+  "active": "ae9f883fd4349016",
   "lastOpenFiles": [
+    "Programming/Python/Data structs.md",
+    "Programming/Python/Libraries.md",
+    "Linux/Arch/Pacman.md",
+    "Programming/Python",
+    "Linux/Arch/Install.md",
+    "Linux/Arch/System.md",
+    "Linux/Reading/Books.md",
     "Linux/Reading/File descriptors.md",
     "Linux/Everyday commands.md",
     "Linux/Unix",
-    "Algo/Data structs.md",
     "Programming/C/General stuff.md",
     "Programming/C/Network.md",
     "Algo/Graphs.md",
@@ -164,7 +170,6 @@
     "Linux/What is this?",
     "Linux/Git.md",
     "Cyber/root.md",
-    "Linux/Reading/Books.md",
     "Linux/Reading",
     "Cyber/CryptoHack/Intro.md",
     "Cyber/TryHackMe/Intro.md",
@@ -175,19 +180,14 @@
     "Cyber/HDFR/Challenge 1.md",
     "Programming/Regex.md",
     "Programming/web/web3.md",
-    "Programming/Low level/Assembly.md",
     "Cyber/tools",
-    "Maths/Linear Algebra/3 - Matrices.md",
     "Cyber/HDFR",
-    "Cyber/OverTheWire/1 - Bandit.md",
     "Images/220px-Area_parallellogram_as_determinant.svg.jpg",
     "Images/Determinant_parallelepiped.svg.jpg",
     "Images/Determinant_parallelepiped.svg.png",
     "Images/Determinant_parallelepiped.svg.png.crdownload",
     "Images/220px-Area_parallellogram_as_determinant.svg.png",
     "Images/220px-Area_parallellogram_as_determinant.svg.png.crdownload",
-    "Sandbox/Latex.md",
-    "Programming/web",
     "Images/2023-11-08-094429_583x68_scrot.png",
     "Images/2023-11-08-094452_917x359_scrot.png",
     "Images/200px-Matrix_transpose.gif",
