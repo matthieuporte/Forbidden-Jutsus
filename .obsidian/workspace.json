@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Unix/File descriptors.md",
+                "file": "Linux/Reading/Books.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Unix/File descriptors.md",
+                "file": "Linux/Reading/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Unix/File descriptors.md",
+                "file": "Linux/Reading/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Unix/File descriptors.md"
+                "file": "Linux/Reading/Books.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae9f883fd4349016",
+  "active": "07706f0ecaa786b8",
   "lastOpenFiles": [
+    "Linux/Reading/File descriptors.md",
     "Linux/Everyday commands.md",
-    "Linux/Unix/File descriptors.md",
     "Linux/Unix",
     "Algo/Data structs.md",
     "Programming/C/General stuff.md",
