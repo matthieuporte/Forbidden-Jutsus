@@ -42,3 +42,7 @@ Split view open : ctrl+click on the read/write btn
 <Alt+p> push
 <Alt+l> pull
 ```
+
+### Resize images 
+
+`![[image.jpg|300]]`

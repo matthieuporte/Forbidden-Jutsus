@@ -1,13 +1,7 @@
 
+  
+A neural network is a computational model inspired by the way biological neural networks in the human brain function.
 
-### network v1
+It is used to solve complex problems such as, in our case, recognizing handwritten digits.
 
-| neurons | eta | epochs | result|
-| ---| ---|---|---|
-|8|3|8|72%|
-|9|3|9|79%
-|10|3|17|82%|
-|11|3|9|73%|
-|12|3|10|62%|
-|12|1|30|62%|
-|30|3|11|37%|
+![[Colored_neural_network.svg 1.jpg | 300]] write  around image 
