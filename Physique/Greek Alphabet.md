@@ -1,9 +1,4 @@
-
-[MIT course on quantum mechanic](https://ocw.mit.edu/courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/resources/ocw_8225_sts042_lecture08_2020sep30_mp4/)
-
 Reference sheet for Greek letters and their expression in obsidian markdown :
-
-### Greek Alphabet
 
 lowercase | uppercase | pronounciation
 -- | -- | --
@@ -33,3 +28,4 @@ lowercase | uppercase | pronounciation
  |$\omega$ ```$\omega$```|$\unicode{0x03a9}$ ```$\unicode{0x03a9}$```|"omega"|
 
 > [!warning] Unfortunately since Obsidian uses MathJax and not vanilla Latex for it math expressions the ```$\Alpha$``` notation doesn't work. To get capitalized Greek letters, use Unicode references.
+
