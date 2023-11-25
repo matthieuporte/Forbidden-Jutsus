@@ -25,6 +25,8 @@ The Internet protocol stack consists of four main layers:
 > - It includes various protocols for specific applications, such as [HTTP (Hypertext Transfer Protocol)](https://en.wikipedia.org/wiki/HTTP) for web browsing, [FTP (File Transfer Protocol)](https://en.wikipedia.org/wiki/File_Transfer_Protocol) for file transfer, [SMTP (Simple Mail Transfer Protocol)](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) for email, and more.
   > - This layer represents the interface between the network and the software applications that utilize network services.
 
+![[NetworkProtocolStack.png]]
+
 Each layer in the Internet protocol stack relies on the services provided by the layer immediately below it.
 
 ---
