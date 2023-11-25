@@ -90,3 +90,22 @@ lpadmin -p PRINTERNAME -E -v UsbURI
     ```
 
 
+
+
+## Hardware 
+
+### Disable sleep on laptop lid close
+
+Edit `/etc/systemd/logind.conf` and make sure you have
+
+```
+HandleLidSwitch=ignore
+```
+
+which will make it ignore the lid being closed.
+
+Then, you'll want to reload `logind.conf` to make your changes go into effect (thanks to Ehtesh Choudhury for pointing this out in the comments):
+
+```
+systemctl restart systemd-logind
+```
