@@ -34,6 +34,8 @@ free(duplicate);
 [strcmp(3)](https://manpages.debian.org/testing/manpages-dev/strcmp.3.en.html)
 
 ```c
-// the int indicates which is greater
+// str1 < str2 -> result < 0
+// str1 == str2 -> result = 0
+// str1 > str2 -> result > 0
 int result = strcmp(str1, str2);
 ```
