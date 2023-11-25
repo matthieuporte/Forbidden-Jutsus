@@ -45,4 +45,21 @@ Split view open : ctrl+click on the read/write btn
 
 ### Resize images 
 
-`![[image.jpg|300]]`
+Use the `image.css` file.
+
+```markdown
+<span class="rightimg"><span class="smallimg">
+![[myImage.jpg]]
+</span></span>
+```
+
+The classes are : 
+
+`.leftimg`
+`.centerimg`
+`.rightimg`
+
+`.tinyimg`
+`.smallimg`
+`.mediumimg`
+`.largeimg`
