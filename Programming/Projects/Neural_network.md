@@ -32,6 +32,8 @@ It means that the network isn't really sure of what he is doing.
 
 ### Backprop
 
+### MNIST
+
 ### Save the network
 
 So our goal is to set the weights so that the network gives interesting outputs.

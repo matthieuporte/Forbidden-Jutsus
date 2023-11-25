@@ -37,7 +37,6 @@ class Graph:
 #### Depth First Search
 
 ```python
-
 # adjlist implementation
 
 def DFS(G):
@@ -49,8 +48,7 @@ def __DFS(G,i,visited):
 	visited[i] = True
 	for j in G.adjlists[i]:
 		if not visited[j]:
-			__DFS(G,i,visited)
-
+			__DFS(G,j,visited)
 ```
 
 There are 4 types of edges

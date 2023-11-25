@@ -27,5 +27,5 @@ lowercase | uppercase | pronounciation
  |$\psi$ ```$\psi$```|$\unicode{0x03a8}$ ```$\unicode{0x03a8}$```|"psi"|
  |$\omega$ ```$\omega$```|$\unicode{0x03a9}$ ```$\unicode{0x03a9}$```|"omega"|
 
-> [!warning] Unfortunately since Obsidian uses MathJax and not vanilla Latex for it math expressions the ```$\Alpha$``` notation doesn't work. To get capitalized Greek letters, use Unicode references.
+> [!warning] Unfortunately since Obsidian uses MathJax and not vanilla Latex for its math expressions the ```$\Alpha$``` notation doesn't work. To get capitalized Greek letters, use Unicode references.
 
