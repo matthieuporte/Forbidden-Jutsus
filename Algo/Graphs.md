@@ -89,7 +89,6 @@ forward edge : $p[x] < p[y] <s[y] < s[x]$
 #### Breadth First Search
 
 ```python
-			
 def __BFS(G, x, M):
 	q = queue.Queue()
 	q.enqueue(x)

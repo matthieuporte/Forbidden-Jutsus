@@ -5,7 +5,7 @@
 |$\mathcal{O}(log(n))$|logarithmique|
 |$\mathcal{O}(n)$|linéaire|
 |$\mathcal{O}(n×log(n))$|quasi-linéaire|
-|$\mathcal{O}(n2)$|quadratique|
-|$\mathcal{O}(n3)$|cubique|
-|$\mathcal{O}(2n)$|exponentielle|
+|$\mathcal{O}(n^2)$|quadratique|
+|$\mathcal{O}(n^3)$|cubique|
+|$\mathcal{O}(2^n)$|exponentielle|
 |$\mathcal{O}(n!)$|factorielle|

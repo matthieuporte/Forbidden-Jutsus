@@ -1,6 +1,7 @@
 
 ### Size of folder of disk
 
+use `-b` to get the size in bytes
 ```shell
 du -sh Forbidden-Jutsus/
 ```
