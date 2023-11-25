@@ -164,22 +164,36 @@ if (arr == NULL) {
 
 ---
 
+### Random 
+
+True random doesn't exist, if you use the `rand()` function in c by itself it will not be truly random it will depend of the state of your program. To bypass this problem we can set a seed using the current time.
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main() {
+	#sets the random seed with the current time
+	srand((unsigned int)time(NULL));
+	#print a random n
+	printf("%d\n",rand());
+	
+    return 0;
+}
+```
+
+---
+
 ### TODO
 
 STDIN
 STDOUT
 STDERR
 
-file descriptors
-
-write up tp network
-
 read
 write
-getaddrinfo
 
 valgrind
-
-
 
 ---
