@@ -174,9 +174,9 @@ True random doesn't exist, if you use the `rand()` function in c by itself it wi
 #include <time.h>
 
 int main() {
-	#sets the random seed with the current time
+	//sets the random seed with the current time
 	srand((unsigned int)time(NULL));
-	#print a random n
+	//print a random number
 	printf("%d\n",rand());
 	
     return 0;
