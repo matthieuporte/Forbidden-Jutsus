@@ -53,6 +53,12 @@ The important thing to do here is to set up our initial weights and biases. Init
 To do this I use the formula given in [Michael Nielsen's book](http://neuralnetworksanddeeplearning.com/chap3.html#weight_initialization) which is a Gaussian distribution with mean 0 and standard deviation 1 over the square root of the number of weights connecting to the same neuron.
 
 ```c
+((double)rand() / RAND_MAX) / sqrt((double)weights[i].cols);
+```
+
+Here's the whole function, the val parameter is used for setup weights to 0. (You'll see later why)
+
+```c
 matrix* init_weights(size_t* sizes, size_t len, int val){
 	srand((unsigned int)time(NULL));
 
@@ -76,8 +82,15 @@ matrix* init_weights(size_t* sizes, size_t len, int val){
 }
 ```
 
-Notice here that I 
+As you can see weights is a list of matrices for our whole network.
 
+Notice here that I used [srand(3)](https://linux.die.net/man/3/srand) to set a seed to my random calls depending on the current time, so every network generation is different.
+
+```c
+srand((unsigned int)time(NULL));
+```
+
+The main line of the precedent call is 
 
 You can initialize your biases the same way or you can go as far as initializing them as 0 and let the network learn by itself (which I did).
 
