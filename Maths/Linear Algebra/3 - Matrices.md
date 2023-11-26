@@ -212,6 +212,22 @@ a_{22} & a_{23} \\ a_{32} & a_{33} \\ \end{vmatrix}
 >
 > $A^T$  is the transpose of the matrix $A$
 
+#### Determinant of a squared matrix A of order N
+
+Soit
+> $A = (a_{i,j})1≤i,j≤n \in \mathcal{M}_n$
+
+The determinant of matrix $A$ is :
+
+>det($A$) $= \sum^n_{i=1}(-1)^{i+j}a_{i,j}\lambda_{i,j}$
+
+if we develop in regard to the jth column; and 
+
+>det($A$) $= \sum^n_{j=1}(-1)^{i+j}a_{i,j}\lambda_{i,j}$
+
+if we develop in regard to the ith column
+
+
 >[!info]- Graphical interpretation
 >![[220px-Area_parallellogram_as_determinant.svg.jpg]]
 >The area of the parallelogram is the absolute value of the determinant of the matrix formed by the vectors representing the parallelogram's sides.
