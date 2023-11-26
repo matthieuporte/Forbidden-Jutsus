@@ -299,7 +299,7 @@ see [[1 - Vector Spaces]] for a revision on direct sums
 #### Cancelling polynomials
 
 >[!abstract] Definition
->The polynomial $P \in \mathbb{K}[X]$ is a cancelling polynomial of $A$ if $P(A) = 0_{\mathcal{M}_n(\mathbb{K})}$
+>The polynomial $P \in \mathbb{K}_p[X]$ is a cancelling polynomial of $A$ if $P(A) = 0_{\mathcal{M}_n(\mathbb{K})}$
 
 By misuse, we write: $P(A) = 0$
 
