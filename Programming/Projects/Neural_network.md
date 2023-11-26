@@ -1,4 +1,4 @@
-The whole code presented here will soon be available on github #WIP 
+The whole code presented here will soon be available on github #todo 
 
 
 A neural network is a computational model inspired by the way biological neural networks in the human brain function.
@@ -60,45 +60,11 @@ To do this I use the formula given in [Michael Nielsen's book](http://neuralnetw
 ((double)rand() / RAND_MAX) / sqrt((double)weights[i].cols);
 ```
 
-Here's the whole function, the val parameter is used for setup weights to 0. (You'll see later why)
-
-```c
-matrix* init_weights(size_t* sizes, size_t len, int val){
-	srand((unsigned int)time(NULL));
-
-	matrix* weights = malloc((len-1) * sizeof(matrix));
-	// no weights from the last layer for(size_t i = 0; i < len-1; i++)
-	for(size_t i = 0; i < len - 1; i++){
-	
-		//nb rows = size next layer
-		//nb cols = size current layer
-        weights[i] = init_empty_matrix(sizes[i+1],sizes[i]);
-        
-		for(size_t j = 0; j < weights[i].rows; j++){
-			for(size_t k = 0; k < weights[i].cols; k++){
-			
-				weights[i].mx[j][k] = val *
-						((double)rand() / RAND_MAX) / 
-						sqrt((double)weights[i].cols);
-						
-				if (rand() % 2 == 0)
-					weights[i].mx[j][k] *= -1;
-			}
-		}
-	}
-	return weights;
-}
-```
-
-As you can see weights is a list of matrices for our whole network.
-
-Notice here that I used [srand(3)](https://linux.die.net/man/3/srand) to set a seed to my random calls depending on the current time, so every network generation is different.
+I used [srand(3)](https://linux.die.net/man/3/srand) to set a seed to my random calls depending on the current time, so every network generation is different.
 
 ```c
 srand((unsigned int)time(NULL));
 ```
-
-The main line of the precedent call is 
 
 You can initialize your biases the same way or you can go as far as initializing them as 0 and let the network learn by itself (which I did).
 
@@ -147,7 +113,7 @@ We could do this manually for every neurons but we will save a lot of time by do
 >If you're rusty on matrices go check out [[3 - Matrices]]
 
 
-To get the next layer you need to multiply the current layer (which is a column matrix) with the weight matrix (each line is #wip and each column is #wip), and add the bias matrix (which is a column matrix too) to this result.
+To get the next layer you need to multiply the current layer (which is a column matrix) with the weight matrix (each line n is the list of weights to the nth neuron of the next layer), and add the bias matrix (which is a column matrix too) to this result.
 
 As you might know in c you need to pass the size of an array as a parameter. 
 You might also know that the dimensions matter when you multiply matrices. 
@@ -167,26 +133,6 @@ typedef struct{
 } matrix;
 ```
 
-Here's my feedforward functions that computes the output of the network :
-
-```c
-void feedforward(matrix* neurons, network t){
-
-	// first layer till last-1
-	for (size_t i = 0; i<t.num_layers - 1;i++){
-
-		mul(t.weights[i],neurons[i],neurons[i+1]);
-
-		// addition inplace possible only for addition
-		add(neurons[i+1],t.biases[i],neurons[i+1]);
-
-		for (size_t j = 0; j<neurons[i+1].rows; j++){
-			neurons[i+1].mx[j][0] = sigmoid(neurons[i+1].mx[j][0]);
-		}
-	}
-}
-```
-
 ---
 
 Ok that's nice, we can get an output from an input, but for now it is a garbage output since we randomly initialized the weights and biases. How can we make our network learn ?
@@ -195,16 +141,42 @@ Ok that's nice, we can get an output from an input, but for now it is a garbage 
 
 The function used to solve this problem is called backprop. The idea is to have a cost function, computing how good the network is doing. If the result are close from expected then we keep this behavior and try to make it stronger, on the other hand if the network is far from the expected result we will try to nudge his behavior in the right direction.
 
-But first let me explain how training works : 
-We will have a training set of images, all labeled, and 
+We will have a training set of images, all labeled, and for each image we will compare the network result with the expected result. 
 
-### SGD
+The cost function I use is the quadratic cost function which is the sum of the difference squared. All you have to know is that it gives back a value and that the smaller that value, the better the network is doing.
+
+Let's say you input a 8 (so really you input all the pixels that make up this 6) and the network gives this answer : 
+$$\begin{bmatrix} 0.1 \\ 0.8 \\ 0.4 \\ \vdots\\ 0.6 \\ 0.1  \\ \end{bmatrix}$$
+
+If you've followed so far you'll know that the network gave $1$ as an answer with a value of $0.8$. Since this is now what we want we will go back in the network, following the trail of weights and biases that made this neuron become a $0.8$ and we will update those weights and biases. 
+We do this for every neuron in the output layer.
+
+There you go ! our network just became a little better at recognizing this particular 6 !
+
+
+### Stochastic Gradient Descent
+
+Backprop is nice but for now it has a little too much power. The thing is that we don't want our network to only recognise the 6 in the example above. Maybe the weights that were modified by backprop were in fact useful to recognise a 2.
+
+This is why we need to do a stochastic gradient descent (sgd). The idea is to do a backprop on every element of the training data, do not apply the change but instead keep a track of them. Then we do the sum of all the changes (some are going to be positive and some are going to be negative so it will eventually even out) and apply them to the network.
+
+To optimise this process we will split the training data in mini batches (10 images for example) and apply the changes after every mini batch.
+
+Then we will have a different data set called a test set to see how good our network is doing. It wouldn't be very accurate to test it with the data he's been trained with. 
 
 ### MNIST
 
+The [MNIST database](http://yann.lecun.com/exdb/mnist/) is a collection of 70000 handwritten digits to help us train our network. 
+
+Here is how to parse it and use it : #todo
+
+Be aware : training on such large amount of data is going to take some time. I did some [[Pretty Prints]] in my code to see the progress live.
+
 ### Save the network
 
+The network is only the values of it's weights and biases. We need to save them in a file and to be able to load them back in our network.
 
+Remember : It's training the network that takes a long time, once you have good weights and biases you're fine. 
 
 ### Go more in depth
 
