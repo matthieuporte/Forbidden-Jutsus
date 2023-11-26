@@ -1,10 +1,7 @@
 The whole code presented here will soon be available on github #todo 
 
-
 A neural network is a computational model inspired by the way biological neural networks in the human brain function.
-<span class="rightimg"><span class="smallimg">
-![[Colored_neural_network.svg.png]]
-</span></span>
+<span class="desktop"><span class="rightimg"><span class="smallimg">![[Colored_neural_network.svg.png]]</span></span></span><span class="mobile">![[Colored_neural_network.svg.png]]</span>
 
 It is used to solve complex problems such as, in our case, recognizing handwritten digits.
 
@@ -74,10 +71,8 @@ You can initialize your biases the same way or you can go as far as initializing
 
 So what really happens when our network "gives an answer" ? 
 
+<span class="desktop"><span class="leftimg"><span class="smallimg">![[tikz32.png]]</span></span></span><span class="mobile">![[tikz32.png]]</span>
 
-<span class="leftimg"><span class="smallimg">
-![[tikz32.png]]
-</span></span>
 
 The value of a neuron in an inner layer is the sum of all the values of the neurons in the precedent layer times each weight. 
 
@@ -92,6 +87,7 @@ $$
 \sigma(z) = \frac{1}{1 + e^{-z}}
 $$
 
+<span class="desktop">
 
 ```functionplot
 ---
@@ -102,6 +98,7 @@ grid: true
 ---
 f(x) = 1/(1 + E^(-x))
 ```
+</span>
 
 So we apply this function to our sum and we get a value between 0 and 1 !
 

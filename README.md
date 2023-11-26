@@ -67,6 +67,10 @@ The classes are :
 
 ### Responsive design
 
+```markdown
+<span class="mobile">THIS TEXT IS ONLY DISPLAYED ON MOBILE</span>
+<span class="desktop">THIS TEXT IS ONLY DISPLAYED ON DESKTOP</span>
+```
 
 <span class="mobile">THIS TEXT IS ONLY DISPLAYED ON MOBILE</span>
 <span class="desktop">THIS TEXT IS ONLY DISPLAYED ON DESKTOP</span>
