@@ -6,6 +6,7 @@
   "enabledCssSnippets": [
     "big-math",
     "highlight",
-    "images"
+    "images",
+    "responsive"
   ]
 }

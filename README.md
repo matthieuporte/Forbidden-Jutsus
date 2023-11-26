@@ -63,3 +63,10 @@ The classes are :
 `.smallimg`
 `.mediumimg`
 `.largeimg`
+
+
+### Responsive design
+
+
+<span class="mobile">THIS TEXT IS ONLY DISPLAYED ON MOBILE</span>
+<span class="desktop">THIS TEXT IS ONLY DISPLAYED ON DESKTOP</span>
