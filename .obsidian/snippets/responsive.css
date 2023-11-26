@@ -1,20 +1,19 @@
-.mobile {
+/* Default styles for both mobile and desktop */
+.mobile, .desktop {
   display: none;
 }
 
+/* Media query for mobile devices (max-width: 767px) */
 @media only screen and (max-width: 767px) {
   .mobile {
-    display: block;
+    display: block !important;
   }
 }
 
-.desktop {
-  display: block; 
-}
-
+/* Media query for desktop devices (min-width: 768px) */
 @media only screen and (min-width: 768px) {
   .desktop {
-    display: none;
+    display: block !important;
   }
 }
 
