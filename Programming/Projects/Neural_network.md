@@ -69,14 +69,18 @@ matrix* init_weights(size_t* sizes, size_t len, int val){
 	matrix* weights = malloc((len-1) * sizeof(matrix));
 	// no weights from the last layer for(size_t i = 0; i < len-1; i++)
 	for(size_t i = 0; i < len - 1; i++){
+	
 		//nb rows = size next layer
 		//nb cols = size current layer
         weights[i] = init_empty_matrix(sizes[i+1],sizes[i]);
+        
 		for(size_t j = 0; j < weights[i].rows; j++){
 			for(size_t k = 0; k < weights[i].cols; k++){
+			
 				weights[i].mx[j][k] = val *
 						((double)rand() / RAND_MAX) / 
 						sqrt((double)weights[i].cols);
+						
 				if (rand() % 2 == 0)
 					weights[i].mx[j][k] *= -1;
 			}
@@ -139,19 +143,73 @@ We could do this manually for every neurons but we will save a lot of time by do
 
 #### Matrices
 
+>[!tip]
+>If you're rusty on matrices go check out [[3 - Matrices]]
+
+
+To get the next layer you need to multiply the current layer (which is a column matrix) with the weight matrix (each line is #wip and each column is #wip), and add the bias matrix (which is a column matrix too) to this result.
+
+As you might know in c you need to pass the size of an array as a parameter. 
+You might also know that the dimensions matter when you multiply matrices. 
+The thing is you're going to do a lot of matrix multiplication throughout the process, and I coded my matrix function with the idea that I would not make mistakes about thoses dimension.
+
+I was wrong and I lost a lot of time not doing it from the beggining.
+
+This is why I strongly recommend to create a `struct matrix` and to check if the dimensions are corrects in your functions. 
+
+Here's the struct I made :
+
+```c
+typedef struct{
+    double** mx; //values
+    size_t rows;
+    size_t cols;
+} matrix;
+```
+
+Here's my feedforward functions that computes the output of the network :
+
+```c
+void feedforward(matrix* neurons, network t){
+
+	// first layer till last-1
+	for (size_t i = 0; i<t.num_layers - 1;i++){
+
+		mul(t.weights[i],neurons[i],neurons[i+1]);
+
+		// addition inplace possible only for addition
+		add(neurons[i+1],t.biases[i],neurons[i+1]);
+
+		for (size_t j = 0; j<neurons[i+1].rows; j++){
+			neurons[i+1].mx[j][0] = sigmoid(neurons[i+1].mx[j][0]);
+		}
+	}
+}
+```
+
 ---
 
-### SGD
+Ok that's nice, we can get an output from an input, but for now it is a garbage output since we randomly initialized the weights and biases. How can we make our network learn ?
 
 ### Backprop
+
+The function used to solve this problem is called backprop. The idea is to have a cost function, computing how good the network is doing. If the result are close from expected then we keep this behavior and try to make it stronger, on the other hand if the network is far from the expected result we will try to nudge his behavior in the right direction.
+
+But first let me explain how training works : 
+We will have a training set of images, all labeled, and 
+
+### SGD
 
 ### MNIST
 
 ### Save the network
 
-So our goal is to set the weights so that the network gives interesting outputs.
+
 
 ### Go more in depth
+
+The network I built is not the most optimised and there is many other ways to do the same things. 
+Here's some very good content to go further :
 
 [3blue1brown youtube course](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
