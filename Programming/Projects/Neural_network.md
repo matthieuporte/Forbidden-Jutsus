@@ -16,6 +16,8 @@ So it takes some values as input (it's gonna be our image pixels) and the value 
 
 For our problem of recognising hand written digits, each pixel of the image is gonna be a neuron in the input layer, and the ouput layer will have a size of 10, from 0 to 9.
 
+---
+
 ### Meaning
 
 The index of the most activated neuron in the output layer is the answer of the network.
@@ -26,6 +28,8 @@ Otherwise if it looks like this : $\begin{bmatrix} 0.4 \\ 0.5  \\ \end{bmatrix}$
 It means that the network isn't really sure of what he is doing.
 
 As you can see here, a layer can be represented as a matrix. This will be very convenient to do computations later on.
+
+---
 
 ### The network
 
@@ -94,9 +98,48 @@ The main line of the precedent call is
 
 You can initialize your biases the same way or you can go as far as initializing them as 0 and let the network learn by itself (which I did).
 
+---
+
 ### Feedforward
 
-#### matrices
+So what really happens when our network "gives an answer" ? 
+
+
+<span class="leftimg"><span class="smallimg">
+![[tikz32.png]]
+</span></span>
+
+The value of a neuron in an inner layer is the sum of all the values of the neurons in the precedent layer times each weight. 
+
+The neurons are $\{a_1,...,a_n\}$ and the associated weights are $\{w_1,...,w_n\}$ then the value of a neuron is $w_1a_1 + ... + w_na_n$. 
+
+But wait I said that the value of a neurons was between 0 and 1 and this could be a big sum ! 
+
+To fix this we use the sigmoid function ($\sigma$)  that brings big values close to 1 and negative values close to 0, it is smooth for small values.
+
+
+$$
+\sigma(z) = \frac{1}{1 + e^{-z}}
+$$
+
+
+```functionplot
+---
+title: Sigmoid function
+bounds: [-5, 5, -0.2, 1.2]
+disableZoom: false
+grid: true
+---
+f(x) = 1/(1 + E^(-x))
+```
+
+So we apply this function to our sum and we get a value between 0 and 1 !
+
+We could do this manually for every neurons but we will save a lot of time by doing operations on matrices.
+
+#### Matrices
+
+---
 
 ### SGD
 
