@@ -315,9 +315,25 @@ The cancelling polynomial can be a great tool to find the inverse of a square ma
 > \end{aligned}
 > $$
 
-#wip how to find a cancelling polynomial
-
 ### Characteristic polynomial 
+
+>[!abstract] Definition
+> Let $A \in \mathcal{M}_n(\mathbb{K})$. The characteristic polynomial of $A$, denoted $P_A$, is the polynomial from $\mathbb{K}[X]$ defined by $P_A(X) = \text{det}(A - XI_n)$
+
+>[!example]-
+>The characteristic polynomial of $A = \begin{pmatrix} 0 & 1 \\ 3 & -2 \end{pmatrix}$  is
+>$$
+>P_A(X) = \begin{vmatrix} -X & 1 \\ 3 & -2-X \end{vmatrix} = X(2+X) -3
+>$$
+>Hence :
+>$$
+>P_A(X) = X^2 + 2X -3 = (X - 1)(X + 3)
+>$$
+
+Proposition :
+
+- $P_A(0) = \det{A}$
+- $P_A = P_{A^T}$
 
 ### Diagonalizable matrices
 
