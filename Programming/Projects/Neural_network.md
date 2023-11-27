@@ -83,22 +83,12 @@ But wait I said that the value of a neurons was between 0 and 1 and this could b
 To fix this we use the sigmoid function ($\sigma$)  that brings big values close to 1 and negative values close to 0, it is smooth for small values.
 
 
+<span class="desktop"><span class="rightimg"><span class="mediumimg">![[1200px-Logistic-curve.svg.png]]</span></span></span><span class="mobile">![[1200px-Logistic-curve.svg.png]]</span>
+
 $$
 \sigma(z) = \frac{1}{1 + e^{-z}}
 $$
 
-<span class="desktop">
-
-```functionplot
----
-title: Sigmoid function
-bounds: [-5, 5, -0.2, 1.2]
-disableZoom: false
-grid: true
----
-f(x) = 1/(1 + E^(-x))
-```
-</span>
 
 So we apply this function to our sum and we get a value between 0 and 1 !
 
