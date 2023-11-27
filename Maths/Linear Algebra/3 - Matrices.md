@@ -330,10 +330,17 @@ The cancelling polynomial can be a great tool to find the inverse of a square ma
 >P_A(X) = X^2 + 2X -3 = (X - 1)(X + 3)
 >$$
 
+
 Proposition :
 
 - $P_A(0) = \det{A}$
 - $P_A = P_{A^T}$
+
+
+>[!danger] theorem
+>Let $A \in \mathcal{M}_n(\mathbb{K})$. A scalar $\lambda \in \mathbb{K}$ is an eigen value of A if and only if $P_A(\lambda) = 0$
+
+⬆ This means that the roots of the characteristic polynomial are eigen values of $A$.
 
 ### Diagonalizable matrices
 
