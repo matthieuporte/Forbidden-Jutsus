@@ -114,6 +114,11 @@ $$
 
 ### Change of basis
 
+>[!info]- Graphical interpretation
+>A vector represented by two different bases (green and blue arrows).
+>
+>![[122px-3d_two_bases_same_vector.svg.png]]
+
 Let $E$ and $F$ two vector spaces.
 Let $\mathcal{B}_1$ and $\mathcal{B}_1'$ two basis of $E$ with $P$ the transition matrix.
 Let $\mathcal{B}_2$ and $\mathcal{B}_2'$ two basis of $F$ with $Q$ the transition matrix.
@@ -228,10 +233,11 @@ a_{22} & a_{23} \\ a_{32} & a_{33} \\ \end{vmatrix}
 
 
 >[!info]- Graphical interpretation
->![[220px-Area_parallellogram_as_determinant.svg.jpg]]
+>
+![[220px-Area_parallellogram_as_determinant.svg.png]]
 >The area of the parallelogram is the absolute value of the determinant of the matrix formed by the vectors representing the parallelogram's sides.
 >
->![[Determinant_parallelepiped.svg.jpg]]
+>![[Determinant_parallelepiped.svg.png]]
 >The volume of this parallelepiped is the absolute value of the determinant of the matrix formed by the columns constructed from the vectors r1, r2, and r3.
 
 #### Tips
