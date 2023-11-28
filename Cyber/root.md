@@ -12,6 +12,14 @@ Start here :
 - OverTheWire -> ([https://overthewire.org/wargames/](https://overthewire.org/wargames/))
 
 
+### Vulnerabilities databases
+
+
+[ExploitDB](https://www.exploit-db.com/)
+[NVD](https://nvd.nist.gov/vuln/search)
+[CVE](https://www.cve.org/)
+
+CVE means **C**ommon **V**ulnerabilities and **E**xposures
 
 
 ### Domains of cybersecurity

@@ -184,6 +184,20 @@ A' = QAP^{-1}$$
 
 The determinant is a scalar associated with a matrix
 
+>[!abstract]- Formal definition
+>Let
+>> $A = (a_{i,j})1≤i,j≤n \in \mathcal{M}_n$
+>
+>The determinant of matrix $A$ is :
+>
+>>det($A$) $= \sum^n_{i=1}(-1)^{i+j}a_{i,j}\lambda_{i,j}$
+>
+if we develop in regard to the jth column; and 
+>
+>>det($A$) $= \sum^n_{j=1}(-1)^{i+j}a_{i,j}\lambda_{i,j}$
+>
+>if we develop in regard to the ith column
+
 The determinant of the matrix $A = \begin{pmatrix} a_{1,1} & a_{1,2} \\ a_{2,1} & a_{2,2} \end{pmatrix} \in \mathcal{M}_2(\mathbb{K})$, denoted $det(A)$ is the scalar defined by :
 
 $$ det(A) = \begin{vmatrix}  
@@ -211,21 +225,6 @@ a_{22} & a_{23} \\ a_{32} & a_{33} \\ \end{vmatrix}
 > >$det(A) = det(A^T)$
 >
 > $A^T$  is the transpose of the matrix $A$
-
-#### Determinant of a squared matrix A of order N
-
-Soit
-> $A = (a_{i,j})1≤i,j≤n \in \mathcal{M}_n$
-
-The determinant of matrix $A$ is :
-
->det($A$) $= \sum^n_{i=1}(-1)^{i+j}a_{i,j}\lambda_{i,j}$
-
-if we develop in regard to the jth column; and 
-
->det($A$) $= \sum^n_{j=1}(-1)^{i+j}a_{i,j}\lambda_{i,j}$
-
-if we develop in regard to the ith column
 
 
 >[!info]- Graphical interpretation
@@ -357,6 +356,12 @@ Proposition :
 >Let $A \in \mathcal{M}_n(\mathbb{K})$. A scalar $\lambda \in \mathbb{K}$ is an eigen value of A if and only if $P_A(\lambda) = 0$
 
 ⬆ This means that the roots of the characteristic polynomial are eigen values of $A$.
+
+>[!danger] Cayley-Hamilton Theorem
+>Let $A \in \mathcal{M}_n(\mathbb{K})$ and $P_A \in \mathbb{K}_p[X]$ the characteristic polynomial of $A$.
+>Then $P(A) = 0_{\mathcal{M}_n(\mathbb{K})}$
+
+⬆ This means a characteristic polynomial is a cancelling polynomial too $A$.
 
 ### Diagonalizable matrices
 
