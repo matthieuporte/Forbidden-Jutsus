@@ -376,7 +376,7 @@ Proposition :
 
 >[!danger] Cayley-Hamilton Theorem
 >Let $A \in \mathcal{M}_n(\mathbb{K})$ and $P_A \in \mathbb{K}_p[X]$ the characteristic polynomial of $A$.
->Then $P(A) = 0_{\mathcal{M}_n(\mathbb{K})}$
+>Then $P_A(A) = 0_{\mathcal{M}_n(\mathbb{K})}$
 
 ⬆ This means a characteristic polynomial is a cancelling polynomial too $A$.
 
