@@ -35,14 +35,19 @@
 
 ---
 
-### Product of matrices
+### Matrix multiplication
 
 >[!danger] 
->L**[CL]**C number of **column** on the **left** must **equal** the number of **row** on the **right**
+><span class="leftimg desktop">![[Matrix_multiplication_qtl1.svg.png]]</span><span class ="mobile">![[Matrix_multiplication_qtl1.svg.png]]</span>
+>The number of **columns in the first matrix** must be **equal** to the number of **rows in the second matrix**. The **result matrix has** the number of **rows of the first** and the number of **columns of the second** matrix.
 
 
 
-- Matrix multiplication #WIP 
+
+
+>[!info]- Illustration
+><span class="leftimg desktop">![[Matrix_multiplication_diagram_2.svg.png]]</span><span class ="mobile">![[Matrix_multiplication_diagram_2.svg.png]]</span>
+>The figure to the left illustrates diagrammatically the product of two matrices **A** and **B**, showing how each intersection in the product matrix corresponds to a row of **A** and a column of **B**.
 
 ---
 
@@ -379,6 +384,11 @@ Proposition :
 ### Diagonalizable matrices
 
 >[!abstract] Definition
+>Let $A \in \mathcal{M}_n(\mathbb{K})$. We say that $A$ is diagonalizable if there exists an invertible matrix $P$ in $GL_n(\mathbb{K})$ and a diagonal matrix $D$  in $\mathcal{M}_n(\mathbb{K})$ such that :
+>$$
+>A = P^{-1}DP
+>$$
+>In other words $A$ has to be similar to a diagonal matrix.
 
 ### Applications
 
