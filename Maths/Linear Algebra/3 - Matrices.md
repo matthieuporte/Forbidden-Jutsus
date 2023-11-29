@@ -46,7 +46,7 @@
 
 
 >[!info]- Illustration
-><span class="leftimg desktop">![[Matrix_multiplication_diagram_2.svg.png]]</span><span class ="mobile">![[Matrix_multiplication_diagram_2.svg.png]]</span>
+><span class="rightimg desktop">![[Matrix_multiplication_diagram_2.svg.png]]</span><span class ="mobile">![[Matrix_multiplication_diagram_2.svg.png]]</span>
 >The figure to the left illustrates diagrammatically the product of two matrices **A** and **B**, showing how each intersection in the product matrix corresponds to a row of **A** and a column of **B**.
 
 ---

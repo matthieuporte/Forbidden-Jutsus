@@ -94,6 +94,8 @@ So we apply this function to our sum and we get a value between 0 and 1 !
 
 We could do this manually for every neurons but we will save a lot of time by doing operations on matrices.
 
+<span class="desktop"><br><br><br></span>
+
 #### Matrices
 
 >[!tip]
