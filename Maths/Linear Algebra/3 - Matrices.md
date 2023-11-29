@@ -258,7 +258,7 @@ $$A = \begin{pmatrix} 2 & 4 & 2 \\ 0 & 2 & 3 \\ 0 & 0 & 3  \end{pmatrix}, det(A)
 6) Multipliying a row/col by $\lambda$ multiplies the det by $\lambda$ 
 
 
-
+Q
 
 ---
 
