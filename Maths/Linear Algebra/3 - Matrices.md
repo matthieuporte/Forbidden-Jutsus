@@ -23,6 +23,13 @@
 >>
 >>It is denoted $rank(A)$
 
+>[!abstract]- Matrix similarity
+>>In linear algebra, two $n \times n$ matrices $A$ and $B$ are called similar if there exists an invertible $n \times n$ matrix $P$ such that :
+>>$$
+>>B = P^{-1}AP
+>>$$
+
+
 
 <br>
 
@@ -370,6 +377,8 @@ Proposition :
 ⬆ This means a characteristic polynomial is a cancelling polynomial too $A$.
 
 ### Diagonalizable matrices
+
+>[!abstract] Definition
 
 ### Applications
 

@@ -12,7 +12,7 @@ Quantum Physics : rules and relations describing the physics of object at a suba
 >$c$ = speed of light in free space ($m \cdot s^{-1}$)
 
 
-![[Images/ElectromagSpectrum.jpeg]]
+![[ElectromagSpectrum.jpeg]]
 
 ##### Definitions
  - radiation : oscillating electromagnetic field
