@@ -171,10 +171,7 @@ free(host);
 
 ---
 
-### Server side (One Connection at a Time)
 
----
-
-### Server side (Multiple Connections)
+### Server side 
 
 ---
