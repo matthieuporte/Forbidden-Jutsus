@@ -4,11 +4,17 @@
 hashcat -m1100 "15a57c279ebdfea574ad1ff91eb6ef0c:Administrator" rockyou.txt
 ```
 
+DCC2 : $DCC2$10240#Administrator#23d97555681813db79b2ade4b4a6ff25
+
 ### MT
 
 online tools : [rainbowtables.it64.com/](http://rainbowtables.it64.com/)
 
 ### NT
+
+```shell
+hashcat -m 1000 "b4f79698831d92b61f886438e36c0c52" rockyou.txt -O
+```
 
 ### Md5
 
@@ -38,3 +44,7 @@ It is very used by the HTTP protocol.
 ### Base64
 
 A string that looks like this `ZnJhbms6ZmllZGxlcg==` has great odds to be in base64, notice the `==` at the end.
+
+### Chiffre de Vigenere 
+
+#todo
