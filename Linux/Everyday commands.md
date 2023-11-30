@@ -21,13 +21,27 @@ done
 ### Untar
 
 ```shell
-tar -xvf given-files.tar
+tar -xvaf given-files.tar.gz
 ```
+
+`-x` is for **extract**
+`-v` is for **verbose**
+`-a` is for **auto-compress**
+`-f` is for **file**
 
 ### Get processes
 
 ```shell
 pgrep [executable-name]
 # then
-kill [executable-id]
+kill [executable-pid]
 ```
+
+or 
+
+```shell
+ps -aux #to see all process
+ps #to see your processes
+```
+
+or `htop` (ez)
