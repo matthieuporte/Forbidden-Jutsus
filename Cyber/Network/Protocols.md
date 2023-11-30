@@ -25,3 +25,9 @@ In the TCP/IP protocol, TTL can mean Time To Live and it specifies the maximum t
 ### Get legal info about a domain
 
 The website [whois.com](https://www.whois.com/whois) lets you access legal information about a server.
+
+
+### DNS
+
+ch11.challenge01.root-me.org:54011
+a.root-servers.net
