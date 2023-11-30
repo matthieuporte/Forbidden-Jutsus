@@ -23,3 +23,11 @@ done
 ```shell
 tar -xvf given-files.tar
 ```
+
+### Get processes
+
+```shell
+pgrep [executable-name]
+# then
+kill [executable-id]
+```
