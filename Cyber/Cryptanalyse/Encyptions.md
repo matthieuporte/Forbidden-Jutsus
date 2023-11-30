@@ -1,4 +1,14 @@
+### DCC
 
+```shell
+hashcat -m1100 "15a57c279ebdfea574ad1ff91eb6ef0c:Administrator" rockyou.txt
+```
+
+### MT
+
+online tools : [rainbowtables.it64.com/](http://rainbowtables.it64.com/)
+
+### NT
 
 ### Md5
 
