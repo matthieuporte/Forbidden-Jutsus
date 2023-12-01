@@ -13,6 +13,11 @@ nmcli device wifi list
 nmcli device wifi connect "$SSID" password "$PASSWORD"
 ```
 
+Restart network manager
+```shell
+sudo systemctl restart NetworkManager
+```
+
 ## Bluetooth
 
 ```shell
