@@ -14,7 +14,7 @@ sudo systemctl restart NetworkManager
 Check profiles in :
 
 ```shell
-cat /etc/netctl/your-prof
+cat /etc/netctl/your-profile
 ```
 
 #### nmcli

@@ -31,3 +31,5 @@ The website [whois.com](https://www.whois.com/whois) lets you access legal infor
 
 ch11.challenge01.root-me.org:54011
 a.root-servers.net
+
+### LDAP
