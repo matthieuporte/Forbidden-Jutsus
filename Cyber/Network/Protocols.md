@@ -33,3 +33,5 @@ ch11.challenge01.root-me.org:54011
 a.root-servers.net
 
 ### LDAP
+
+https://www.n00py.io/2020/02/exploiting-ldap-server-null-bind/

@@ -98,3 +98,5 @@ I can guide you through the process in theory, but please remember that attempti
    The captured handshake will be saved in the file specified (e.g., `output.cap`). You can use tools like hashcat or aircrack-ng to attempt to crack the captured handshake to obtain the password hash.
 
 Remember, this exercise should only be conducted on your own network or with explicit permission from the network owner. Unauthorized access to networks is illegal and unethical.
+
+https://www.aircrack-ng.org/doku.php?id=cracking_wpa
