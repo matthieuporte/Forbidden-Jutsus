@@ -1,6 +1,22 @@
 
 ## Internet
 
+Troubleshooting commands
+
+```shell
+ip link
+sudo systemctl start NetworkManager
+sudo systemctl enable NetworkManager
+nmcli general status
+sudo systemctl restart NetworkManager
+```
+
+Check profiles in :
+
+```shell
+cat /etc/netctl/your-prof
+```
+
 #### nmcli
 
 *List networks*
@@ -13,10 +29,9 @@ nmcli device wifi list
 nmcli device wifi connect "$SSID" password "$PASSWORD"
 ```
 
-Restart network manager
-```shell
-sudo systemctl restart NetworkManager
-```
+
+
+
 
 ## Bluetooth
 
