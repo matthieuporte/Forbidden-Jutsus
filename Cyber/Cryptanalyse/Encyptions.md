@@ -28,10 +28,11 @@ echo -n "Password1" | md5sum | tr -d " -"
 Here's how to brute force it using hashcat :
 
 ```shell
-hashcat -m 0 -a 3 hashes rockyou.txt -O
+hashcat -m 0 -a 3 hashes "?l?l?l?l" -O
 ```
 
-`-m` is to specify the hash function, `hashes`is the hash file containing the hash password we need to decipher and `rockyou.txt` is the password dictionnary.
+`-m` is to specify the hash function, `hashes`is the hash file containing the hash password we need to decipher and "?l?l?l?l" is the pattern we're trying to match (here it's four letters).
+Alternatively you can use a dictionary instead of a pattern such as `rockyou.txt`.
 
 ### Uuencoding
 
