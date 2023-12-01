@@ -19,7 +19,10 @@ This is enough if you only want to read the content. Then use the obsidian git p
 3) setup github token (not recommended)
 
 #### Push through ssh
-1) ssh
+1) `ssh-keygen -t ed25519 -C "your_email@example.com"`
+2) Ask me to add you public key on github
+
+Note : with this method you will only be able to push on termux but it's way safer than using a github token
 
 
 ### Obsidian tricks
