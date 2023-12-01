@@ -185,11 +185,18 @@ int main() {
 
 ---
 
+### File descriptors
+
+The standard file descriptors in C are :
+
+`stdin` : 0
+`stdout` : 1
+`stderr` : 2
+
+---
+
 ### TODO
 
-STDIN
-STDOUT
-STDERR
 
 read
 write
