@@ -31,7 +31,7 @@ Then we can try starting it again. (be careful the name is likely to have change
 
 Now you want to get the mac address of the network you're trying to attack.
 
-To do so you can run `airdump-ng <your-interface>`.
+To do so you can run `airodump-ng <your-interface>`.
 
 Find your network's BSSID (the MAC address of your Wi-Fi access point) and channel from the list.
 
