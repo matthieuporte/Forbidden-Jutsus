@@ -35,3 +35,13 @@ https://www.n00py.io/2020/02/exploiting-ldap-server-null-bind/
 ### POP
 
 [RFC1939](https://repository.root-me.org/RFC/EN%20-%20rfc1939.txt)
+
+Bruteforce 
+
+<1755.1.5f403625.BcWGgpKzUPRC8vscWn0wuA==@vps-7e2f5a72>
+
+followed by a secret. 
+
+The expected hash is :
+
+4ddd4137b84ff2db7291b568289717f0
