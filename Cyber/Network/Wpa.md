@@ -47,6 +47,14 @@ airodump-ng -w psk --bssid <your_BSSID> -c <your_channel> <your_wireless_interfa
 `-w psk` will give us `.psk` files as output.
 `your channel` is if you know the channel of the network, if not specified airodump will try different channels continuously.
 
+You can get the channel of the AP with :
+```
+aireplay-ng -0 1 -a <network-address> -c <device-address> <your-interface>
+```
+
+⬆ This will in fact try to disconnect someone from the network. You will get the channel of the network and possibly a handshake this way
+
+
 The output will look like this :
 
 ```plaintext
