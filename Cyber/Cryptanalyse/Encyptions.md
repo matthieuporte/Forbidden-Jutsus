@@ -34,6 +34,9 @@ hashcat -m 0 -a 3 hashes "?l?l?l?l" -O
 `-m` is to specify the hash function, `hashes`is the hash file containing the hash password we need to decipher and "?l?l?l?l" is the pattern we're trying to match (here it's four letters).
 Alternatively you can use a dictionary instead of a pattern such as `rockyou.txt`.
 
+>[!tip] Online cracking
+>Some website do just this and try many weak password. A good one is [gromweb.com](https://md5.gromweb.com/)
+
 ### Uuencoding
 
 Uuencoding, short for Unix-to-Unix encoding, is a method of encoding binary data so that it can be transmitted over text-based protocols.

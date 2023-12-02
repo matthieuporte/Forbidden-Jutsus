@@ -36,6 +36,8 @@ https://www.n00py.io/2020/02/exploiting-ldap-server-null-bind/
 
 [RFC1939](https://repository.root-me.org/RFC/EN%20-%20rfc1939.txt)
 
+Filter in wireshark with : tcp.port== 110
+
 Bruteforce 
 
 <1755.1.5f403625.BcWGgpKzUPRC8vscWn0wuA==@vps-7e2f5a72>
