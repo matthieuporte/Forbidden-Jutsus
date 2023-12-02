@@ -4,8 +4,8 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
+    ":warning:",
     ":arrow_down:",
-    ":arrow_up:",
-    ":warning:"
+    ":arrow_up:"
   ]
 }
