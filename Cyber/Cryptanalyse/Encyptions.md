@@ -53,3 +53,7 @@ A string that looks like this `ZnJhbms6ZmllZGxlcg==` has great odds to be in bas
 
 #todo
 
+### Sha-2
+
+Some websites lets you bruteforce SHA-2 password such as :  
+
