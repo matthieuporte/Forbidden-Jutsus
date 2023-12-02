@@ -34,16 +34,29 @@ https://www.n00py.io/2020/02/exploiting-ldap-server-null-bind/
 
 ### POP
 
-[RFC1939](https://repository.root-me.org/RFC/EN%20-%20rfc1939.txt)
+[RFC1939](https://www.rfc-editor.org/rfc/rfc1939.txt)
+
+POP is a protocol to connect to a mail server, to do so you must pass an username and a password. It is not recommended to send your password as plain text though. Another method is to send it with APOP.
+
+APOP does the same thing but with a md5 encryption.
 
 Filter in wireshark with : tcp.port== 110
 
-Bruteforce 
+look for this server/client interaction : 
 
-<1755.1.5f403625.BcWGgpKzUPRC8vscWn0wuA==@vps-7e2f5a72>
+```
+S: +OK POP3 server ready <1896.697170952@dbc.mtview.ca.us>
+C: APOP mrose c4c9334bac560ecc979e58001b3e22fb
+```
 
-followed by a secret. 
+In this example, the shared  secret  is  the  string  `tanstaaf`.
+Hence, the MD5 algorithm is applied to the string
 
-The expected hash is :
+> `<1896.697170952@dbc.mtview.ca.us>tanstaaf`
 
-4ddd4137b84ff2db7291b568289717f0
+which produces a digest value of
+
+> `c4c9334bac560ecc979e58001b3e22fb`
+
+
+c.f. APOP : [RFC1939 page15](https://www.rfc-editor.org/rfc/rfc1939.html#page-15)
