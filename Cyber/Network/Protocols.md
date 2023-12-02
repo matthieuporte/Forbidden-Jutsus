@@ -35,3 +35,7 @@ a.root-servers.net
 ### LDAP
 
 https://www.n00py.io/2020/02/exploiting-ldap-server-null-bind/
+
+### POP
+
+[RFC1939](https://repository.root-me.org/RFC/EN%20-%20rfc1939.txt)
