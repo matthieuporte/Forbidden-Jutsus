@@ -25,8 +25,17 @@ The website [whois.com](https://www.whois.com/whois) lets you access legal infor
 
 ### DNS
 
-ch11.challenge01.root-me.org:54011
-a.root-servers.net
+`dig google.com` resolves the IP address of `google.com`. To save from the bloat you can add  `+short` at this end.
+
+detailed information on answers section : 
+`dig google.com +noall +answer`
+
+`dig challenge01.root-me.org` -> `212.129.38.224`
+
+
+Questions :
+
+pk `dig google.com` != `dig -p 53 @1.1.1.1 google.com`
 
 ### LDAP
 
