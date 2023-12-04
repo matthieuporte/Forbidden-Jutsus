@@ -1,3 +1,7 @@
+### What is my Hash ?
+
+If you don't know what is the hash you're looking at you can use `hash-identifier` to find out.
+
 ### DCC
 
 ```shell
