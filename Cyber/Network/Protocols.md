@@ -26,7 +26,7 @@ The website [whois.com](https://www.whois.com/whois) lets you access legal infor
 
 ### LDAP
 
-https://www.n00py.io/2020/02/exploiting-ldap-server-null-bind/
+http://www-sop.inria.fr/members/Laurent.Mirtain/ldap-livre.html
 
 ### POP
 
