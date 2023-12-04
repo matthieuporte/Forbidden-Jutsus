@@ -136,24 +136,23 @@ Let $\mathcal{B}_1$ and $\mathcal{B}_1'$ two basis of $E$ with $P$ the transitio
 Let $\mathcal{B}_2$ and $\mathcal{B}_2'$ two basis of $F$ with $Q$ the transition matrix.
 For $f \in \mathcal{L}(E,F)$, $A = \text{Mat}_{ \mathcal{B}_1, \mathcal{B}_1'}(f)$ and $A' = \text{Mat}_{ \mathcal{B}_2, \mathcal{B}_2'}(f)$. Then: 
 
->[!info]- Demonstration
+>[!info] Demonstration
 > $$
 > \begin{flalign}
-> & \space\space\qquad PX = X' \\ &
-> \space\space\qquad QY = Y' \\ &
+> & \space\space\qquad PX' = X \\ &
+> \space\space\qquad QY' = Y \\ &
 > \space\space\qquad AX = Y \\ &
 > \space\space\qquad A'X' = Y' \\ &
-> \implies Y = Q^{-1}Y' \\ &
-> \implies AX = Q^{-1}Y' \\ &
-> \implies QAX = Y' \\ &
-> \implies QAX = A'X' \\ &
-> \implies QAP^{-1}X' = A'X' \\ &
-> \implies QAP^{-1} = A' &
+> \implies AX = QY' \\ &
+> \implies Q^{-1}AX = Y' \\ &
+> \implies Q^{-1}AX = A'X' \\ &
+> \implies Q^{-1}APX' = A'X' \\ &
+> \implies Q^{-1}AP = A' &
 > \end{flalign}
 > $$
 
 $$
-A' = QAP^{-1}$$
+A' = Q^{-1}AP$$
 
 <br>
 
