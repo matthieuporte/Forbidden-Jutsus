@@ -136,7 +136,7 @@ Let $\mathcal{B}_1$ and $\mathcal{B}_1'$ two basis of $E$ with $P$ the transitio
 Let $\mathcal{B}_2$ and $\mathcal{B}_2'$ two basis of $F$ with $Q$ the transition matrix.
 For $f \in \mathcal{L}(E,F)$, $A = \text{Mat}_{ \mathcal{B}_1, \mathcal{B}_1'}(f)$ and $A' = \text{Mat}_{ \mathcal{B}_2, \mathcal{B}_2'}(f)$. Then: 
 
->[!info] Demonstration
+>[!info]- Demonstration
 > $$
 > \begin{flalign}
 > & \space\space\qquad PX' = X \\ &
