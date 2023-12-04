@@ -26,6 +26,8 @@ The website [whois.com](https://www.whois.com/whois) lets you access legal infor
 
 ### LDAP
 
+LDAP stands for Lightweight Directory Access Protocol.
+
 http://www-sop.inria.fr/members/Laurent.Mirtain/ldap-livre.html
 
 ### POP
