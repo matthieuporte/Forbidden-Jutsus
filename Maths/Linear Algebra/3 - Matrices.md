@@ -408,6 +408,47 @@ $$1 \leq \text{dim}(E_{\lambda}) \leq m(\lambda) $$
 4) Determine the span of the eigen sub-spaces.
 5) Deduce $P$ and $D$.
 
+>[!example]
+>Let
+> $$
+> A = \begin{pmatrix} -1 & -2 & -2 \\ -3 & -1 & -3 \\ 3 & 2 & 4  \end{pmatrix}
+> $$
+>  #### 1) Find the characteristic polynomial : 
+> >remember the operations to compute the determinant
+> $$
+> \begin{flalign}
+> & P_A(X) = \begin{vmatrix} -1-X & -2 & -2 \\ -3 & -1-X & -3 \\ 3 & 2 & 4-X  \end{vmatrix} \\
+> & \qquad\quad = \begin{vmatrix} -1-X & -2 & 0 \\ -3 & -1-X & -2+X \\ 3 & 2 & 2-X  \end{vmatrix} \\
+> & \qquad\quad = \begin{vmatrix} -1-X & -2 & 0 \\ 0 & -1-X & 0 \\ 3 & 2 & 2-X  \end{vmatrix} \\
+> & \qquad\quad = (2-X)\begin{vmatrix} -1-X & -2  \\ 0 & -1-X \end{vmatrix} \\
+> & \qquad\quad = (2-X)(-1-X)(1-X) &
+> \end{flalign}
+> $$
+> #### 2) Find the eigen values (aka the roots).
+> $$
+> S_p(A) = \{2,-1,1\}
+> $$
+> > It's time to check that the matrix is actually diagonalizable.
+> $$
+> \begin{flalign}
+> & \qquad m(2) = m(1) = m(-1) = 1 \\
+> & \implies \text{A is diagonalisable} &
+> \end{flalign}
+> $$
+> #### 3) Determine the span of the eigen sub-spaces.
+>  $$
+> \begin{flalign}
+> & E_1  = \text{Ker}(f - id) \\
+> & E_{-1}  = \text{Ker}(f + id) \\
+> & E_2  = \text{Ker}(f - 2id) &
+> \end{flalign}
+> $$
+> > #todo solve the systems and find the span.
+> #### 4) Deduce $P$ and $D$.
+> The column vectors of $P$ are the spanning vectors of the eigen sub-spaces.
+> The Diagonal of $D$ is made out of the eigen values. The rest is 0.
+> Be careful ! The order of the eigen values must be the same between $P$ and $D$.
+
 #### Computation of the power of a square matrix
 
 #### Solving a system of recurrent sequences
