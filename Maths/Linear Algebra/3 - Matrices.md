@@ -390,9 +390,23 @@ Proposition :
 
 In fact the column vectors of the matrix $P$ are eigen vectors of $A$.
 
-#todo mimos diagonalizable 
+<u>A matrix $A$ is diagonalizable in $\mathbb{R}$ if and only if :</u>
+- $P_A$ is split (all roots are in $\mathbb{R}$)
+- For all eigen values in $\lambda$, dim($E_{\lambda}$) = m($\lambda$)
+
+m($\lambda$) is the multiplicity of the root $\lambda$ in the characteristic polynomial.
+
+Furthermore : 
+$$1 \leq \text{dim}(E_{\lambda}) \leq m(\lambda) $$
 
 ### Applications
+
+#### Find $P$ and $D$ if diagonalizable
+
+1) Find the characteristic polynomial.
+2) Find the eigen values (aka the roots).
+4) Determine the span of the eigen sub-spaces.
+5) Deduce $P$ and $D$.
 
 #### Computation of the power of a square matrix
 
