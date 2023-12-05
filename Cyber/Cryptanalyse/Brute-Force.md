@@ -39,3 +39,26 @@ The command above will try one password after another in the `3digits.txt` fil
 ### Hashcat
 
 > Brute-Force locally
+
+
+### CeWL
+
+CeWL (pronounced "cool") is a custom word list generator tool that spiders websites to create word lists based on the site's content.
+
+```shell
+cewl http://10.10.6.68 -w output.txt
+```
+
+Creates a password file `output.txt` for the website `http://10.10.6.68`
+
+`-d 2` let's you define the depth of the search. (2) in this example
+
+`-m 5 -x 10` sets the minimum password length to 5 and max to 10
+
+The `--with-numbers` option will append numbers to words, and using `--extension` allows you to append custom extensions to each word, making it useful for directory or file brute-forcing.
+
+If the target site is behind a login, you can use the `-a` flag for form-based authentication.
+
+By default, CeWL doesn't spider external sites, but using the `--offsite` option allows you to do so.
+
+### Wfuzz
