@@ -14,6 +14,8 @@ The command above specifies the following:
 - `0123456789ABCDEF` is the character set to use to generate the passwords
 - `-o 3digits.txt` saves the output to the `3digits.txt` file
 
+---
+
 ### Hydra
 
 > Brute-force attacks on protocols and services.
@@ -36,10 +38,13 @@ The command above will try one password after another in the `3digits.txt` fil
     - `Access denied` indicates that invalid passwords will lead to a page that contains the text “Access denied”
 - `-s 8000` indicates the port number on the target
 
+---
+
 ### Hashcat
 
 > Brute-Force locally
 
+---
 
 ### CeWL
 
@@ -60,6 +65,8 @@ The `--with-numbers` option will append numbers to words, and using `--extens
 If the target site is behind a login, you can use the `-a` flag for form-based authentication.
 
 By default, CeWL doesn't spider external sites, but using the `--offsite` option allows you to do so.
+
+---
 
 ### Wfuzz
 
