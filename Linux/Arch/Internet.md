@@ -39,6 +39,9 @@ nmcli connection up IONIS --ask
 Type your Bocal password when prompted, you should then be connected to the network. The configuration is now saved and can be opened quickly in other programs such as `nmtui`.
 
 ##### Manual configuration
+Create a profile in 
+`/etc/netctl`
+
 ```
 Description='EPITA IONIS profile'
 Interface=wlp2s0
