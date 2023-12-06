@@ -14,9 +14,10 @@
 - [ ] Rofi and Polybar
 - [ ] User Management
 - [ ] change screen luminosity
-- [ ] coherent color theme across the computer
 - [ ] change keyboard luminosity
+- [ ] obsidian
 - [ ] easy way to update system
 - [ ] meteo
 - [ ] day and night theme
-- [ ] obsidian
+- [ ] coherent color theme across the computer
+- [ ] catputcin/nord and liquid pro
