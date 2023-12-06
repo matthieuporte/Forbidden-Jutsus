@@ -30,6 +30,15 @@ nmcli device wifi connect "$SSID" password "$PASSWORD"
 
 ### Connect to IONIS wifi : 
 
+##### With `nmcli`
+```shell
+nmcli connection add type wifi con-name "IONIS" ssid "IONIS" wifi-sec.key-mgmt wpa-eap 802-1x.eap peap 802-1x.phase2-auth mschapv2 802-1x.identity "name.surname@epita.fr"
+
+nmcli connection up IONIS --ask
+```
+Type your Bocal password when prompted, you should then be connected to the network. The configuration is now saved and can be opened quickly in other programs such as `nmtui`.
+
+##### Manual configuration
 ```
 Description='EPITA IONIS profile'
 Interface=wlp2s0

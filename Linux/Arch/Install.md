@@ -11,7 +11,7 @@
 - [ ] A tiling window manager
 - [ ] A Bluetooth manager
 - [ ] David bouchet's 68k emulator
-- [ ] Rofi and Polybar
+- [ ] Rofi/Sirula and Polybar
 - [ ] User Management
 - [ ] change screen luminosity
 - [ ] change keyboard luminosity
