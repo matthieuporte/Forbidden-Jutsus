@@ -408,7 +408,7 @@ $$1 \leq \text{dim}(E_{\lambda}) \leq m(\lambda) $$
 4) Determine the span of the eigen sub-spaces.
 5) Deduce $P$ and $D$.
 
->[!example]
+>[!example]-
 >Let
 > $$
 > A = \begin{pmatrix} -1 & -2 & -2 \\ -3 & -1 & -3 \\ 3 & 2 & 4  \end{pmatrix}
