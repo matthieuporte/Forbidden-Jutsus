@@ -20,4 +20,4 @@
 - [ ] meteo
 - [ ] day and night theme
 - [ ] coherent color theme across the computer
-- [ ] catputcin/nord and liquid pro
+- [ ] catputcin/nord and liquid prompt
