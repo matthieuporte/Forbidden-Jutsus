@@ -6,6 +6,12 @@ use `-b` to get the size in bytes
 du -sh Forbidden-Jutsus/
 ```
 
+### Nb of files in dir
+
+```shell
+ls -1 | wc -l
+```
+
 ### Download files from server
 
 ```shell
