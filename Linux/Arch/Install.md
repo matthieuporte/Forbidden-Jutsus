@@ -25,3 +25,6 @@
 
 - [ ] Mount point /boot is world accessible !
 - [ ] boot upgrade
+
+
+once on your fresh install, run `systemctl enable NetworkManager` to use internet.
