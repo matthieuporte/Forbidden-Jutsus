@@ -1,4 +1,10 @@
 
+### Get info about cpu
+
+```shell
+lscpu
+```
+
 ### Size of folder of disk
 
 use `-b` to get the size in bytes
