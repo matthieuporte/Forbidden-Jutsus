@@ -21,3 +21,7 @@
 - [ ] day and night theme
 - [ ] coherent color theme across the computer
 - [ ] catputcin/nord and liquid prompt
+
+
+- [ ] Mount point /boot is world accessible !
+- [ ] boot upgrade
