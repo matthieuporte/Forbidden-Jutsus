@@ -19,7 +19,7 @@
 | char | %c |
 | string | %s |
 | unsigned long | %lu |
-| long | %l |
+| long | %ld |
 | int | %d |
 | unsigned int | %u |
 | hexa | %x (%X for caps) |

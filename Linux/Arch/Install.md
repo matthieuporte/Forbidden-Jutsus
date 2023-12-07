@@ -28,3 +28,8 @@
 
 
 once on your fresh install, run `systemctl enable NetworkManager` to use internet.
+
+restart display-manager with 
+```shell
+sudo systemctl restart display-manager
+```
