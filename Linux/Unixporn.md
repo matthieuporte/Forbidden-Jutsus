@@ -32,3 +32,12 @@ input "1:1:AT_Translated_Set_2_keyboard" xkb_model "pc101"
 ### NeoVim
 
 [awesome plugins](https://github.com/rockerBOO/awesome-neovim)
+
+#### vimrc
+```
+```
+
+### Gtk theme
+
+
+### Nice programs
