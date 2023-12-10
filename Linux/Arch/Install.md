@@ -9,17 +9,17 @@
 - [x] A file manager
 - [x] Audio controller
 - [x] A tiling window manager
-- [ ] A Bluetooth manager
+- [x] A Bluetooth manager
 - [ ] David bouchet's 68k emulator
 - [x] Rofi/Sirula and Polybar
-- [ ] User Management
-- [ ] change screen luminosity
+- [x] User Management
+- [x] change screen luminosity
 - [ ] change keyboard luminosity
 - [x] obsidian
-- [ ] easy way to update system
+- [x] easy way to update system
 - [ ] meteo
-- [ ] day and night theme
-- [ ] coherent color theme across the computer
+- [x] day and night theme
+- [x] coherent color theme across the computer
 - [x] catputcin/nord and liquid prompt
 
 
