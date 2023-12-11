@@ -25,7 +25,7 @@
 
 - [ ] Mount point /boot is world accessible !
 - [ ] boot upgrade
-- [ ] gdm config
+- [x] gdm config
 
 
 once on your fresh install, run `systemctl enable NetworkManager` to use internet.
