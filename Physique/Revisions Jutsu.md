@@ -1,4 +1,7 @@
 
+
+## TD 2
+
 The energy of an electron on the $n^{th}$ layer of the atom is denoted $E_n$.
 
 $$E_n = \frac{\text{constant}}{n^2}$$
@@ -35,3 +38,26 @@ $$\Delta E = \frac{hc}{\lambda} = E_{\text{after}} - E_{\text{before}}$$
 ### De broglie
 
 $$\lambda = \frac{h}{mv}$$
+
+$$\Delta p = m\Delta v$$
+
+$$\Delta x \Delta p \geq \frac{h}{4\pi} \iff \Delta x \geq \frac{h}{4\pi m\Delta v}$$
+
+---
+
+## TD 3
+
+$$H \unicode{0x03a8} = E \unicode{0x03a8}$$
+
+### Hamiltonian operator
+
+$$H = - \frac{h}{4\pi m}\Delta + V$$
+
+### Laplace Operator
+
+$$\Delta = \frac{d^2}{dx^2}$$
+
+
+### Probability Function
+
+$$P = \int^b_a |\unicode{0x03a8}(x)|^2 dx$$

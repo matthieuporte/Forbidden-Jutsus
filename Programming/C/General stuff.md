@@ -176,8 +176,8 @@ True random doesn't exist, if you use the `rand()` function in c by itself it wi
 int main() {
 	//sets the random seed with the current time
 	srand((unsigned int)time(NULL));
-	//print a random number
-	printf("%d\n",rand());
+	//print a random number between 0 and 100 (excluded)
+	printf("%d\n",rand()%100); 
 	
     return 0;
 }
