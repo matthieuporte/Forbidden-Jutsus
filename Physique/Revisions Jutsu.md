@@ -16,7 +16,7 @@ $$mv = \frac{nh}{2\pi r_n}$$
 
 $$F = ma$$
 
-$$F = \frac{e²}{r_n^2}$$
+<!--$$F = \frac{e²}{r_n^2}$$ -->
 
 $$a = \frac{v^2}{r_n}$$ 
 
@@ -26,7 +26,7 @@ $$\frac{e^2}{r_n} = mv^2$$
 
 ### Cinetic energy
 
-$$E_c = \frac{1}{2}mv^2$$
+<!--$$E_c = \frac{1}{2}mv^2$$-->
 $$E = E_c + E_p$$
 $$E = \frac{1}{2}mv^2 + k\frac{q\times(-q)}{r_n}$$
 
@@ -39,7 +39,9 @@ $$\Delta E = \frac{hc}{\lambda} = E_{\text{after}} - E_{\text{before}}$$
 
 $$\lambda = \frac{h}{mv}$$
 
-$$\Delta p = m\Delta v$$
+### Heisenberg
+
+<!--$$\Delta p = m\Delta v$$-->
 
 $$\Delta x \Delta p \geq \frac{h}{4\pi} \iff \Delta x \geq \frac{h}{4\pi m\Delta v}$$
 
