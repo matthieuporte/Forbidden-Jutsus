@@ -11,12 +11,25 @@
 - [x] A tiling window manager
 - [ ] A Bluetooth manager
 - [ ] David bouchet's 68k emulator
-- [ ] Rofi and Polybar
-- [ ] User Management
-- [ ] change screen luminosity
-- [ ] coherent color theme across the computer
+- [x] Rofi/Sirula and Polybar
+- [x] User Management
+- [x] change screen luminosity
 - [ ] change keyboard luminosity
-- [ ] easy way to update system
-- [ ] meteo
-- [ ] day and night theme
 - [x] obsidian
+- [x] easy way to update system
+- [ ] meteo
+- [x] day and night theme
+- [x] coherent color theme across the computer
+- [x] catputcin/nord and liquid prompt
+- [ ] Mount point /boot is world accessible !
+- [ ] boot upgrade
+- [x] gdm config
+
+
+once on your fresh install, run `systemctl enable NetworkManager` to use internet.
+
+restart display-manager with 
+```shell
+sudo systemctl restart display-manager
+```
+

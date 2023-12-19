@@ -1,9 +1,21 @@
 
+### Get info about cpu
+
+```shell
+lscpu
+```
+
 ### Size of folder of disk
 
 use `-b` to get the size in bytes
 ```shell
 du -sh Forbidden-Jutsus/
+```
+
+### Nb of files in dir
+
+```shell
+ls -1 | wc -l
 ```
 
 ### Download files from server
