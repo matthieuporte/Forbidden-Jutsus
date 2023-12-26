@@ -18,6 +18,8 @@ set device as active in pavucontrol
 
 ## Printing
 
+The following commads are part of the `cups` package.
+
 #### Show printing queue
 
 ```bash
