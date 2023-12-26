@@ -19,6 +19,10 @@ set device as active in pavucontrol
 ## Printing
 
 The following commads are part of the `cups` package.
+You will need to enable and start it with systemctl for it to work.
+
+Good troubleshooting tutorial for hp printers [here](https://unix.stackexchange.com/questions/359531/installing-hp-printer-driver-for-arch-linux)
+
 
 #### Show printing queue
 
