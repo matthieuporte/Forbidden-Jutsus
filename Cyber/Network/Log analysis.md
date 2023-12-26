@@ -9,6 +9,10 @@ Useful commands for getting precise information in a text file :
 - `wc`
 - `nl`
 - `cut`
+- `grep`
+- `sort`
+- `uniq`
+- `base64`
 
 ### Example :
 ```shell
@@ -27,4 +31,4 @@ The command :
 cut -d ' ' -f1,3,6 access.log | head -n 1
 ```
 
-show only the first line with only the 1st, 3rd and 6th element
+show only the first line with only the 1st, 3rd and 6th element.
